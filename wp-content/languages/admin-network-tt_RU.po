@@ -1,0 +1,526 @@
+# Translation of WordPress - 4.7.x - Administration - Network Admin in Tatar
+# This file is distributed under the same license as the WordPress - 4.7.x - Administration - Network Admin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-17 07:24:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tt_RU\n"
+"Project-Id-Version: WordPress - 4.7.x - Administration - Network Admin\n"
+
+#: wp-admin/network/index.php:51 wp-admin/network/site-info.php:31
+#: wp-admin/network/site-new.php:30 wp-admin/network/site-settings.php:30
+#: wp-admin/network/site-themes.php:30 wp-admin/network/site-users.php:33
+#: wp-admin/network/sites.php:43 wp-admin/network/user-new.php:27
+#: wp-admin/network/users.php:180
+msgid "<a href=\"https://wordpress.org/support/forum/multisite/\">Support Forums</a>"
+msgstr "<a href=\"https://wordpress.org/support/forum/multisite/\">Ярдәм форумы</a>"
+
+#: wp-admin/network/site-info.php:194
+msgid "Attributes"
+msgstr "Атрибутлар"
+
+#. translators: %s: File size in kilobytes
+#: wp-admin/network/settings.php:312
+msgid "%s KB"
+msgstr "%s КБ"
+
+#. translators: %s: Default network name
+#: wp-admin/includes/network.php:151
+msgid "%s Sites"
+msgstr "%s сайтлары"
+
+#. translators: %s: theme name
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:476
+msgctxt "theme"
+msgid "Delete %s"
+msgstr "%s ны бетерү"
+
+#: wp-admin/network/themes.php:90
+msgid "Sorry, you are not allowed to delete themes for this site."
+msgstr "Кызганыч, сез бу сайтның бизәлешләрен бетерә алмыйсыз."
+
+#: wp-admin/network/themes.php:14
+msgid "Sorry, you are not allowed to manage network themes."
+msgstr "Кызганыч, сез челтәр бизәлешләре белән идарә итә алмыйсыз."
+
+#: wp-admin/network/sites.php:245
+msgid "Sorry, you are not allowed to delete that site."
+msgstr "Кызганыч, сезгә бу сайтны бетерү рөхсәт түгел."
+
+#: wp-admin/network/site-themes.php:14
+msgid "Sorry, you are not allowed to manage themes for this site."
+msgstr "Кызганыч, сезнең бу сайттагы бизәлешләр белән идарә итү хакыгыз юк."
+
+#: wp-admin/network/site-new.php:17
+msgid "Sorry, you are not allowed to add sites to this network."
+msgstr "Кызнаныч, сезнең челтәргә сайтлар өстәү хакыгыз юк."
+
+#: wp-admin/network/site-info.php:14 wp-admin/network/site-settings.php:14
+#: wp-admin/network/site-users.php:14
+msgid "Sorry, you are not allowed to edit this site."
+msgstr "Кызганыч, сезнең бу сайтны төзәтергә хакыгыз юк."
+
+#: wp-admin/network/settings.php:270
+msgid "The email address of the first comment author on a new site."
+msgstr "Яңа сайттагы беренче комментарий авторының емайлы."
+
+#: wp-admin/network/settings.php:266
+msgid "First Comment Email"
+msgstr "Беренче комментарий емайлы"
+
+#. translators: This string should only be translated if wp-config-sample.php
+#. is localized. You can check the localized release package or
+#. https://i18n.svn.wordpress.org/<locale code>/branches/<wp
+#. version>/dist/wp-config-sample.php
+#: wp-admin/includes/network.php:427
+msgid "That&#8217;s all, stop editing! Happy blogging."
+msgstr "Булды, төзәтүдән туктагыз! Блог язуыгыз бәхет китерә торган булсын."
+
+#. translators: 1: wp-config.php 2: location of wp-config file, 3: translated
+#. version of "That's all, stop editing! Happy blogging."
+#: wp-admin/includes/network.php:419
+msgid "Add the following to your %1$s file in %2$s <strong>above</strong> the line reading %3$s:"
+msgstr "Түбәндәгене %2$s савытындагы %1$s файлыгызга %3$s дигән юл <strong>өстенә</strong> өстәгез:"
+
+#. translators: 1: theme name, 2: theme author
+#: wp-admin/network/themes.php:138
+msgctxt "theme"
+msgid "%1$s by %2$s"
+msgstr "%2$s ясаган %1$s"
+
+#. translators: %s: edit page url
+#: wp-admin/network/user-new.php:80
+msgid "User added. <a href=\"%s\">Edit user</a>"
+msgstr "Кулланучы өстәлде. <a href=\"%s\">Кулланучыны үзгәртү</a>"
+
+#: wp-admin/network/site-new.php:205
+msgid "Only lowercase letters (a-z), numbers, and hyphens are allowed."
+msgstr "Кечкенә латин хәрефләре (a-z), саннар һәм сызык кына рөхсәт."
+
+#: wp-admin/network/site-new.php:155
+msgctxt "email \"From\" field"
+msgid "Site Admin"
+msgstr "Сайт идарәчесе"
+
+#. translators: 1: wp-config.php
+#: wp-admin/includes/network.php:470
+msgid "These unique authentication keys are also missing from your %s file."
+msgstr "Бу кабатланмас танылу ачкычлары сезнең %s файлында да юк."
+
+#. translators: 1: wp-config.php
+#: wp-admin/includes/network.php:464
+msgid "This unique authentication key is also missing from your %s file."
+msgstr "Бу кабатланмас танылу ачкычы сезнең %s файлында да юк."
+
+#. translators: 1: wp-config.php
+#: wp-admin/includes/network.php:408
+msgid "We recommend you back up your existing %s file."
+msgstr "Без сезгә %s файлыгызның резерв копиясен ясарга киңәш итәбез."
+
+#. translators: 1: wp-config.php 2: .htaccess
+#. translators: 1: wp-config.php 2: web.config
+#: wp-admin/includes/network.php:392 wp-admin/includes/network.php:400
+msgid "We recommend you back up your existing %1$s and %2$s files."
+msgstr "Без сезгә %1$s һәм %2$s файлларыгызның резерв копиясен ясарга киңәш итәбез. "
+
+#. translators: 1: localhost 2: localhost.localdomain
+#: wp-admin/includes/network.php:264
+msgid "Because you are using %1$s, the sites in your WordPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains."
+msgstr "Сез %1$s кулланганга, WordPress челтәрегездәге сайтлар эчке савытларда урнашырга тиеш. Эчке доменнарда урнаштыру өчен %2$s ны куллану турында уйлагыз."
+
+#. translators: %s: host name
+#: wp-admin/includes/network.php:248 wp-admin/includes/network.php:297
+msgid "The internet address of your network will be %s."
+msgstr "Сезнең сайтлар челтәрегезнең адресы %s булыр."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:231
+#: wp-admin/network/site-info.php:177
+msgctxt "site"
+msgid "Registered"
+msgstr "теркәлгән"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:230
+#: wp-admin/network/site-info.php:181
+msgid "Last Updated"
+msgstr "соңгы үзгәреш"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:41
+#: wp-admin/network/site-info.php:187
+msgid "Archived"
+msgstr "саклатылган"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:42
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:537
+#: wp-admin/network/site-info.php:188
+msgctxt "site"
+msgid "Spam"
+msgstr "спам"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:43
+#: wp-admin/network/site-info.php:189
+msgid "Deleted"
+msgstr "бетерелгән"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:44
+#: wp-admin/network/site-info.php:191
+msgid "Mature"
+msgstr "олы"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:203
+msgctxt "site"
+msgid "Mark as Spam"
+msgstr "Спам итеп тамгалау"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:204
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:535
+msgctxt "site"
+msgid "Not Spam"
+msgstr "спам түгел"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:529
+msgid "Unarchive"
+msgstr "архивтан чыгару"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:531
+msgctxt "verb; site"
+msgid "Archive"
+msgstr "архивлау"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:360
+msgid "Never"
+msgstr "бер кайчан да түгел"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:333
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:425
+msgid "Enable"
+msgstr "кабызу"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:247
+msgid "Theme"
+msgstr "бизәлеш"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:113
+msgctxt "user"
+msgid "Mark as Spam"
+msgstr "Спам итеп тамгалау"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:114
+msgctxt "user"
+msgid "Not Spam"
+msgstr "спам түгел"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:171
+msgctxt "user"
+msgid "Registered"
+msgstr "теркәлгән"
+
+#: wp-admin/network/sites.php:65
+msgid "You are about to delete the site %s."
+msgstr "син %s дәфтәрен бетермәкче"
+
+#: wp-admin/network/sites.php:64
+msgid "You are about to mark the site %s as spam."
+msgstr "син %s дәфтәрен спам итеп тамгаламакчы"
+
+#: wp-admin/network/sites.php:63
+msgid "You are about to unspam the site %s."
+msgstr "син %s дәфтәрен спам исемлегеннән чыгармакчы"
+
+#: wp-admin/network/sites.php:62
+msgid "You are about to archive the site %s."
+msgstr "син %s дәфтәрен архивламакчы"
+
+#: wp-admin/network/sites.php:61
+msgid "You are about to unarchive the site %s."
+msgstr "син %s дәфтәрен архивтан чыгармакчы"
+
+#: wp-admin/network/site-users.php:300 wp-admin/network/user-new.php:129
+msgid "Add User"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/network.php:71
+msgid "Network"
+msgstr "Сеть"
+
+#: wp-admin/network.php:29
+msgid "The Network creation panel is not for WordPress MU networks."
+msgstr "Панель создания сети не предназначена для сетей WordPress MU."
+
+#: wp-admin/network.php:55
+msgid "Create a Network of WordPress Sites"
+msgstr "Создать сеть сайтов на WordPress"
+
+#: wp-admin/includes/network.php:113
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr "Пожалуйста, <a href=\"%s\">деактивируйте плагины</a>, перед тем как создавать сеть."
+
+#: wp-admin/includes/network.php:113
+msgid "Once the network is created, you may reactivate your plugins."
+msgstr "После создания сети можно активировать плагины снова."
+
+#: wp-admin/includes/network.php:122
+msgid "You cannot install a network of sites with your server address."
+msgstr "Невозможно установить сеть с таким адресом сервера."
+
+#: wp-admin/includes/network.php:180 wp-admin/includes/network.php:229
+#: wp-admin/includes/network.php:270 wp-admin/includes/network.php:280
+msgid "Warning!"
+msgstr "Сак бул!"
+
+#: wp-admin/includes/network.php:160
+msgid "Welcome to the Network installation process!"
+msgstr "Добро пожаловать в программу установки сети!"
+
+#: wp-admin/includes/network.php:201
+msgid "Addresses of Sites in your Network"
+msgstr "Адреса сайтов вашей сети"
+
+#: wp-admin/includes/network.php:204
+msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
+msgstr "Если вы хотите использовать функциональность поддоменов, потребуется маска в записях DNS."
+
+#. translators: 1: hostname
+#: wp-admin/includes/network.php:211
+msgctxt "subdomain examples"
+msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
+msgstr "пример: <code>site1.%1$s</code> и <code>site2.%1$s</code>"
+
+#: wp-admin/includes/network.php:216
+msgid "Sub-directories"
+msgstr "Подкаталоги"
+
+#. translators: 1: hostname
+#: wp-admin/includes/network.php:219
+msgctxt "subdirectory examples"
+msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
+msgstr "пример: <code>%1$s/site1</code> и <code>%1$s/site2</code>"
+
+#: wp-admin/includes/network.php:256
+msgid "Network Details"
+msgstr "Параметры сети"
+
+#: wp-admin/includes/network.php:260 wp-admin/includes/network.php:275
+msgid "Sub-directory Install"
+msgstr "Режим подкаталогов"
+
+#: wp-admin/includes/network.php:270 wp-admin/includes/network.php:280
+#: wp-admin/includes/network.php:287
+msgid "The main site in a sub-directory install will need to use a modified permalink structure, potentially breaking existing links."
+msgstr "В режиме подкаталогов потребуется изменить структуру ссылок на основном сайте, при этом есть вероятность нарушения работоспособности текущих ссылок."
+
+#: wp-admin/includes/network.php:277
+msgid "Because your install is in a directory, the sites in your WordPress network must use sub-directories."
+msgstr "Поскольку ваш сайт установлен в каталог, сайты вашей сети должны использовать подкаталоги."
+
+#: wp-admin/includes/network.php:285
+msgid "Sub-domain Install"
+msgstr "Режим поддоменов"
+
+#: wp-admin/includes/network.php:286
+msgid "Because your install is not new, the sites in your WordPress network must use sub-domains."
+msgstr "Поскольку ваш сайт существует уже давно, сайты вашей сети должны использовать поддомены."
+
+#: wp-admin/includes/network.php:368
+msgid "The original configuration steps are shown here for reference."
+msgstr "Исходные шаги установки приведены в справочных целях."
+
+#: wp-admin/includes/network.php:373
+msgid "An existing WordPress network was detected."
+msgstr "Обнаружена существующая сеть WordPress."
+
+#: wp-admin/includes/network.php:385
+msgid "Enabling the Network"
+msgstr "Установка сети"
+
+#: wp-admin/includes/network.php:386
+msgid "Complete the following steps to enable the features for creating a network of sites."
+msgstr "Выполните следующие шаги, чтобы активировать возможности создания сети."
+
+#: wp-admin/includes/network.php:475
+msgid "To make your installation more secure, you should also add:"
+msgstr "Чтобы повысить безопасность вашей сети, стоит также добавить:"
+
+#: wp-admin/network/users.php:70
+msgid "Warning! User cannot be modified. The user %s is a network administrator."
+msgstr "Сак бул! User cannot be modified. The user %s is a network administrator."
+
+#: wp-admin/network/sites.php:30
+msgid "Hovering over each site reveals seven options (three for the primary site):"
+msgstr "При наведении курсора на каждый сайт отображаются семь вариантов (три для основного сайта):"
+
+#: wp-admin/network/sites.php:36
+msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
+msgstr "ID сайта используется внутри системы, он не виден пользователям и посетителям снаружи."
+
+#: wp-admin/network/site-new.php:24
+msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
+msgstr "Если e-mail администратора не существует в базе, будет также создан новый пользователь."
+
+#: wp-admin/network/settings.php:29
+msgid "Operational settings has fields for the network&#8217;s name and admin email."
+msgstr "К оперативным настройкам относятся название сети и e-mail администратора."
+
+#: wp-admin/network/users.php:171
+msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
+msgstr "На страницу профиля также можно перейти, нажав на имя пользователя."
+
+#: wp-admin/network/settings.php:34
+msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
+msgstr "Настройки меню разрешают/запрещают отображение меню плагинов для пользователей, не являющихся суперадминистраторами, чтобы только суперадминистраторы имели возможность активировать плагины."
+
+#: wp-admin/network/upgrade.php:23
+msgid "If a version update to core has not happened, clicking this button won&#8217;t affect anything."
+msgstr "Если ядро WordPress не обновлялось, нажатие этой кнопки ни на что не повлияет."
+
+#: wp-admin/network/upgrade.php:24
+msgid "If this process fails for any reason, users logging in to their sites will force the same update."
+msgstr "Если этот процесс по какой-либо причине прервётся, пользователи запустят то же самое обновление при входе на свои сайты."
+
+#: wp-admin/network/users.php:169
+msgid "This table shows all users across the network and the sites to which they are assigned."
+msgstr "В этой таблице показаны все пользователи сети, а также закреплённые за ними сайты."
+
+#: wp-admin/network/users.php:174
+msgid "You can make an existing user an additional super admin by going to the Edit User profile page and checking the box to grant that privilege."
+msgstr "Можно назначить существующего пользователя дополнительным суперадминистратором, если перейти на страницу редактирования его профиля и поставить соответствующую галочку."
+
+#: wp-admin/network/upgrade.php:111
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "синең интернет актаргычың киләсе битне үзе ачмаса бу күчкегә чирт:"
+
+#: wp-admin/network/sites.php:257
+msgid "Site deactivated."
+msgstr "дәфтәр сүндерелде !"
+
+#: wp-admin/network/users.php:200
+msgid "Users marked as spam."
+msgstr "кулланучылар спам итеп тамгаланды  !"
+
+#: wp-admin/network/users.php:206
+msgid "Users deleted."
+msgstr "кулланучылар бетерелде !"
+
+#: wp-admin/network/site-new.php:115
+msgid "There was an error creating the user."
+msgstr "кулланучы ясаганда хата чыкты"
+
+#: wp-admin/network/settings.php:297
+msgid "Upload file types"
+msgstr "китерергә рөхсәт ителгән файл төрләре"
+
+#: wp-admin/network/settings.php:289
+msgid "Limit total size of files uploaded to %s MB"
+msgstr "Ограничить суммарный размер загруженных файлов %s МБ"
+
+#: wp-admin/network/settings.php:232
+msgid "The first post on a new site."
+msgstr "яңа дәфтәрдә беренче язымта"
+
+#: wp-admin/network/settings.php:261
+msgid "The author of the first comment on a new site."
+msgstr "Автор первого комментария на новом сайте."
+
+#: wp-admin/network/settings.php:279
+msgid "The URL for the first comment on a new site."
+msgstr "Адрес первого комментария на новом сайте."
+
+#: wp-admin/network/upgrade.php:67
+msgid "All done!"
+msgstr "Барчасы эшләнде!"
+
+#: wp-admin/network/settings.php:133
+msgid "Registration is disabled."
+msgstr "теркәлү тыелды."
+
+#: wp-admin/network/settings.php:134
+msgid "User accounts may be registered."
+msgstr "Кулланучы гына теркәтелә ала."
+
+#: wp-admin/network/settings.php:135
+msgid "Logged in users may register new sites."
+msgstr "Кергән кулланучылар гына яңа дәфтәр ясый ала."
+
+#: wp-admin/network/settings.php:136
+msgid "Both sites and user accounts can be registered."
+msgstr "Кабызылган. Дәфтәр һәм кулланучы теркәтелә ала."
+
+#: wp-admin/network/site-new.php:80
+msgid "Missing email address."
+msgstr "хат савыты адресы юк."
+
+#. translators: %s: network name
+#: wp-admin/network/site-new.php:140
+msgid "[%s] New Site Created"
+msgstr "[%s] яңа дәфтәр төзелде"
+
+#: wp-admin/includes/network.php:313 wp-admin/network/settings.php:112
+msgid "Network Admin Email"
+msgstr "сайт хуҗасы хат савыты"
+
+#: wp-admin/network/settings.php:157
+msgid "Send the network admin an email notification every time someone registers a site or user account."
+msgstr "Сайт хуҗасына кулланучы йә дәфтәр теркәлгән саен емайл аша хәбәр җибәрелсен."
+
+#: wp-admin/network/settings.php:212
+msgid "The welcome email sent to new site owners."
+msgstr "яңа блог хуҗаларына җибәрелгән \"Рәхим итегез\" дигән хат"
+
+#: wp-admin/network/sites.php:107
+msgid "Confirm"
+msgstr "раслау"
+
+#: wp-admin/network/site-users.php:255
+msgid "Duplicated username or email address."
+msgstr "исем йә хат савыты кабатлана."
+
+#: wp-admin/network/settings.php:124
+msgid "Allow new registrations"
+msgstr "яңа теркәлүләрне рөхсәт итү"
+
+#: wp-admin/network/settings.php:151
+msgid "Registration notification"
+msgstr "Теркәлү турында хәбәр"
+
+#: wp-admin/network/settings.php:162
+msgid "Add New Users"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/network/settings.php:169
+msgid "Banned Names"
+msgstr "Тыелган исемнәр"
+
+#: wp-admin/network/settings.php:179
+msgid "Limited Email Registrations"
+msgstr "Кайбер хат савытлары белән генә теркәлү"
+
+#: wp-admin/network/settings.php:192
+msgid "Banned Email Domains"
+msgstr "Тыелган емайл доменнары"
+
+#: wp-admin/network/settings.php:207
+msgid "Welcome Email"
+msgstr "Рәхим итегез дию хаты"
+
+#: wp-admin/network/settings.php:307
+msgid "Max upload file size"
+msgstr "Рөхсәт ителгән файл зурлыгы чиге"
+
+#: wp-admin/network/settings.php:331
+msgid "Default Language"
+msgstr "Әйтмәгәндәге тел"
+
+#: wp-admin/network/site-new.php:243
+msgid "Admin Email"
+msgstr "хуҗа хат савыты адресы"
+
+#: wp-admin/network/site-new.php:247
+msgid "A new user will be created if the above email address is not in the database."
+msgstr "өстәге электрон почта адресы мәгълүмат җыентысында булмаса яңа кулланучы барлыкка китерелер"
+
+#: wp-admin/network/site-new.php:247
+msgid "The username and password will be mailed to this email address."
+msgstr "исем белән сер сүз бу электрон хат савытына җибәрелер"

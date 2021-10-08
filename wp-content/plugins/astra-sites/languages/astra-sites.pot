@@ -1,0 +1,1828 @@
+# Copyright (C) 2021 Brainstorm Force
+# This file is distributed under the same license as the Starter Templates package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Starter Templates 2.7.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/astra-sites\n"
+"POT-Creation-Date: 2021-10-07 08:49:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+#. translators: %s product name
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+#. translators: %s usage doc link
+msgid " Know More."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+#. translators: %s Product title
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Starter Templates"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:110
+msgid ""
+"Get unlimited access to all premium Starter Templates and more, at a single "
+"low cost!"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:111
+msgid "Get Essential Bundle"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:167
+#. translators: %1$s white label plugin name and %2$s deactivation link
+msgid ""
+"Hello! Seems like you have used Starter Templates to build this website "
+"&mdash; Thanks a ton!"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:168
+msgid ""
+"Could you please do us a BIG favor and give it a 5-star rating on "
+"WordPress? This would boost our motivation and help other users make a "
+"comfortable decision while choosing the Starter Templates."
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:170
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:172
+msgid "Nope, maybe later"
+msgstr ""
+
+#: classes/class-astra-sites-admin.php:173
+msgid "I already did"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:161
+msgid "Import Status"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:212
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:425
+msgid "Invalid site ID."
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:229
+msgid "Site import process is complete."
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:234
+msgid "Site import is in process."
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:268
+#: inc/classes/class-astra-sites-page.php:408
+msgid "Preparing Site Import"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:278
+msgid "Site import started."
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:328
+#: inc/classes/class-astra-sites-page.php:411
+msgid "Installing Required Plugins"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:345
+#: inc/classes/class-astra-sites-page.php:414
+msgid "Importing Contact Forms"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:358
+#: inc/classes/class-astra-sites-page.php:417
+msgid "Setting up the Theme"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:368
+#: inc/classes/class-astra-sites-page.php:420
+msgid "Importing Media, Posts, and Pages"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:379
+#: inc/classes/class-astra-sites-page.php:423
+msgid "Importing Site Options"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:388
+#: inc/classes/class-astra-sites-page.php:426
+msgid "Importing Sidebar and Widgets"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:408
+#: inc/classes/class-astra-sites-page.php:429
+msgid "Import Complete"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:495
+msgid "Invalid plugin slug"
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:535
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/classes/batch-import/class-astra-sites-batch-site-import.php:539
+#. translators: %s plugin name.
+msgid "Successfully installed \"%s\" plugin!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:96
+msgid "Required File Permissions to import the templates are missing."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:98
+msgid "This is usually due to inconsistent file permissions."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:101
+msgid ""
+"You can easily update permissions by adding the following code into the "
+"wp-config.php file."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:269
+msgid "Enabled"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:272
+msgid "Disabled"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:357
+#: inc/classes/class-astra-sites-importer-log.php:416
+msgid "Yes"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:360
+#: inc/classes/class-astra-sites-importer-log.php:419
+msgid "No"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:434
+msgid "You currently have no scheduled cron events."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:162
+#: inc/classes/class-astra-sites-importer.php:298
+#: inc/classes/class-astra-sites-importer.php:342
+#: inc/classes/class-astra-sites-importer.php:414
+#: inc/classes/class-astra-sites-importer.php:460
+#: inc/classes/class-astra-sites-importer.php:502
+#: inc/classes/class-astra-sites-importer.php:662
+#: inc/classes/class-astra-sites-importer.php:690
+#: inc/classes/class-astra-sites-importer.php:724
+#: inc/classes/class-astra-sites-importer.php:788
+#: inc/classes/class-astra-sites-importer.php:831
+#: inc/classes/class-astra-sites-importer.php:869
+#: inc/classes/class-astra-sites.php:415 inc/classes/class-astra-sites.php:632
+#: inc/classes/class-astra-sites.php:736 inc/classes/class-astra-sites.php:808
+#: inc/classes/class-astra-sites.php:1002
+#: inc/classes/class-astra-sites.php:1021
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:324
+msgid "Customizer data is empty!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:346
+msgid ""
+"If XMLReader is not available, it imports all other settings and only skips "
+"XML import. This creates an incomplete website. We should bail early and "
+"not import anything if this is not present."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:379
+msgid "There was an error downloading the XML file."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:393
+msgid "Invalid site XML file!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:438
+msgid "Site options are empty!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer.php:483
+msgid "Widget data is empty!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:135
+#. translators: %1$s is the admin page URL, %2$s is product name.
+msgid ""
+"Thank you for choosing %1$s! Check the library of <a "
+"class=\"astra-sites-getting-started-btn\" href=\"%2$s\">ready starter "
+"templates here »</a>"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:356
+msgid "Settings saved successfully."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:395
+msgid "Importing Starter Template..."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:400
+msgid "The demo you are importing seems invalid. The site is not found."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:402
+msgid "The demo you are importing is a premium demo."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:402
+#: inc/classes/class-astra-sites.php:1455
+#: inc/classes/class-astra-sites.php:1723 inc/includes/templates.php:302
+msgid "Get Access!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:404
+msgid ""
+"The import process can take a few minutes depending on the size of the site "
+"and speed of the connection."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:435
+msgid "Site Imported Successfully!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:436
+msgid "Visit Site"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:485
+msgid "Getting Started"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:491
+msgid "Select Page Builder"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:492
+msgid ""
+"We offer starter templates that can be imported in one click. These sites "
+"are available in the following page builders. Please choose your preferred "
+"page builder from the list below."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:552
+msgid "My Favorite"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:557 inc/includes/templates.php:130
+msgid "Sync Library"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:646
+#: inc/classes/class-astra-sites-page.php:648
+#: inc/classes/class-astra-sites-page.php:660
+#: inc/classes/class-astra-sites.php:1216 inc/includes/templates.php:28
+#: inc/includes/templates.php:35
+msgid "All"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:665 inc/includes/templates.php:29
+msgid "Free"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:670 inc/includes/admin-page.php:244
+#: inc/includes/admin-page.php:333 inc/includes/admin-page.php:394
+#: inc/includes/templates.php:30 inc/includes/templates.php:181
+#: inc/includes/templates.php:308 inc/includes/templates.php:394
+msgid "Premium"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:678 inc/includes/templates.php:44
+msgid "Search..."
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:752
+msgid "Gutenberg"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:754
+msgid "The default WordPress editor"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:758
+msgid "Elementor"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:763
+msgid "Beaver Builder"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:768
+msgid "Brizy"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:866
+#. translators: 1: The number of years in an interval of time.
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:868
+#. translators: 1: The number of months in an interval of time.
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:870
+#. translators: 1: The number of weeks in an interval of time.
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:872
+#. translators: 1: The number of days in an interval of time.
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:874
+#. translators: 1: The number of hours in an interval of time.
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:876
+#. translators: 1: The number of minutes in an interval of time.
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:878
+#. translators: 1: The number of seconds in an interval of time.
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-astra-sites-page.php:882
+msgid "now"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:936
+msgid ""
+"ERROR! Cron schedules are disabled by setting constant DISABLE_WP_CRON to "
+"true.<br/>To start the import process please enable the cron by setting the "
+"constant to false. E.g. define( 'DISABLE_WP_CRON', false );"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:940
+msgid ""
+"ERROR! Cron schedules are disabled by setting constant ALTERNATE_WP_CRON to "
+"true.<br/>To start the import process please enable the cron by setting the "
+"constant to false. E.g. define( 'ALTERNATE_WP_CRON', false );"
+msgstr ""
+
+#: inc/classes/class-astra-sites-page.php:976
+#. translators: 1: The HTTP response code.
+msgid "Unexpected HTTP response code: %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites-white-label.php:223
+#. translators: %1$s product name
+msgid "%1$s Branding"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:120
+msgid "No sites found! Try another query."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:155
+msgid "Are you sure you want to import the site?"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:161
+#: inc/classes/class-astra-sites-wp-cli.php:422
+msgid "Invalid Site ID,"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:171
+#. Translators: %s is the error message.
+msgid "Site Import failed due to error: %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:183
+msgid "This is Premium site. Please activate the \"Starter Templates\" license!"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:184
+msgid ""
+"Use `wp plugin deactivate astra-sites` and then `wp plugin activate "
+"astra-pro-sites`"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:188
+#. translators: %s is the activate plugin license link.
+msgid ""
+"Use CLI command `wp brainstormforce license activate astra-pro-sites "
+"{YOUR_LICENSE_KEY}`"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:201
+msgid "Installing Plugins.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:216
+msgid "Activating Plugins.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:268
+msgid "Importing Site Options.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:276
+msgid "Importing Widgets.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:286
+#. translators: %s is the site URL.
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:321
+msgid "Invalid XML URL."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:326
+#. translators: %s is the XML file URL.
+msgid "Downloading %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:330
+msgid "Importing WXR.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:334
+#. translators: %s is error message.
+msgid "WXR file Download Failed. Error %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:361
+msgid "Are you sure you want to delete imported site data?"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:369
+msgid "Reseting Posts.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:376
+msgid "Reseting Terms.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:383
+msgid "Resting WP Forms..."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:427
+msgid "Importing customizer settings.."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:476
+msgid "Please add valid parameter."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:493
+#. translators: %s is the current page builder name.
+msgid "Default page builder is \"%s\"."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:501
+#. translators: %s is the page builder name.
+msgid "\"%s\" is set as default page builder."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:504
+msgid ""
+"Invalid page builder slug. \n"
+"Check all page builder slugs with command `wp astra-sites page_builder list`"
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:507
+msgid ""
+"Invalid parameter! \n"
+"Please use `list` or `set` parameter."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:561
+msgid ""
+"This page builder plugin is not installed. Please try a different page "
+"builder."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:570
+msgid "This site type does not exist. Please try a different site type."
+msgstr ""
+
+#: inc/classes/class-astra-sites-wp-cli.php:579
+msgid "This site category does not exist. Please try a different site category."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:244
+msgid "See Quick Links"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:249
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:255
+msgid "Support & Docs"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:260
+msgid "Join Facebook Group"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:421
+msgid "Invalid API URL"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:433
+msgid "Invalid Post Meta"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:440
+msgid "Invalid Post ID or Elementor Meta"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:462
+msgid "Provided API URL is empty! Please try again!"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:479
+#. translators: %s Error Message
+msgid "API Request could not be performed - %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:484
+#. translators: %s Error Message
+msgid "API Request has failed - %s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:513
+msgid "Internal Server Error."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:519
+#. translators: %s IP address.
+msgid "Client IP: %1$s </br> Error code: %2$s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:816
+msgid "Need to send URL of the image to be downloaded"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:841
+msgid "Could not download the image."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1029
+msgid "Theme Activated"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1075
+msgid "User does not have permission!"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1152
+msgid "See Library"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1217
+msgid "Animals"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1218
+msgid "Architecture/Buildings"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1219
+msgid "Backgrounds/Textures"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1220
+msgid "Beauty/Fashion"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1221
+msgid "Business/Finance"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1222
+msgid "Computer/Communication"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1223
+msgid "Education"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1224
+msgid "Emotions"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1225
+msgid "Food/Drink"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1226
+msgid "Health/Medical"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1227
+msgid "Industry/Craft"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1228
+msgid "Music"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1229
+msgid "Nature/Landscapes"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1230
+msgid "People"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1231
+msgid "Places/Monuments"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1232
+msgid "Religion"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1233
+msgid "Science/Technology"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1234
+msgid "Sports"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1235
+msgid "Transportation/Traffic"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1236
+msgid "Travel/Vacation"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1239
+msgid "Popular"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1240
+msgid "Latest"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1241
+msgid "Upcoming"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1242
+msgid "Editor's Choice"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1245
+msgid "Any Orientation"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1246
+msgid "Vertical"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1247
+msgid "Horizontal"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1249
+msgid "Free Images"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1250
+msgid "Search - Ex: flowers"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1251
+msgid "Downloading..."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1252
+msgid "Validating..."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1253
+msgid "Please enter an API key."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1254
+msgid "An error occured with code "
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1311
+msgid "Installed! Activating.."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1312
+msgid "Activating..."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1313
+msgid "Activated!"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1314
+msgid "Installing..."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1457
+msgid "Upgrade"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1461
+msgid ""
+"Syncing template library in the background. The process can take anywhere "
+"between 2 to 3 minutes. We will notify you once done."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1462
+msgid ""
+"Some of the files required during the import process are "
+"missing.<br/><br/>Please try again after some time."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1463
+msgid ""
+"<p>WordPress debug mode is currently enabled on your website. This has "
+"interrupted the import process..</p><p>Kindly disable debug mode and try "
+"importing Starter Template again.</p><p>You can add the following code into "
+"the wp-config.php file to disable debug "
+"mode.</p><p><code>define('WP_DEBUG', false);</code></p>"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1465
+#. translators: %s is a documentation link.
+msgid ""
+"<p>We are facing a temporary issue in importing this template.</p><p>Read "
+"<a href=\"%s\" target=\"_blank\">article</a> to resolve the issue and "
+"continue importing template.</p>"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1467
+#. translators: %s is a documentation link.
+msgid ""
+"<p>We are facing a temporary issue in installing the required plugins for "
+"this template.</p><p>Read <a href=\"%s\" target=\"_blank\">article</a> to "
+"resolve the issue and continue importing template.</p>"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1471
+#. translators: %s are white label strings.
+msgid ""
+"Warning! %1$s Import process is not complete. Don't close the window until "
+"import process complete. Do you still want to leave the window?"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1472
+msgid "Done! View Site"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1475
+#. translators: %s is a template name
+msgid "Import \"%s\" Template"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1478
+msgid "Installing Required Plugins.."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1480
+#. translators: %s are white label strings.
+msgid "Installing %1$s Theme.."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1502
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1504 inc/includes/admin-page.php:770
+msgid "One Last Step.."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1505 inc/includes/admin-page.php:793
+msgid "Your Selected Website is Being Imported."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1506 inc/includes/admin-page.php:795
+msgid "Your Selected Template is Being Imported."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1508
+msgid ""
+"We have sent you a surprise gift on your email address! Please check your "
+"inbox!"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1510
+msgid "Looks like the template you are importing is temporarily not available."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1511
+msgid ""
+"We could not start the import process and this is the message from "
+"WordPress:"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1512
+msgid "There was an error connecting to the Starter Templates API."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1513
+msgid "There was an error while importing the content."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1514
+msgid ""
+"To import content, WordPress needs to store XML file in /wp-content/ "
+"folder. Please get in touch with your hosting provider."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1515
+msgid ""
+"Looks like your host probably could not store XML file in /wp-content/ "
+"folder."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1517
+#. translators: %s HTML tags
+msgid ""
+"%1$sWe could not start the import process due to failed AJAX request and "
+"this is the message from WordPress:%2$s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1519
+#. translators: %s URL to document.
+msgid ""
+"%1$sRead <a href=\"%2$s\" target=\"_blank\">article</a> to resolve the "
+"issue and continue importing template.%3$s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1528
+#. translators: %s URL to document.
+msgid ""
+"%1$sWe could not complete the import process due to failed AJAX request and "
+"this is the message:%2$s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1530
+#. translators: %s URL to document.
+msgid "%1$sPlease report this <a href=\"%2$s\" target=\"_blank\">here</a>.%3$s"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1579
+msgid "XMLReader Support Missing"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1581
+#. translators: %s doc link.
+msgid ""
+"You're close to importing the template. To complete the process, enable "
+"XMLReader support on your website.."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1581
+#: inc/classes/class-astra-sites.php:1586
+#: inc/classes/class-astra-sites.php:1591
+msgid ""
+"Read an article <a href=\"%s\" target=\"_blank\">here</a> to resolve the "
+"issue."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1584
+msgid "cURL Support Missing"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1586
+#. translators: %s doc link.
+msgid "To run a smooth import, kindly enable cURL support on your website."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1589
+msgid "Disable Debug Mode"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1591
+#. translators: %s doc link.
+msgid ""
+"WordPress debug mode is currently enabled on your website. With this, any "
+"errors from third-party plugins might affect the import process."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1591
+msgid ""
+"Kindly disable it to continue importing the Starter Template. To do so, you "
+"can add the following code into the wp-config.php file."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1594
+msgid "Update Plugin"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1596
+#. translators: %s update page link.
+msgid "Updates are available for plugins used in this starter template."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1596
+msgid ""
+"Kindly <a href=\"%s\" target=\"_blank\">update</a> them for a successful "
+"import. Skipping this step might break the template design/feature."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1599 inc/includes/admin-page.php:491
+#: inc/includes/templates.php:442
+msgid "Required Plugins Missing"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1600 inc/includes/admin-page.php:495
+msgid ""
+"This starter template requires premium plugins. As these are third party "
+"premium plugins, you'll need to purchase, install and activate them first."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1603
+msgid "Dynamic Page"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1604 inc/includes/admin-page.php:708
+msgid ""
+"The page template you are about to import contains a dynamic widget/module. "
+"Please note this dynamic data will not be available with the imported page."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1604 inc/includes/admin-page.php:709
+msgid "You will need to add it manually on the page."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1604 inc/includes/admin-page.php:710
+msgid "This dynamic content will be available when you import the entire site."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1697
+#. translators: %s are link.
+msgid ""
+"This is a premium template available with Essential Bundle and Growth "
+"Bundle. you can purchase it from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1701
+#. translators: %s are link.
+msgid ""
+"This is a premium template available with Essential Bundle and Growth "
+"Bundle. <a href=\"%s\" target=\"_blank\">Validate Your License</a> Key to "
+"import this template."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1727
+msgid "Template"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1728
+msgid "Block"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1729 inc/includes/templates.php:59
+msgid "Dismiss"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1730 inc/includes/admin-page.php:855
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1734
+#. translators: %s are link.
+msgid ""
+"You can locate <strong>Starter Templates Settings</strong> under the "
+"<strong>Page Settings</strong> of the Style Tab."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1736
+msgid "Read More →"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1853
+msgid "Error: You don't have the required permissions to install plugins."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:1889
+msgid "Plugin Activated"
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:2013
+msgid ""
+"Insufficient Permission. Please contact your Super Admin to allow the "
+"install required plugin permissions."
+msgstr ""
+
+#: inc/classes/class-astra-sites.php:2205
+msgid "Template library refreshed!"
+msgstr ""
+
+#: inc/importers/batch-processing/helpers/class-wp-background-process-astra-site-importer.php:87
+msgid "All processes are complete"
+msgstr ""
+
+#: inc/importers/batch-processing/helpers/class-wp-background-process.php:444
+#. translators: %d are the minutes.
+msgid "Every %d Minutes"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:94
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:138
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:160
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:196
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:265
+msgid "Imported"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:268
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/importers/class-astra-widget-importer.php:274
+msgid "No Title"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-astra-wxr-importer.php:424
+msgid "Import complete!"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:233
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:271
+#: inc/importers/wxr-importer/class-wxr-importer.php:390
+#: inc/importers/wxr-importer/class-wxr-importer.php:466
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+msgid ""
+"This WXR file (version %1$s) is newer than the importer (version %2$s) and "
+"may not be supported. Please consider updating."
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:617
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:677
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:778
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:873
+#. translators: %1$s is the import message, %2$s is post type.
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:885
+#. translators: %1$s single post type, %2$s is post title.
+msgid "%1$s \"%2$s\" already exists."
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:983
+#. translators: %s is post title
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1007
+#. translators: %1$s is the post title, %2$s is post type.
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1042
+#: inc/importers/wxr-importer/class-wxr-importer.php:1929
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1050
+#. translators: %1$s is the original post id, %2$s is old post id.
+msgid "Post %1$d remapped to %2$d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1201
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1706
+#. translators: %s user login name
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1730
+#. translators: %s user login name
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1737
+#. translators: %1$s original user Id, %2$s old user Id.
+msgid "User %1$d remapped to %2$d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1902
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1937
+#. translators: %1$s is term original id, %2$s is term id.
+msgid "Term %1$d remapped to %2$d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:1995
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2008
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2013
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2020
+#. translators: %s max file size.
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2053
+#. translators: %d is post id.
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2069
+#. translators: %1$s is post title, %2$s is post id.
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2077
+#. translators: %1$d is post id, %2$d is parent post id.
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2094
+#. translators: %1$s is the post title, %2$s is post id.
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2102
+#. translators: %1$d is post id, %2$s is author slug.
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2131
+#. translators: %d is post id.
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2145
+#. translators: %1$s is the post title, %2$s is post id.
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2199
+#. translators: %1$s is the post title, %2$s is post id.
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2207
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+msgid ""
+"Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not "
+"be found"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2238
+#. translators: %d is comment id.
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2245
+#. translators: %1$s is comment id, %2$s is parent comment id.
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2262
+#. translators: %d is comment id.
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2269
+#. translators: %1$d is comment id, %2$d is author id.
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr ""
+
+#: inc/importers/wxr-importer/class-wxr-importer.php:2289
+#. translators: %d is comment id.
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/includes/admin-page.php:57
+msgid "Heading"
+msgstr ""
+
+#: inc/includes/admin-page.php:75
+msgid "We're Almost There!"
+msgstr ""
+
+#: inc/includes/admin-page.php:80
+msgid ""
+"You're close to importing the template. To complete the process, please "
+"clear the following conditions."
+msgstr ""
+
+#: inc/includes/admin-page.php:110 inc/includes/admin-page.php:116
+#: inc/includes/admin-page.php:118 inc/includes/admin-page.php:503
+#: inc/includes/admin-page.php:713 inc/includes/admin-page.php:917
+#: inc/includes/templates.php:454
+msgid "Skip & Import"
+msgstr ""
+
+#: inc/includes/admin-page.php:111 inc/includes/admin-page.php:119
+#: inc/includes/admin-page.php:504 inc/includes/admin-page.php:714
+#: inc/includes/admin-page.php:918 inc/includes/templates.php:455
+msgid "Cancel"
+msgstr ""
+
+#: inc/includes/admin-page.php:115
+msgid "Update"
+msgstr ""
+
+#: inc/includes/admin-page.php:130 inc/includes/image-templates.php:58
+#: inc/includes/image-templates.php:98 inc/includes/templates.php:236
+#: inc/includes/templates.php:319 inc/includes/templates.php:405
+#: inc/includes/templates.php:463
+msgid "Sorry No Results Found."
+msgstr ""
+
+#: inc/includes/admin-page.php:139 inc/includes/image-templates.php:102
+#: inc/includes/templates.php:242 inc/includes/templates.php:325
+#: inc/includes/templates.php:411 inc/includes/templates.php:472
+#. translators: %1$s External Link
+msgid ""
+"Don't see a template you would like to import?<br><a target=\"_blank\" "
+"href=\"%1$s\">Make a Template Suggestion!</a>"
+msgstr ""
+
+#: inc/includes/admin-page.php:142 inc/includes/admin-page.php:165
+#: inc/includes/templates.php:245 inc/includes/templates.php:328
+#: inc/includes/templates.php:414 inc/includes/templates.php:475
+msgid "Back to Templates"
+msgstr ""
+
+#: inc/includes/admin-page.php:152
+msgid "Favorite Template List Is Empty."
+msgstr ""
+
+#: inc/includes/admin-page.php:161
+#. translators: %1$s External Link
+msgid ""
+"You'll notice a heart-shaped symbol on every template card. Simply tap this "
+"icon to mark the template as Favorite."
+msgstr ""
+
+#: inc/includes/admin-page.php:185 inc/includes/admin-page.php:282
+#: inc/includes/admin-page.php:351
+msgid "Make as Favorite"
+msgstr ""
+
+#: inc/includes/admin-page.php:195 inc/includes/admin-page.php:291
+msgid "Make as Unfavorite"
+msgstr ""
+
+#: inc/includes/admin-page.php:244 inc/includes/admin-page.php:333
+#: inc/includes/admin-page.php:394 inc/includes/templates.php:181
+#: inc/includes/templates.php:308 inc/includes/templates.php:394
+#. translators: %s are white label strings.
+#. translators: %s are white label strings.
+#. translators: %1$s External Link
+msgid "This premium template is accessible with %1$s \"Premium\" Package."
+msgstr ""
+
+#: inc/includes/admin-page.php:273
+msgid "Site Templates"
+msgstr ""
+
+#: inc/includes/admin-page.php:342 inc/includes/admin-page.php:528
+msgid "Page Templates"
+msgstr ""
+
+#: inc/includes/admin-page.php:412
+msgid ""
+"<span class=\"highlighted-note\">This is a premium template available with "
+"Essential and Growth Bundle.</span><br /> <a "
+"href=\"{{AstraSitesAdmin.premium_popup_cta_link}}\" target=\"_blank\">Get "
+"access</a> to this premium template."
+msgstr ""
+
+#: inc/includes/admin-page.php:418
+#. translators: %s is article link
+msgid ""
+"Already own an Essential or Growth Bundle? <a href=\"%s\" "
+"target=\"_blank\">Know how</a> to import premium templates."
+msgstr ""
+
+#: inc/includes/admin-page.php:429
+msgid ""
+"The page templates which contain the dynamic widgets/modules are not "
+"available for single template import. With the \"Import Site\" option, you "
+"can get those pages."
+msgstr ""
+
+#: inc/includes/admin-page.php:430
+msgid "You can have the complete site preview from bottom left button."
+msgstr ""
+
+#: inc/includes/admin-page.php:462
+#. translators: %s is pricing page link
+msgid ""
+"<p>Seems like you have purchased the %4$s 'Essential Bundle' package with a "
+"choice of '%1$s' page builder addon.</p><p>While this template is built "
+"with '%2$s' page builder addon.</p><p>Read article <a href=\"%3$s\" "
+"target=\"_blank\">here</a> to see how you can proceed.</p>"
+msgstr ""
+
+#: inc/includes/admin-page.php:473
+msgid "You are just 2 minutes away from importing this demo!"
+msgstr ""
+
+#: inc/includes/admin-page.php:474
+msgid ""
+"This is a premium website demo template. Please activate your license to "
+"access it."
+msgstr ""
+
+#: inc/includes/admin-page.php:478
+#. translators: %s is article link
+msgid ""
+"Learn how you can <a href=\"%1$s\" target=\"_blank\">activate the "
+"license</a> of the %2$s plugin."
+msgstr ""
+
+#: inc/includes/admin-page.php:569
+msgid "Not Valid License"
+msgstr ""
+
+#: inc/includes/admin-page.php:578
+msgid "Import Complete Site"
+msgstr ""
+
+#: inc/includes/admin-page.php:579
+msgid "Import Template"
+msgstr ""
+
+#: inc/includes/admin-page.php:590 inc/includes/admin-page.php:615
+msgid "Imported Successfully!"
+msgstr ""
+
+#: inc/includes/admin-page.php:594
+msgid "Hurray! The Website Imported Successfully! 🎉"
+msgstr ""
+
+#: inc/includes/admin-page.php:596 inc/includes/admin-page.php:620
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr ""
+
+#: inc/includes/admin-page.php:601
+#. translators: %1$s External Link
+msgid "%1$sRead more%2$s about customizing this Elementor Style Kit site."
+msgstr ""
+
+#: inc/includes/admin-page.php:605 inc/includes/admin-page.php:621
+msgid "Have fun!"
+msgstr ""
+
+#: inc/includes/admin-page.php:606 inc/includes/admin-page.php:622
+msgid ""
+"PS: We try our best to use images that are free from legal perspectives. "
+"However, we do not take any responsibility. We strongly advise website "
+"owners to replace the images and any copyrighted media before publishing "
+"them online."
+msgstr ""
+
+#: inc/includes/admin-page.php:609
+msgid "View Site"
+msgstr ""
+
+#: inc/includes/admin-page.php:619
+msgid "Hurray! The Template Imported Successfully! 🎉"
+msgstr ""
+
+#: inc/includes/admin-page.php:625
+msgid "View Template"
+msgstr ""
+
+#: inc/includes/admin-page.php:635
+msgid ""
+"We could not start the import process. This is the message from HTTP "
+"request:"
+msgstr ""
+
+#: inc/includes/admin-page.php:639
+#. translators: %s doc link.
+msgid ""
+"Please raise a <a href=\"%s\" target=\"_blank\">support request</a> so we "
+"can help you with it."
+msgstr ""
+
+#: inc/includes/admin-page.php:659
+#. translators: %s doc link.
+msgid ""
+"We have listed the <a href=\"%s\" target=\"_blank\">possible solutions "
+"here</a> to help you resolve this."
+msgstr ""
+
+#: inc/includes/admin-page.php:667
+#. translators: %s doc link.
+msgid ""
+"Please <a class=\"ast-try-again\" href=\"\">click here and try again</a>. "
+"If this still does not work after few attempts, please report it <a "
+"href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/includes/admin-page.php:672
+#. translators: %s doc link.
+msgid "Please report this error %1$shere%2$s, so we can fix it."
+msgstr ""
+
+#: inc/includes/admin-page.php:680
+msgid ""
+"Please report this error <a href=\"#LINK\" target=\"_blank\">here</a> so we "
+"can fix it."
+msgstr ""
+
+#: inc/includes/admin-page.php:704
+msgid "Heads Up!"
+msgstr ""
+
+#: inc/includes/admin-page.php:724
+msgid "Beginner"
+msgstr ""
+
+#: inc/includes/admin-page.php:725
+msgid "Intermediate"
+msgstr ""
+
+#: inc/includes/admin-page.php:726
+msgid "Expert"
+msgstr ""
+
+#: inc/includes/admin-page.php:728 inc/includes/admin-page.php:737
+msgid "Field is required"
+msgstr ""
+
+#: inc/includes/admin-page.php:729
+msgid "I'm a WordPress:"
+msgstr ""
+
+#: inc/includes/admin-page.php:734
+msgid "Myself/My company"
+msgstr ""
+
+#: inc/includes/admin-page.php:735
+msgid "My client"
+msgstr ""
+
+#: inc/includes/admin-page.php:738
+msgid "I'm building website for:"
+msgstr ""
+
+#: inc/includes/admin-page.php:747
+msgid "First name is required"
+msgstr ""
+
+#: inc/includes/admin-page.php:748
+msgid "Your First Name"
+msgstr ""
+
+#: inc/includes/admin-page.php:752
+msgid "Email address is required"
+msgstr ""
+
+#: inc/includes/admin-page.php:753
+msgid "Your Work Email"
+msgstr ""
+
+#: inc/includes/admin-page.php:774
+msgid ""
+"To get access to exclusive starter templates, themes and updates, enter "
+"your details below:"
+msgstr ""
+
+#: inc/includes/admin-page.php:778
+msgid "Submit and Start Importing"
+msgstr ""
+
+#: inc/includes/admin-page.php:784
+#. translators: %1$s and %3$s are opening anchor tags, and %2$s and %4$s is
+#. closing anchor tags.
+msgid "By submitting, you agree to our %1$sTerms%2$s and %3$sPrivacy Policy%4$s."
+msgstr ""
+
+#: inc/includes/admin-page.php:785
+msgid "Skip"
+msgstr ""
+
+#: inc/includes/admin-page.php:805
+msgid ""
+"To serve more beautiful starter templates, we would like to know more about "
+"you:"
+msgstr ""
+
+#: inc/includes/admin-page.php:810
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/includes/admin-page.php:824
+msgid "Install & Activate Astra Theme"
+msgstr ""
+
+#: inc/includes/admin-page.php:825
+msgid ""
+"To import the site in the original format, you would need the Astra theme "
+"activated. You can import it with any other theme, but the site might lose "
+"some of the design settings and look a bit different."
+msgstr ""
+
+#: inc/includes/admin-page.php:833
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: inc/includes/admin-page.php:837
+#. translators: %s are white label strings.
+msgid ""
+"%1$s customizer serves global settings that give uniform design to the "
+"website. Choosing this option will override your current customizer "
+"settings."
+msgstr ""
+
+#: inc/includes/admin-page.php:848
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/includes/admin-page.php:858
+msgid ""
+"Plugins needed to import this template are missing. Required plugins will "
+"be installed and activated automatically."
+msgstr ""
+
+#: inc/includes/admin-page.php:867
+msgid "Import Content"
+msgstr ""
+
+#: inc/includes/admin-page.php:870
+msgid ""
+"Selecting this option will import dummy pages, posts, images, and menus. If "
+"you do not want to import dummy content, please uncheck this option."
+msgstr ""
+
+#: inc/includes/admin-page.php:888
+#. translators: %s is the dynamic string.
+msgid ""
+"The import process can take a few minutes depending on the size of the %s "
+"and speed of the connection."
+msgstr ""
+
+#: inc/includes/admin-page.php:894
+#. translators: %s is the dynamic string.
+msgid "Please do NOT close this browser window until the %s is imported completely."
+msgstr ""
+
+#: inc/includes/admin-page.php:911
+msgid "Next"
+msgstr ""
+
+#: inc/includes/admin-page.php:913
+msgid "Import"
+msgstr ""
+
+#: inc/includes/admin-page.php:928
+msgid "Delete Previously Imported Site"
+msgstr ""
+
+#: inc/includes/admin-page.php:929
+msgid ""
+"WARNING: Selecting this option will delete all data from the previous "
+"import. Choose this option only if this is intended."
+msgstr ""
+
+#: inc/includes/admin-page.php:931
+msgid "You can find the backup to the current customizer settings at "
+msgstr ""
+
+#: inc/includes/admin-page.php:931
+msgid "/wp-content/uploads/astra-sites/"
+msgstr ""
+
+#: inc/includes/image-templates.php:88
+msgid "SafeSearch"
+msgstr ""
+
+#: inc/includes/image-templates.php:92
+msgid "Powered by"
+msgstr ""
+
+#: inc/includes/image-templates.php:126
+msgid "Back to Images"
+msgstr ""
+
+#: inc/includes/image-templates.php:136
+msgid "Already Saved"
+msgstr ""
+
+#: inc/includes/image-templates.php:138
+msgid "Save & Insert"
+msgstr ""
+
+#: inc/includes/templates.php:45
+msgid "SEARCH"
+msgstr ""
+
+#: inc/includes/templates.php:85
+msgid "Filter by Color"
+msgstr ""
+
+#: inc/includes/templates.php:93
+msgid "Back to Pages"
+msgstr ""
+
+#: inc/includes/templates.php:115
+msgid "Back to Layout"
+msgstr ""
+
+#: inc/includes/templates.php:119
+msgid "Pages"
+msgstr ""
+
+#: inc/includes/templates.php:120
+msgid "Blocks"
+msgstr ""
+
+#: inc/includes/templates.php:125 inc/includes/templates.php:126
+msgid "Close"
+msgstr ""
+
+#: inc/includes/templates.php:225 inc/includes/templates.php:297
+msgid "INSERT"
+msgstr ""
+
+#: inc/includes/templates.php:428
+msgid "Insert"
+msgstr ""
+
+#: inc/includes/templates.php:446
+msgid ""
+"This starter site requires premium plugins. As these are third party "
+"premium plugins, you'll need to purchase, install and activate them first."
+msgstr ""
+
+#: inc/includes/templates.php:530
+msgid "Import "
+msgstr ""
+
+#: inc/includes/templates.php:531
+msgid "Save "
+msgstr ""
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr ""
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr ""
+
+#: inc/lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr ""
+
+#: inc/lib/bsf-quick-links/class-bsf-quick-links.php:105
+msgid "Quick Links"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpastra.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Starter Templates is all in one solution for complete starter sites, single "
+"page templates, blocks & images. This plugin offers the premium library of "
+"ready templates & provides quick access to beautiful Pixabay images that "
+"can be imported in your website easily."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brainstorm Force"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.brainstormforce.com"
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:290
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+msgctxt "Recommended Memory Limit"
+msgid "Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr ""
+
+#: inc/classes/class-astra-sites-importer-log.php:371
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr ""

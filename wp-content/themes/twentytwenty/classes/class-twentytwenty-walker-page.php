@@ -4,21 +4,24 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty
- * @since 1.0.0
+ * @since Twenty Twenty 1.0
  */
 
 if ( ! class_exists( 'TwentyTwenty_Walker_Page' ) ) {
 	/**
 	 * CUSTOM PAGE WALKER
 	 * A custom walker for pages.
+	 *
+	 * @since Twenty Twenty 1.0
 	 */
 	class TwentyTwenty_Walker_Page extends Walker_Page {
 
 		/**
 		 * Outputs the beginning of the current element in the tree.
 		 *
+		 * @since Twenty Twenty 1.0
+		 *
 		 * @see Walker::start_el()
-		 * @since 2.1.0
 		 *
 		 * @param string  $output       Used to append additional content. Passed by reference.
 		 * @param WP_Post $page         Page data object.
@@ -61,24 +64,12 @@ if ( ! class_exists( 'TwentyTwenty_Walker_Page' ) ) {
 				$css_class[] = 'current_page_parent';
 			}
 
-			/**
-			 * Filters the list of CSS classes to include with each page item in the list.
-			 *
-			 * @since 2.8.0
-			 *
-			 * @see wp_list_pages()
-			 *
-			 * @param string[] $css_class    An array of CSS classes to be applied to each list item.
-			 * @param WP_Post  $page         Page data object.
-			 * @param int      $depth        Depth of page, used for padding.
-			 * @param array    $args         An array of arguments.
-			 * @param int      $current_page ID of the current page.
-			 */
+			/** This filter is documented in wp-includes/class-walker-page.php */
 			$css_classes = implode( ' ', apply_filters( 'page_css_class', $css_class, $page, $depth, $args, $current_page ) );
 			$css_classes = $css_classes ? ' class="' . esc_attr( $css_classes ) . '"' : '';
 
 			if ( '' === $page->post_title ) {
-				/* translators: %d: ID of a post */
+				/* translators: %d: ID of a post. */
 				$page->post_title = sprintf( __( '#%d (no title)', 'twentytwenty' ), $page->ID );
 			}
 
@@ -89,22 +80,7 @@ if ( ! class_exists( 'TwentyTwenty_Walker_Page' ) ) {
 			$atts['href']         = get_permalink( $page->ID );
 			$atts['aria-current'] = ( $page->ID === $current_page ) ? 'page' : '';
 
-			/**
-			 * Filters the HTML attributes applied to a page menu item's anchor element.
-			 *
-			 * @since 4.8.0
-			 *
-			 * @param array $atts {
-			 *     The HTML attributes applied to the menu item's `<a>` element, empty strings are ignored.
-			 *
-			 *     @type string $href         The href attribute.
-			 *     @type string $aria_current The aria-current attribute.
-			 * }
-			 * @param WP_Post $page         Page data object.
-			 * @param int     $depth        Depth of page, used for padding.
-			 * @param array   $args         An array of arguments.
-			 * @param int     $current_page ID of the current page.
-			 */
+			/** This filter is documented in wp-includes/class-walker-page.php */
 			$atts = apply_filters( 'page_menu_link_attributes', $atts, $page, $depth, $args, $current_page );
 
 			$attributes = '';

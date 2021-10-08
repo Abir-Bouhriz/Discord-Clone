@@ -1,0 +1,9 @@
+.customize-control-ast-customizer-link .customizer-link {
+  font-style: italic;
+  text-decoration: none;
+  color: #2271b1;
+}
+
+.customize-control-ast-customizer-link:empty {
+  display:none;
+}

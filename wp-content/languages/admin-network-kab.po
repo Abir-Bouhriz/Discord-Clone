@@ -1,0 +1,1425 @@
+# Translation of WordPress - 5.8.x - Development - Administration - Network Admin in Kabyle
+# This file is distributed under the same license as the WordPress - 5.8.x - Development - Administration - Network Admin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-30 19:20:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: kab_DZ\n"
+"Project-Id-Version: WordPress - 5.8.x - Development - Administration - Network Admin\n"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:734
+msgid "Child theme of %s"
+msgstr "Asentel aqrur n %s"
+
+#: wp-admin/network/settings.php:63
+msgid "<a href=\"https://wordpress.org/support/article/network-admin-settings-screen/\">Documentation on Network Settings</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/network-admin-settings-screen/\">Tasemlit ɣef yiɣewwaren n uzeṭṭa</a>"
+
+#: wp-admin/network/site-info.php:184
+msgctxt "site"
+msgid "Public"
+msgstr "Azayez"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:293
+msgctxt "site"
+msgid "Not spam"
+msgstr "Mačči d aspam"
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:410
+msgid "%s theme will no longer be auto-updated."
+msgid_plural "%s themes will no longer be auto-updated."
+msgstr[0] "Asentel %s ur yettuleqqam ara s wudem awurman."
+msgstr[1] "Isental %s ur ttuleqqamen ara s wudem awurman."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:401
+msgid "%s theme will be auto-updated."
+msgid_plural "%s themes will be auto-updated."
+msgstr[0] "Asentel %s ad yettuleqqam s wudem awurman."
+msgstr[1] "Isental %s ad ttuleqqamen s wudem awurman."
+
+#: wp-admin/network/themes.php:225
+msgid "Sorry, you are not allowed to change themes automatic update settings."
+msgstr "Suref-aɣ, ur tesεiḍ ara tisirag ad tbeddleḍ iɣewwaren n uleqqem awurman n yisental."
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:321
+msgid "No themes are currently available."
+msgstr "Ulac asentel yellan akka tura."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:477
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:498
+#: wp-admin/includes/class-wp-ms-users-list-table.php:336
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
+
+#: wp-admin/includes/network.php:629
+msgid "https://wordpress.org/support/article/nginx/"
+msgstr "https://wordpress.org/support/article/nginx/"
+
+#. translators: %s: Documentation URL.
+#: wp-admin/includes/network.php:628
+msgid "It seems your network is running with Nginx web server. <a href=\"%s\">Learn more about further configuration</a>."
+msgstr "Akka i d-yettban azeṭṭa-inek·inem iteddu s uqeddac web Nginx. <a href=\"%s\">Issin ugar ɣef twila-nniḍen</a>."
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:254
+msgid "Deleted <span class=\"count\">(%s)</span>"
+msgid_plural "Deleted <span class=\"count\">(%s)</span>"
+msgstr[0] "Ittwakkes <span class=\"count\">(%s)</span>"
+msgstr[1] "Ttwaksen <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:247
+msgctxt "sites"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Aspam <span class=\"count\">(%s)</span>"
+msgstr[1] "Ispamen <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:241
+msgid "Mature <span class=\"count\">(%s)</span>"
+msgid_plural "Mature <span class=\"count\">(%s)</span>"
+msgstr[0] "Muqqer <span class=\"count\">(%s)</span>"
+msgstr[1] "Muqqrit <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:235
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "Deg uɣbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Deg yiɣbaren <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:229
+msgid "Public <span class=\"count\">(%s)</span>"
+msgid_plural "Public <span class=\"count\">(%s)</span>"
+msgstr[0] "Aziraz <span class=\"count\">(%s)</span>"
+msgstr[1] "Aziraz <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:222
+msgctxt "sites"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Akk <span class=\"count\">(%s)</span>"
+msgstr[1] "Akk <span class=\"count\">(%s)</span>"
+
+#: wp-admin/network/upgrade.php:31
+msgid "<a href=\"https://wordpress.org/support/article/network-admin-updates-screen/\">Documentation on Upgrade Network</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/network-admin-updates-screen/\">Tasemlit ɣef usali n uswir n uzeṭṭa</a>"
+
+#: wp-admin/network/index.php:55
+msgid "<a href=\"https://wordpress.org/support/article/network-admin/\">Documentation on the Network Admin</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/network-admin/\">Tasemlit ɣef tnedbelt n uzeṭṭa</a>"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:406
+msgctxt "themes"
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Lqem yewjed <span class=\"count\">(%s)</span>"
+msgstr[1] "Ileqman wejden <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:616
+msgid "Main"
+msgstr "Agejdan"
+
+#: wp-admin/network.php:67 wp-admin/network.php:80
+msgid "<a href=\"https://wordpress.org/support/article/tools-network-screen/\">Documentation on the Network Screen</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/tools-network-screen/\">Tasemlit ɣef uleqqem n uzeṭṭa</a>"
+
+#: wp-admin/network.php:66 wp-admin/network.php:79
+msgid "<a href=\"https://wordpress.org/support/article/create-a-network/\">Documentation on Creating a Network</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/create-a-network/\">Tasemlit ɣef usnulfu n uzeṭṭa</a>"
+
+#. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
+#: wp-admin/includes/network.php:118
+msgid "The constant %s cannot be defined when creating a network."
+msgstr "Timezgit  %s ulamek ara tettusbadu deg usnulfu n uzeṭṭa."
+
+#: wp-admin/network/sites.php:195
+msgid "You are about to delete the following sites:"
+msgstr "Ala tettedduḍ ad tekkseḍ isemlen-agi:"
+
+#: wp-admin/network/site-users.php:243
+msgid "User could not be added to this site."
+msgstr "Aseqdac ulamek ara yettwarnu ɣer usmel-agi."
+
+#: wp-admin/network/site-new.php:263
+msgid "The username and a link to set the password will be mailed to this email address."
+msgstr "Isem n useqdac aked useɣwen i useɣwer n wawal n uɛeddi ad ttwaznen ɣer tansa-agi."
+
+#. translators: %s: New network admin email.
+#: wp-admin/network/settings.php:175
+msgid "There is a pending change of the network admin email to %s."
+msgstr "Yella ubeddel iggunin tansa imayl n unedbal n uẓeṭṭa %s."
+
+#: wp-admin/includes/network.php:332
+msgid "Sub-domain Installation"
+msgstr "Asbeddi s taɣulin tinaddawin"
+
+#: wp-admin/includes/network.php:301 wp-admin/includes/network.php:319
+msgid "Sub-directory Installation"
+msgstr "Asbeddi s ikaramen inaddawen"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:917
+msgid "Active Child Theme"
+msgstr "Asentel aqrur urmid"
+
+#: wp-admin/network/site-info.php:193
+msgid "Attributes"
+msgstr "Iraten"
+
+#. translators: %s: File size in kilobytes.
+#: wp-admin/network/settings.php:424
+msgid "%s KB"
+msgstr "%s Ko"
+
+#. translators: %s: Default network title.
+#: wp-admin/includes/network.php:172
+msgid "%s Sites"
+msgstr "Isemlen n %s"
+
+#: wp-admin/network/themes.php:101
+msgid "Sorry, you are not allowed to delete themes for this site."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tekkseḍ isental deg usmel-agi."
+
+#: wp-admin/network/themes.php:14
+msgid "Sorry, you are not allowed to manage network themes."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tesferkeḍ isental deg uẓeṭṭa-agi."
+
+#: wp-admin/network/sites.php:320
+msgid "Sorry, you are not allowed to delete that site."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tekkseḍ asmel-agi."
+
+#: wp-admin/network/site-themes.php:14
+msgid "Sorry, you are not allowed to manage themes for this site."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tesferkeḍ isental n usmel-agi."
+
+#: wp-admin/network/site-new.php:17
+msgid "Sorry, you are not allowed to add sites to this network."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad ternuḍ isemlen deg uzeṭṭa-agi."
+
+#: wp-admin/network/site-info.php:14 wp-admin/network/site-settings.php:14
+#: wp-admin/network/site-users.php:14
+msgid "Sorry, you are not allowed to edit this site."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tẓergeḍ asmel-agi."
+
+#: wp-admin/network/settings.php:374
+msgid "The email address of the first comment author on a new site."
+msgstr "Tansa imayl n umeskar n uwennit amezwaru deg usmel amaynut."
+
+#: wp-admin/network/settings.php:370
+msgid "First Comment Email"
+msgstr "Imayl n uwennit amezwaru"
+
+#. translators: This string should only be translated if wp-config-sample.php
+#. is localized. You can check the localized release package or
+#. https://i18n.svn.wordpress.org/<locale code>/branches/<wp
+#. version>/dist/wp-config-sample.php
+#: wp-admin/includes/network.php:485
+msgid "That&#8217;s all, stop editing! Happy publishing."
+msgstr "D ayagi kan, ḥbes asiẓreg ! Asuffeɣ ameggaz."
+
+#. translators: 1: wp-config.php, 2: Location of wp-config file, 3: Translated
+#. version of "That's all, stop editing! Happy publishing."
+#: wp-admin/includes/network.php:477
+msgid "Add the following to your %1$s file in %2$s <strong>above</strong> the line reading %3$s:"
+msgstr "Rnu aḍris i ufaylu-inek %1$s di %2$s <strong>nnig</strong> n izirig %3$s :"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: wp-admin/network/themes.php:149
+msgctxt "theme"
+msgid "%1$s by %2$s"
+msgstr "%1$s sɣur %2$s"
+
+#: wp-admin/network/site-new.php:219
+msgid "Only lowercase letters (a-z), numbers, and hyphens are allowed."
+msgstr "Ḥaca isekkilen imeẓyanen (a-z), imḍanen, aked ijerriḍen n tuqqna i yettusiregen."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:540
+msgid "These unique authentication keys are also missing from your %s file."
+msgstr "Tisura tasufin n usisteb ulac-itent daɣen deg ufaylu-inek  %s."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:534
+msgid "This unique authentication key is also missing from your %s file."
+msgstr "Tasarut tasuft n usisteb ulac-itt daɣen deg ufaylu-inek %s."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:463
+msgid "We recommend you back up your existing %s file."
+msgstr "Ilaq ad tḥerzeḍ afaylu-inek %s i yellan."
+
+#. translators: 1: wp-config.php, 2: .htaccess
+#. translators: 1: wp-config.php, 2: web.config
+#: wp-admin/includes/network.php:447 wp-admin/includes/network.php:455
+msgid "We recommend you back up your existing %1$s and %2$s files."
+msgstr "Ilaq ad ad tḥerzeḍ ifuyla-inek %1$s aked %2$s i yellan."
+
+#. translators: 1: localhost, 2: localhost.localdomain
+#: wp-admin/includes/network.php:306
+msgid "Because you are using %1$s, the sites in your WordPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains."
+msgstr "Segmi tseqdaceḍ %1$s, isemlen n uẓeṭṭa-inek n WordPress iwwi-d ad ddun s ikaramen inadayen. Seqdec %2$s ma tebɣiḍ ad tesqedceḍ tiɣula tinadayin."
+
+#. translators: %s: Host name.
+#: wp-admin/includes/network.php:288 wp-admin/includes/network.php:348
+msgid "The internet address of your network will be %s."
+msgstr "Tansa n internet n uẓeṭṭa-inek d tagi %s."
+
+#. translators: 1: Site URL, 2: Host name, 3: www.
+#: wp-admin/includes/network.php:274
+msgid "We recommend you change your site domain to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
+msgstr "Ilaq ad tbeddeleḍ taɣult n usmel-inek %1$s send ad tesremdeḍ tameẓlut aẓeṭṭa. Ar ḍqal ad yili unekcum ɣer usmel-inek s tmerna n uzwir %3$s i tansa akka  am %2$s maca mači isɣewnen akk ara yesɛun azwir %3$s."
+
+#: wp-admin/includes/network.php:229
+msgid "You cannot change this later."
+msgstr "Ur tettizmireḍ ara ad tbeddeleḍ ayagi arḍeqqal."
+
+#: wp-admin/includes/network.php:228
+msgid "Please choose whether you would like sites in your WordPress network to use sub-domains or sub-directories."
+msgstr "Mmel ma yella isemlen n uẓeṭṭa inek n WordPress ad sqedcen tiɣula tinadayin neɣ ikaramen inadayen."
+
+#. translators: 1: mod_rewrite, 2: mod_rewrite documentation URL, 3: Google
+#. search for mod_rewrite.
+#: wp-admin/includes/network.php:216
+msgid "If %1$s is disabled, ask your administrator to enable that module, or look at the <a href=\"%2$s\">Apache documentation</a> or <a href=\"%3$s\">elsewhere</a> for help setting it up."
+msgstr "Ma yella %1$s yexsi, ini-as i wenedbal inek ad isermed azegrir-agi, neɣ muqel <a href=\"%2$s\">Tasemlit n Apache</a> neɣ <a href=\"%3$s\">anida nniḍen</a> iwakken ad tafeḍ tallelt ɣef wamek ara t-tesbeddeḍ."
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:206
+msgid "It looks like the Apache %s module is not installed."
+msgstr "Ittbini-d am wakken azegrir %s n Apache ur ittusbedd ara."
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:198
+msgid "Please make sure the Apache %s module is installed as it will be used at the end of this installation."
+msgstr "Ttxil-k tḥeqqeq belli azegrir %s n Apache ittusbedd, acku ad ittwasemres di tagarra n usbeddi."
+
+#. translators: %s: Port number.
+#: wp-admin/includes/network.php:145
+msgid "You cannot use port numbers such as %s."
+msgstr "Ur tezmireḍ ara ad tesqedceḍ uṭṭunen n uwwur am %s."
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:200
+msgctxt "user"
+msgid "Registered"
+msgstr "Aklas"
+
+#. translators: Number of users.
+#: wp-admin/includes/class-wp-ms-users-list-table.php:164
+msgid "Super Admin <span class=\"count\">(%s)</span>"
+msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
+msgstr[0] "Anedbal afellay <span class=\"count\">(%s)</span>"
+msgstr[1] "Inedbalen ifellayen <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:118
+msgctxt "user"
+msgid "Not spam"
+msgstr "Mačči d aspam"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:117
+msgctxt "user"
+msgid "Mark as spam"
+msgstr "Creḍ-it d aspam"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:727
+msgid "Visit Theme Site"
+msgstr "Rzu ɣer usmel n usentel"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:721
+msgid "Visit %s homepage"
+msgstr "Rzu ɣer usebtar n usnubeg n %s"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:690
+msgid "Broken Theme:"
+msgstr "Asentel yerreẓ:"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:596
+msgid "Network Disable %s"
+msgstr "Sexsi %s i weẓeṭṭa"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:593
+msgid "Disable %s"
+msgstr "Sexsi %s"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:570
+msgid "Network Enable %s"
+msgstr "Sermed %s deg uẓeṭṭa"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:567
+msgid "Enable %s"
+msgstr "Sermed %s"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:472
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:603
+msgid "Network Disable"
+msgstr "Sexsi seg uẓeṭṭa"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:472
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:603
+msgid "Disable"
+msgstr "Sexsi"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:469
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:577
+msgid "Enable"
+msgstr "Sermed"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:415
+msgctxt "themes"
+msgid "Broken <span class=\"count\">(%s)</span>"
+msgid_plural "Broken <span class=\"count\">(%s)</span>"
+msgstr[0] "Yerreẓ <span class=\"count\">(%s)</span>"
+msgstr[1] "Errẓen <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:397
+msgctxt "themes"
+msgid "Disabled <span class=\"count\">(%s)</span>"
+msgid_plural "Disabled <span class=\"count\">(%s)</span>"
+msgstr[0] "Yexsi <span class=\"count\">(%s)</span>"
+msgstr[1] "Xsin <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:388
+msgctxt "themes"
+msgid "Enabled <span class=\"count\">(%s)</span>"
+msgid_plural "Enabled <span class=\"count\">(%s)</span>"
+msgstr[0] "Yermed <span class=\"count\">(%s)</span>"
+msgstr[1] "Remden <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:379
+msgctxt "themes"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Akk <span class=\"count\">(%s)</span>"
+msgstr[1] "Akk <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:319
+msgid "No themes found."
+msgstr "Ur d-nufi ara isental."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:706
+msgctxt "verb; site"
+msgid "Archive"
+msgstr "Seɣber"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:704
+msgid "Unarchive"
+msgstr "Kkes aɣbar"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:480
+msgid "Never"
+msgstr "Werjin"
+
+#. translators: 1: Site title, 2: Site tagline.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:453
+msgid "%1$s &#8211; %2$s"
+msgstr "%1$s &#8211; %2$s"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:365
+#: wp-admin/network/site-info.php:176
+msgctxt "site"
+msgid "Registered"
+msgstr "Aklas"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:364
+#: wp-admin/network/site-info.php:180
+msgid "Last Updated"
+msgstr "Aleqqem aneggaru"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:710
+msgctxt "site"
+msgid "Not Spam"
+msgstr "Mačči d imcewwel"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:292
+msgctxt "site"
+msgid "Mark as spam"
+msgstr "Creḍ-it d aspam"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:207
+msgid "No sites found."
+msgstr "Ur d-nufi ara isemlen."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:42
+#: wp-admin/network/site-info.php:190
+msgid "Mature"
+msgstr "Amawaḍ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:41
+#: wp-admin/network/site-info.php:188
+msgid "Deleted"
+msgstr "Yettwakkes"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:40
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:712
+#: wp-admin/network/site-info.php:187
+msgctxt "site"
+msgid "Spam"
+msgstr "Imcewwel"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:39
+#: wp-admin/network/site-info.php:186
+msgid "Archived"
+msgstr "Yeɣber"
+
+#: wp-admin/network/site-users.php:355 wp-admin/network/user-new.php:136
+msgid "A password reset link will be sent to the user via email."
+msgstr "Aseɣwen i wallus n uwennez n wawal n uɛeddi ad yettwazen ɣer useqdac s email."
+
+#. translators: 1: NOBLOGREDIRECT, 2: wp-config.php
+#: wp-admin/network/settings.php:212
+msgid "If registration is disabled, please set %1$s in %2$s to a URL you will redirect visitors to if they visit a non-existent site."
+msgstr "Ma yella asnulfu n umiḍan yexsi, ttxil-k seɣwer %1$s di %2$s ɣer URL iɣer tebɣiḍ ad twelheḍ inerza ticki rzan ɣer usmel ur nelli ara."
+
+#. translators: 1: WP_ALLOW_MULTISITE, 2: wp-config.php
+#: wp-admin/network.php:44
+msgid "You must define the %1$s constant as true in your %2$s file to allow creation of a Network."
+msgstr "Ilaq ad terreḍ timezgit %1$s ɣer true deg ufaylu-inek %2$s iwakken ad d-yili usnulfu n uẓeṭṭa."
+
+#: wp-admin/network/themes.php:331
+msgid "Themes list navigation"
+msgstr "Snirem tabdart n isental"
+
+#: wp-admin/network/sites.php:52
+msgid "Sites list"
+msgstr "Tabdart n isemlen"
+
+#: wp-admin/network/sites.php:51
+msgid "Sites list navigation"
+msgstr "Snirem tabdart n isemlen"
+
+#: wp-admin/network/site-users.php:27
+msgid "Site users list"
+msgstr "Tabdart n iseqdacen n usmel"
+
+#: wp-admin/network/site-users.php:26
+msgid "Site users list navigation"
+msgstr "Snirem tabdart n iseqdacen n usmel"
+
+#: wp-admin/network/site-users.php:25
+msgid "Filter site users list"
+msgstr "Sti tabdart n iseqdacen n usmel"
+
+#: wp-admin/network/site-themes.php:24
+msgid "Site themes list"
+msgstr "Tabdart n isental n usmel"
+
+#: wp-admin/network/site-themes.php:23
+msgid "Site themes list navigation"
+msgstr "Snirem tabdart n isental n usmel"
+
+#: wp-admin/network/site-themes.php:22
+msgid "Filter site themes list"
+msgstr "Sti tabdart n isental n usmel"
+
+#: wp-admin/network/site-new.php:121
+msgid "The domain or path entered conflicts with an existing username."
+msgstr "Taɣult neɣ abrid i tskecmeḍ yettemceččaw aked yisem n useqdac i yellan yakan."
+
+#: wp-admin/network/sites.php:89
+msgid "The requested action is not valid."
+msgstr "Tigawt tsutreḍ d turameɣtut."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:81
+msgid "You are about to mark the site %s as not mature."
+msgstr "Ala tettedduḍ ad temmleḍ belli asmel %s ur yettwaḥerra ara i yimawaḍen."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:79
+msgid "You are about to mark the site %s as mature."
+msgstr "Ala tettedduḍ ad temmleḍ belli asmel %s yettwaḥerra i yimawaḍen."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:77
+msgid "You are about to delete the site %s."
+msgstr "Ala tettedduḍ ad tekkseḍ asmel %s."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:75
+msgid "You are about to mark the site %s as spam."
+msgstr "Ala tettedduḍ ad tcerḍeḍ asmel %s d imcewwel."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:73
+msgid "You are about to unspam the site %s."
+msgstr "Ala tettedduḍ ad tcerḍeḍ asmel %s yeṣfa."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:71
+msgid "You are about to archive the site %s."
+msgstr "Ala tettedduḍ ad tɣebreḍ asmel %s."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:69
+msgid "You are about to unarchive the site %s."
+msgstr "Ala tettedduḍ ad tekkseḍ aɣbar i wesmel %s."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:67
+msgid "You are about to deactivate the site %s."
+msgstr "Ala tettedduḍ ad tekkseḍ aɣbar i wesmel %s."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:65
+msgid "You are about to activate the site %s."
+msgstr "Ala tettedduḍ ad tesremdeḍ asmel %s."
+
+#: wp-admin/network/site-info.php:28 wp-admin/network/site-settings.php:28
+#: wp-admin/network/site-themes.php:53 wp-admin/network/site-users.php:46
+msgid "The requested site does not exist."
+msgstr "Asmel yettwasutren ulac-it."
+
+#: wp-admin/network/user-new.php:29 wp-admin/network/users.php:230
+msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Tasemlit ɣef iseqdacen n uẓeṭṭa</a>."
+
+#: wp-admin/network/themes.php:323
+msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Tasemlit ɣef isental n uẓeṭṭa</a>."
+
+#. translators: 1: Site URL, 2: Server error message.
+#: wp-admin/network/upgrade.php:98
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
+msgstr "Ɣurekk ! Yeḍra-d wugur deg uleqqem n %1$s. Aqeddac-inek ahat ur ittizmir ara ad iqqen ɣer kra n isemlen ittusbedden deg-s. Anezri n wugur : %2$s."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:392
+msgid "%s theme deleted."
+msgid_plural "%s themes deleted."
+msgstr[0] "%s n usentel yettwakkes."
+msgstr[1] "%s n isental ttwakksen."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/site-themes.php:204 wp-admin/network/themes.php:383
+msgid "%s theme disabled."
+msgid_plural "%s themes disabled."
+msgstr[0] "%s n usentel yexsi."
+msgstr[1] "%s n isental xsin."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/site-themes.php:195 wp-admin/network/themes.php:374
+msgid "%s theme enabled."
+msgid_plural "%s themes enabled."
+msgstr[0] "%s n usentel yermed."
+msgstr[1] "%s n isental remden."
+
+#: wp-admin/network/themes.php:175
+msgid "Yes, delete these themes"
+msgstr "Ih, kkes isental-agi"
+
+#: wp-admin/network/themes.php:142
+msgid "You are about to remove the following themes:"
+msgstr "Ala tettedduḍ ad tekkseḍ isental-agi :"
+
+#: wp-admin/network/themes.php:141
+msgid "These themes may be active on other sites in the network."
+msgstr "Isental-agi zemren ad ilin d urmiden deg isemlen-nniḍen n uẓeṭta."
+
+#: wp-admin/network/themes.php:140
+msgid "Delete Themes"
+msgstr "Kkes isental-agi"
+
+#: wp-admin/network/site-info.php:196
+msgid "Set site attributes"
+msgstr "Sbadu iraten n usmel"
+
+#: wp-admin/network/settings.php:496
+msgid "Enable menus"
+msgstr "Sermed umuɣen"
+
+#: wp-admin/network/settings.php:429
+msgid "Size in kilobytes"
+msgstr "Taille en kilooctets"
+
+#: wp-admin/network/settings.php:413
+msgid "Allowed file types. Separate types by spaces."
+msgstr "Anawen n ifuyla yurgen. Brez anawan s tallunt."
+
+#: wp-admin/network/settings.php:202
+msgid "New registrations settings"
+msgstr "Iɣwaren i iklasen imaynuten"
+
+#. translators: 1: File name (.htaccess or web.config), 2: File path.
+#: wp-admin/includes/network.php:609 wp-admin/includes/network.php:662
+msgid "Add the following to your %1$s file in %2$s, <strong>replacing</strong> other WordPress rules:"
+msgstr "Rnu ilugan-agi ɣer ufaylu-inek %1$s, deg ukaram %2$s, <strong>ad semselsin</strong> ilugan-nniḍen n WordPress :"
+
+#: wp-admin/network/sites.php:114 wp-admin/network/sites.php:190
+msgid "Confirm your action"
+msgstr "Serggeg tigawt-agi"
+
+#: wp-admin/network/users.php:220
+msgid "Hover over any user on the list to make the edit links appear. The Edit link on the left will take you to their Edit User profile page; the Edit link on the right by any site name goes to an Edit Site screen for that site."
+msgstr "Sɛeddi taɣerdayt ɣef yisem n useqdac iwakken ad twaliḍ isɣewnen n teẓrigt. S useɣwen azelmaḍ ad tẓergeḍ alegdis n useqdac, s useɣwen ayfus ad tẓergeḍ asmel-nni."
+
+#: wp-admin/network/index.php:43
+msgid "To search for a site, <strong>enter the path or domain</strong>."
+msgstr "Iwakken ad tnadiḍ asmel, <strong>sekcem abrid neɣ taɣult</strong>."
+
+#: wp-admin/network/index.php:42
+msgid "To search for a user, <strong>enter an email address or username</strong>. Use a wildcard to search for a partial username, such as user&#42;."
+msgstr "Iwakken ad tnadiḍ aseqdac, <strong>sekcem tansa email address neɣ isem n useqdac</strong>. Seqdec azamul itri (*) iwakken ad tgeḍ anadi ɣef yisem n useqdac amuran, amedya aseqd&#42;."
+
+#: wp-admin/network/index.php:40
+msgid "To add a new site, <strong>click Create a New Site</strong>."
+msgstr "Iwakken ad ternuḍ asmel amaynut, <strong>ssed ɣef Snulfu-d asmel amaynut</strong>."
+
+#: wp-admin/network/index.php:39
+msgid "To add a new user, <strong>click Create a New User</strong>."
+msgstr "Iwakken ad ternuḍ aseqdac amaynut, <strong>ssed ɣef Snulfu-d aseqdac amaynut</strong>."
+
+#: wp-admin/network/index.php:48
+msgid "Quick Tasks"
+msgstr "Tiwuriwin tiruradin"
+
+#: wp-admin/network/index.php:41
+msgid "To search for a user or site, use the search boxes."
+msgstr "Iwakken ad tnadiḍ aseqdac neɣ asmel, seqdec urtiyen n unadi."
+
+#: wp-admin/network/index.php:38
+msgid "The Right Now widget on this screen provides current user and site counts on your network."
+msgstr "Awidget n wassa deg ugdil-agi  ad k-d-yefk amḍan n iseqdacen aked isemlen deg uẓeṭṭa-inek."
+
+#: wp-admin/network/index.php:28
+msgid "Modify global network settings"
+msgstr "Beddel iɣewwaren imuta n uẓeṭṭa"
+
+#: wp-admin/network/index.php:27
+msgid "Update your network"
+msgstr "Leqqem aẓeṭṭa-inek"
+
+#: wp-admin/network/index.php:26
+msgid "Install and activate themes or plugins"
+msgstr "Sbedd u sermed isental neɣ isiɣzifen"
+
+#: wp-admin/network/index.php:25
+msgid "Add and manage sites or users"
+msgstr "Rnu u sefrek isemlen neɣ iseqdacen"
+
+#: wp-admin/network/index.php:24
+msgid "From here you can:"
+msgstr "Syagi tzemreḍ :"
+
+#: wp-admin/network/index.php:23
+msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
+msgstr "Anṣuf yisek ɣer tedbelt n uẓeṭṭa-inek. Aḥric-agi n igdilen n tedbelt ttwasqedcen i wesefrek n uẓeṭṭa-inek n isemlen iggten."
+
+#: wp-admin/network/upgrade.php:140
+msgid "WordPress has been updated! Before we send you on your way, we need to individually upgrade the sites in your network."
+msgstr "WordPress yettwaleqqem ! Send ad k-neǧ ad tkemmeleḍ, ilaq ad nleqqem yal asmel n uẓeṭṭa-inek."
+
+#: wp-admin/network/upgrade.php:23
+msgid "Only use this screen once you have updated to a new version of WordPress through Updates/Available Updates (via the Network Administration navigation menu or the Toolbar). Clicking the Upgrade Network button will step through each site in the network, five at a time, and make sure any database updates are applied."
+msgstr "Seqdec agdil-agi ma yella kan tleqmeḍ asbeddi-agi n WordPress s ttawil n Ileqman/Ileqmaniwejden (s twuriwin n uleqqem awurman neɣ s tfeggagt n ifecka). Mi tessdeḍ ɣef Leqqem aẓeṭṭa, WordPress ad d-ilhi d isemlen merra n uẓeṭṭa, s ugraw n smus, yerna ad itḥeqqeq belli izaduren n isefka ttwaleqqemen."
+
+#: wp-admin/network/menu.php:46 wp-admin/network/upgrade.php:15
+#: wp-admin/network/upgrade.php:42 wp-admin/network/upgrade.php:144
+msgid "Upgrade Network"
+msgstr "Sali aswir n uẓeṭṭa"
+
+#: wp-admin/includes/network.php:263 wp-admin/includes/network.php:615
+#: wp-admin/includes/network.php:668
+msgid "Subdirectory networks may not be fully compatible with custom wp-content directories."
+msgstr "Ikaramen inadayen zemren ur ttilin ara d imṣudda aked ikaramen yugnen n  wp-content."
+
+#: wp-admin/network.php:62
+msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing WordPress rules)."
+msgstr "Rnu izirigen n tengalt ɣer wp-config.php (sdat n <code>/*...stop editing...*/</code>) aked <code>.htaccess</code> (ad tsemselsiḍ ilugan WordPress i yellan yakan)."
+
+#: wp-admin/network/settings.php:440
+msgid "Language Settings"
+msgstr "Iɣewwaren n tutlayt"
+
+#: wp-admin/network/settings.php:238
+msgid "Allow site administrators to add new users to their site via the \"Users &rarr; Add New\" page"
+msgstr "Sireg inedbalen n isemlen akken ad rnun iseqdacen imaynuten ɣer isemlen-nsen seg usebtar&laquo;&nbsp; Iseqdacen&rarr; Rnu amaynut\"."
+
+#: wp-admin/network/settings.php:57
+msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."
+msgstr "Inedbalen ifellayen ulamek tura ara ttwarennun seg ugdil n textiṛɣin. Ilaq ad terzuḍ ɣer tebdart n iseqdacen Tadbelt n uẓeṭṭa > Iseqdacen sakin ad tessdeḍ ɣef yisem n useqdac neɣ ɣef useɣwen Ẓreg ddaw n yisem. Ayagi ad yeldi asebtar n teẓrigt n useqdac anida ara tferneḍ taxxamt iwakken ad tbeddeleḍ tamelilt n usaqdec."
+
+#: wp-admin/network/site-users.php:264
+msgid "Enter the username and email."
+msgstr "Sekcem isem n useqdac aked tansa email."
+
+#: wp-admin/network/site-users.php:261
+msgid "User created."
+msgstr "Aseqdacyenulfa-d."
+
+#: wp-admin/network/site-users.php:258
+msgid "Select a user to remove."
+msgstr "Fren aseqdac ara tekkseḍ."
+
+#: wp-admin/network/site-users.php:252
+msgid "Select a user to change role."
+msgstr "Fren aseqdac iwumi tebɣiḍ ad tekkseḍ tamlilt."
+
+#: wp-admin/network/site-users.php:246
+msgid "Enter the username of an existing user."
+msgstr "Sekcem isem n useqdac yellan."
+
+#: wp-admin/network/site-users.php:240
+msgid "User is already a member of this site."
+msgstr "Aseqdac-agi yella yakan d ameltaɣ n usmel-agi."
+
+#: wp-admin/network/site-settings.php:78
+msgid "Site options updated."
+msgstr "Iɣwaren n usmel ttwaleqqemen."
+
+#: wp-admin/network/site-new.php:177 wp-admin/network/site-new.php:187
+msgid "Add New Site"
+msgstr "Rnu asmel amaynut"
+
+#. translators: 1: Dashboard URL, 2: Network admin edit URL.
+#: wp-admin/network/site-new.php:170
+msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
+msgstr "Asmel yettwarenna. <a href=\"%1$s\">Beqeḍ tafelwit n tedbelt</a> | <a href=\"%2$s\">Ẓreg asmel</a>"
+
+#: wp-admin/network/site-new.php:25
+msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
+msgstr "Agdil-agi ad yesuref i yinedbalen inaflayen ad rnun isemlen ɣer uẓeṭṭa. Iɣewwaren n uklas ur t-ttḥazan ara."
+
+#: wp-admin/network/site-info.php:121
+msgid "Site info updated."
+msgstr "Isallan n usmel ttwaleqqemen."
+
+#: wp-admin/network/themes.php:416
+msgid "You cannot delete a theme while it is active on the main site."
+msgstr "Ur tezmireḍ ara ad tekkseḍ asentel ma yella yermed deg usmel agejdan."
+
+#: wp-admin/network/themes.php:301
+msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
+msgstr "Anedbal n uẓeṭṭa yezemren ad isermed isental i yal asmel yiwen yiwen, seg ugdil n teẓrigt n yal asmel (wid yesɛan tafelwit n isental). Di yal agdi n isemlen yella useɣwen Ẓreg i yettawin ɣer din. Ḥaca inedbalen n uẓeṭṭa i yezemren ad sbedden neɣ ad ẓergen isental.du réseau peuvent installer ou modifier des thèmes."
+
+#: wp-admin/network/themes.php:182
+msgid "No, return me to the theme list"
+msgstr "Ala, bɣiɣ ad uɣaleɣ ɣer tebdart n isental."
+
+#: wp-admin/network/themes.php:173
+msgid "Yes, delete this theme"
+msgstr "Ih, kkes asentel-agi"
+
+#: wp-admin/network/themes.php:159
+msgid "Are you sure you want to delete these themes?"
+msgstr "D tidett tebɣiḍ ad tekkseḍ isental-agi ?"
+
+#: wp-admin/network/themes.php:138
+msgid "You are about to remove the following theme:"
+msgstr "Ala tettedduḍ ad tekkseḍ asentel-agi :"
+
+#: wp-admin/network/themes.php:137
+msgid "This theme may be active on other sites in the network."
+msgstr "Asentel-agi izmer ad yili yermed deg isemlen-nniḍen n uẓeṭṭa"
+
+#: wp-admin/network/themes.php:136
+msgid "Delete Theme"
+msgstr "Kkes asentel-agi"
+
+#: wp-admin/network/site-themes.php:212
+msgid "Network enabled themes are not shown on this screen."
+msgstr "Isental iremden i weẓeṭṭa ur ttwabeqqeḍen ara deg ugdil-agi."
+
+#: wp-admin/network/site-themes.php:208 wp-admin/network/themes.php:414
+msgid "No theme selected."
+msgstr "Ulac asentel yettwafernen."
+
+#: wp-admin/network/site-themes.php:201 wp-admin/network/themes.php:380
+msgid "Theme disabled."
+msgstr "Asentel yexsi."
+
+#: wp-admin/network/site-themes.php:192 wp-admin/network/themes.php:371
+msgid "Theme enabled."
+msgstr "Asentel yermed."
+
+#. translators: %s: Site title.
+#: wp-admin/network/site-info.php:126 wp-admin/network/site-settings.php:83
+#: wp-admin/network/site-themes.php:170 wp-admin/network/site-users.php:199
+msgid "Edit Site: %s"
+msgstr "Ẓreg asmel: %s"
+
+#: wp-admin/network/site-info.php:23 wp-admin/network/site-settings.php:23
+#: wp-admin/network/site-themes.php:46 wp-admin/network/site-users.php:41
+msgid "Invalid site ID."
+msgstr "ID n usmel d urameɣtu."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:167
+msgid "Sorry, you are not allowed to delete the site %s."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tekkseḍ asmel %s."
+
+#: wp-admin/network/sites.php:39
+msgid "Clicking on bold headings can re-sort this table."
+msgstr "Ssed ɣef inixfen izurznen iwakken ad tekkseḍ tafelwit-agi."
+
+#: wp-admin/network/sites.php:36
+msgid "Delete which is a permanent action after the confirmation screens."
+msgstr "Kkes d tigawt ur tezmireḍ ara ad tesemmeteḍ ticki terggeg."
+
+#: wp-admin/network/sites.php:34
+msgid "Dashboard leads to the Dashboard for that site."
+msgstr "Tafelwit n tedbelt ad k-yawi ɣer tfelwit n tedbelt n usmel-nni."
+
+#: wp-admin/network/sites.php:33
+msgid "An Edit link to a separate Edit Site screen."
+msgstr "Aseɣwen Ẓreg ɣer ugdil amaynut n teẓrigt n usmel."
+
+#: wp-admin/network/sites.php:30
+msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
+msgstr "Rnu Amaynut ad k-yawi ɣer ugdil Rnu asmel amaynut. Tzemreḍ ad tnadiḍ asmel s yisem, s yisem n useqdac neɣ s tansa IP. Tixtiṛiyin n ugdil ad k-surgent ad tferneḍ amḍan n isemlen ara yettwabeqqeḍen deg yiwen n usebtar. "
+
+#: wp-admin/network/site-users.php:318 wp-admin/network/user-new.php:148
+msgid "Add User"
+msgstr "Rnu aseqdac"
+
+#: wp-admin/network/user-new.php:55
+msgid "Cannot add user."
+msgstr "Ulamek ara yettwarena useqdac-agi."
+
+#: wp-admin/network/user-new.php:22
+msgid "Add User will set up a new user account on the network and send that person an email with username and password."
+msgstr "Rnu Aseqdac ad d-isnulfu amiḍan n useqdac deg uẓeṭṭa yerna ad yazen i weseqdac-nni izen ideg ara yili yisem n useqdac ines aked wawal n uɛeddi ines."
+
+#: wp-admin/network/menu.php:41
+msgid "Updates"
+msgstr "Ileqman"
+
+#: wp-admin/network/menu.php:111 wp-admin/network/settings.php:20
+msgid "Network Settings"
+msgstr "Iɣewwaren n uẓeṭṭa"
+
+#: wp-admin/network/menu.php:80
+msgid "Installed Themes"
+msgstr "Isental yettusbedden"
+
+#: wp-admin/network/menu.php:52
+msgid "All Sites"
+msgstr "Isemlen merra"
+
+#: wp-admin/includes/network.php:680
+msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
+msgstr "Mi tɛeddaḍ imecwaren-agi, aẓeṭṭa-inek ad yermed yerna ad iɣwer. Imiren ilaq-ak ad ad teqqneḍ tikkelt-nniḍen."
+
+#: wp-admin/includes/network.php:545
+msgid "To make your installation more secure, you should also add:"
+msgstr "Iwakken ad tesɣelseḍ ugar asbeddi-inek, ilaq daɣen ad ternuḍ :"
+
+#: wp-admin/includes/network.php:440
+msgid "Complete the following steps to enable the features for creating a network of sites."
+msgstr "Ḍfer imecwaren-agi iwakken ad tesremdeḍ timeẓla n usnulfu n uẓeṭṭa n isemlen."
+
+#: wp-admin/includes/network.php:439
+msgid "Enabling the Network"
+msgstr "Sermed aẓeṭṭa"
+
+#: wp-admin/includes/network.php:428
+msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
+msgstr "Ttxil-k ḍfer imecwaren n tiwila. iwakken ad d-tesnulfuḍ aẓeṭṭa amaynut, ilaq ad sefḍeḍ neɣ ad tekkseḍ tidabutin n uẓeṭṭa deg uzadur n isefka."
+
+#: wp-admin/includes/network.php:427
+msgid "An existing WordPress network was detected."
+msgstr "Nufa-d aẓeṭṭa n WordPress i yellan yakan."
+
+#: wp-admin/includes/network.php:422
+msgid "The original configuration steps are shown here for reference."
+msgstr "Imecwaren n twila n tazwara ttwabeqqeḍen dagi i temselɣut."
+
+#: wp-admin/includes/network.php:369
+msgid "Your email address."
+msgstr "Tansa-inek email."
+
+#: wp-admin/includes/network.php:360
+msgid "What would you like to call your network?"
+msgstr "Amek i tebɣiḍ ad tsemmiḍ i weẓeṭṭa-inek ?"
+
+#: wp-admin/includes/network.php:356 wp-admin/network/settings.php:153
+msgid "Network Title"
+msgstr "Azwel n uẓeṭṭa"
+
+#: wp-admin/includes/network.php:335
+msgid "Because your installation is not new, the sites in your WordPress network must use sub-domains."
+msgstr "Segmi asbeddi inek n WordPress mači d amaynut, isemlen n uẓeṭṭa-inek ilaq ad sqedcen tiɣulin tinadayin."
+
+#: wp-admin/includes/network.php:322
+msgid "Because your installation is in a directory, the sites in your WordPress network must use sub-directories."
+msgstr "Segmi asbeddi-inek n WordPress yella deg ukaram, isemlen n uẓeṭṭa-inek ilaq ad sqedcen ikaramen inadayen."
+
+#: wp-admin/includes/network.php:312 wp-admin/includes/network.php:325
+#: wp-admin/includes/network.php:336
+msgid "The main site in a sub-directory installation will need to use a modified permalink structure, potentially breaking existing links."
+msgstr "Asmel agejdan n usbeddi s ikaramen inadayen ilaq ad iseqdec tamṣuka n isɣewnen imaɣlalen yettwabeddelen, ayen i yezemren ad ireẓẓ isɣewnen yellan."
+
+#: wp-admin/includes/network.php:297
+msgid "Network Details"
+msgstr "Ifatusen n uẓeṭṭa"
+
+#: wp-admin/includes/network.php:269 wp-admin/includes/network.php:283
+#: wp-admin/includes/network.php:343
+msgid "Server Address"
+msgstr "Tansa n uqeddac"
+
+#. translators: 1: Host name.
+#: wp-admin/includes/network.php:251
+msgctxt "subdirectory examples"
+msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
+msgstr "am <code>%1$s/site1</code> aked <code>%1$s/site2</code>"
+
+#: wp-admin/includes/network.php:246
+msgid "Sub-directories"
+msgstr "Ikaramen inadayen"
+
+#. translators: 1: Host name.
+#: wp-admin/includes/network.php:239
+msgctxt "subdomain examples"
+msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
+msgstr "am <code>site1.%1$s</code> aked <code>site2.%1$s</code>"
+
+#: wp-admin/includes/network.php:234
+msgid "Sub-domains"
+msgstr "Tiɣula tinadayin"
+
+#: wp-admin/includes/network.php:230
+msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
+msgstr "Ma tebɣiḍ ad tesqedceḍ tameẓla n usneftaɣ uhlis (taɣult tanadawt), ad tiḥwiǧeḍ asekles DNS awsyan."
+
+#: wp-admin/includes/network.php:227
+msgid "Addresses of Sites in your Network"
+msgstr "Tansiwin n isemlen n uẓeṭṭa-inek"
+
+#: wp-admin/includes/network.php:195
+msgid "Note:"
+msgstr "Tazmilt:"
+
+#: wp-admin/includes/network.php:182
+msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of WordPress sites. We will create configuration files in the next step."
+msgstr "Semmed issalan-agi uksar sakin ad tizmireḍ ad d-tesnulfuḍ aẓeṭta n isemlen n WordPress. Ad d-nesnulfu ifuyla n twila deg umecwar i d-iteddun."
+
+#: wp-admin/includes/network.php:181
+msgid "Welcome to the Network installation process!"
+msgstr "Anṣuf ɣer usbeddi n uẓeṭṭa !"
+
+#: wp-admin/includes/network.php:160
+msgid "Error: The network could not be created."
+msgstr "ANEZRI : aẓeṭṭa ulamek ara d-yenulfu."
+
+#: wp-admin/includes/network.php:142
+msgid "You cannot install a network of sites with your server address."
+msgstr "Ur tezmireḍ ara ad tesbeddeḍ aẓeṭṭa n isemlen s tansa inek n uqeddac."
+
+#: wp-admin/includes/network.php:133
+msgid "Once the network is created, you may reactivate your plugins."
+msgstr "Mi d-yenulfa uẓeṭṭa, ad tizmireḍ ad tesremdeḍ tikkelt-nniḍen isiɣzifen."
+
+#. translators: %s: URL to Plugins screen.
+#: wp-admin/includes/network.php:130
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr "Ttxil-k <a href=\"%s\">sexsi isiɣzifen</a> send ad tesremdeḍ tameẓlut Aẓeṭṭa."
+
+#: wp-admin/network.php:72
+msgid "Network"
+msgstr "Aẓeṭṭa"
+
+#: wp-admin/network.php:64
+msgid "The choice of subdirectory sites is disabled if this setup is more than a month old because of permalink problems with &#8220;/blog/&#8221; from the main site. This disabling will be addressed in a future version."
+msgstr "Ma yella aẓeṭṭa yettwasbedd ugar n waggur aya, Ttanefrunt n isemlen s ikaramen inaddawen ad yexsi iwakken ur d-ttilin ara wuguren n isɣewnen imaɣlalen s &#8220;/blog/&#8221;  di tansa n usmel agejdan. Asexsi-agi ad ittuseɣti di tuttuyin i d-iteddun."
+
+#: wp-admin/network.php:63
+msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
+msgstr "Ticki terniḍ tangal-agi u tleqqemeḍ asebtar, askar n isemlen iggten ad yermed.Agdil-agi ad yili deg umuɣ Tadbelt n uẓeṭṭa, ad yeḥrez aɣbar n tengalt yettwarennan. Tzemreḍ ad tnefleḍ si tedbelt n uẓeṭṭa ɣer tedbelt n usmel s tussda ɣef Tadbelt n uẓeṭṭa neɣ ɣef yisem n usmel deg umuɣ ifettin Ismeln-iw, di tfeggagt n ifecka."
+
+#: wp-admin/network.php:61
+msgid "The next screen for Network Setup will give you individually-generated lines of code to add to your wp-config.php and .htaccess files. Make sure the settings of your FTP client make files starting with a dot visible, so that you can find .htaccess; you may have to create this file if it really is not there. Make backup copies of those two files."
+msgstr "Agdil i d-iteddun ak d-yefk izirigen n tengalt i d-yenulfan si twila-inek, ilaq ad ten-ternuḍ ɣer ifuyla-inek wp-config.php aked .htaccess files. Ilaq amssaɣ FTP inek ad yili iɣwer akken ad ibeqqeḍ ifuyla ibeddun s tenqiḍt, iwakken ad tizmireḍ ad d-tafeḍ afaylu  .htaccess files. Ma yella ulac-it ilaq ad t-id-tesnulfuḍ. Send ad tbeddeleḍ ifuyla ilaq ad ten-tḥerzeḍ."
+
+#: wp-admin/network.php:60
+msgid "Choose subdomains or subdirectories; this can only be switched afterwards by reconfiguring your installation. Fill out the network details, and click Install. If this does not work, you may have to add a wildcard DNS record (for subdomains) or change to another setting in Permalinks (for subdirectories)."
+msgstr "Fren gar taɣulin tinadayin aked ikaramen inadayen. Mi yeɣwer usbeddi, ur tettizmireḍ ara ad tuɣaleḍ ɣer deffir alama tulseḍ si swadda. Sekcem akk ifatusen sakin ssed ɣef Sbedd. Ma yella anect-agi yugi ad ilḥu, ilaq ak ad ternuḍ anekcum n taɣult tanadayt tawsyant \"wildcard\" deg yikalasen-ik DNS, neɣ ad tɛeddiḍ ɣer iɣwaren-nniḍen n isɣewnen imaɣlalen (ma yella d ikaramen inadayen)."
+
+#: wp-admin/network.php:59
+msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
+msgstr "Deg ugdil-agi ad tesɣewreḍ aẓeṭṭa, s tɣula tinadayin (<code>asmel1.amedya.com</code>) neɣ s ikaramen inadayen (<code>amedya.com/asmel1</code>). Talɣa n taɣult tanadayt tuḥwaǧ anekcum n taɣult tanadayt tawsyant \"wildcard\" deg yikalasen DNS aked twila Apache, ma yella asneftaɣ-inek yesureg-it."
+
+#: wp-admin/network.php:55
+msgid "Create a Network of WordPress Sites"
+msgstr "Snulfu-d aẓeṭṭa n isemlen n WordPress"
+
+#: wp-admin/network.php:29
+msgid "The Network creation panel is not for WordPress MU networks."
+msgstr "Agalis n usnulfu n uẓeṭṭa ur yettwaxdam ara i yiẓeḍwa WordPress MU."
+
+#. translators: %s: User login.
+#: wp-admin/network/users.php:77
+msgid "Warning! User cannot be modified. The user %s is a network administrator."
+msgstr "Ɣurek ! Aseqdac %s ulamek ara yettwabeddel acku d anedbal n uẓeṭṭa."
+
+#: wp-admin/network/site-new.php:26
+msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
+msgstr "Ma yella ulac tansa n unermes n usmel amaynut deg uzadur n isefdka, aseqdac amaynut ad d-yenulfu i wayagi."
+
+#: wp-admin/network/sites.php:38
+msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
+msgstr "ID n usmel yettwaseqdec daxel ur yettwabeqqeḍ ara di tama tazayezt n usmel neɣ i imerza aked iseqdacen."
+
+#: wp-admin/network/sites.php:35
+msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
+msgstr "Sexsi, Seɣber, Imcewwel ad ldin igdilen n userggeg. Tigawin-agi tzemreḍ ad tent-tesemmeteḍ ar ḍqal."
+
+#: wp-admin/network/sites.php:32
+msgid "Hovering over each site reveals seven options (three for the primary site):"
+msgstr "Ma tesɛeddaḍ taɣerdayt nnig n usmel ad twaliḍ ṣa(7) n textiṛiyin (kraḍ i wesmel agejdan) :"
+
+#: wp-admin/network/settings.php:51
+msgid "Operational settings has fields for the network&#8217;s name and admin email."
+msgstr "Iɣewwaren n tiddit zemren ad beddelen isem n uẓeṭṭa, aked tansa email n unedbal."
+
+#: wp-admin/network/users.php:223
+msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
+msgstr "S wumuɣ Tigawin igerwen tzemreḍ ad tekkseḍ aṭas n iseqdacen ɣef yiwet n tikkelt, neɣ ad ten tcerḍeḍ/ad sen-tekkseḍ acraḍ d imcewwelen. Iseqdacen imcewwelen ad ttwakksen imagraden-nnsen yerna ur ttuɣalen ara ad qqnen s tansa-nnsen"
+
+#: wp-admin/network/users.php:221
+msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
+msgstr "Tzemreḍ daɣen ad terzuḍ ɣer usebter n ulegdis n useqdac ma tessdeḍ ɣef yisem n useqdac-ines."
+
+#: wp-admin/network/settings.php:54
+msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
+msgstr "Iɣewwaren n tuzna n ifuyla sbedaden tiddi n ifuyla ara yettwaznen aked tallunt n yal asmel. Tzemreḍ ad tesbaduḍ azal i yal asmel. Tzemreḍ daɣen ad tesbaduḍ anaw n isemlen yurgen (ad berzen s tallunt kan)."
+
+#: wp-admin/network/sites.php:37
+msgid "Visit to go to the front-end site live."
+msgstr "Rzu ad k-yawi ɣer usmel s tilawt."
+
+#: wp-admin/network/users.php:224
+msgid "You can make an existing user an additional super admin by going to the Edit User profile page and checking the box to grant that privilege."
+msgstr "Tzemreḍ ad tsaliḍ aseqdac i yellan yakan ad t-terreḍ d anedbal afelay, ma tferneḍ taxxamt deg usebtar n ulegdis-ines."
+
+#: wp-admin/network/user-new.php:23
+msgid "Users who are signed up to the network without a site are added as subscribers to the main or primary dashboard site, giving them profile pages to manage their accounts. These users will only see Dashboard and My Sites in the main navigation until a site is created for them."
+msgstr "Iseqdacen i yekelsen deg uẓeṭṭa war ma snulfan-d asmel ad uɣalen d imeltaɣen n tfelwit n tedbelt n usmel agejdan, anida ara sɛun isebtar n ulegdis ideg ara sferken imiḍanen-nnsen. Skud ur d-yenulfa ara usmel-nnes, ḥaca tixtiṛiyin Tafelwit n tedbelt aked Ismeln-iw ara walin deg wumuɣ agejdan."
+
+#: wp-admin/network/users.php:222
+msgid "You can sort the table by clicking on any of the table headings and switch between list and excerpt views by using the icons above the users list."
+msgstr "S tussda ɣef uzwel n tgejdit ad tbeddeleḍ afran n tfelwit. Tignitin uksawen ɣer zelmaḍ ad surgent ma ad tsekneḍ neɣ ala tussifin."
+
+#: wp-admin/network/users.php:219
+msgid "This table shows all users across the network and the sites to which they are assigned."
+msgstr "Tafelwit-agi tbeqqeḍ iseqdacen merra n uẓeṭṭa aked isemlen iɣer dduklen."
+
+#: wp-admin/network/upgrade.php:25
+msgid "If this process fails for any reason, users logging in to their sites will force the same update."
+msgstr "Ma yella akala-agi yerreẓ, mi ara yeqqen useqdac menwala ɣer usmel-ines ad yeskker aleqqem-agi."
+
+#: wp-admin/network/upgrade.php:24
+msgid "If a version update to core has not happened, clicking this button won&#8217;t affect anything."
+msgstr "Ma yella ulac lqem n usbeddi n WordPress, ulac acu ara yeḍrun ma tessdeṣ ɣef tanast-agi."
+
+#: wp-admin/network/themes.php:300
+msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
+msgstr "Ma yella anedbal n uẓeṭṭa yesexsi asentel i yettwasqedcen deg usmel akka tura, asentel-agi ad iqqim deg usmel-nni. Ma yella asmel-nni ibeddel asentel, asentel yexsin dayen ur yettwabeqqeḍ ara deg ugdil n isental n usmel-nni."
+
+#: wp-admin/network/themes.php:299
+msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
+msgstr "Agdil-agi ad k-yesuref ad tesremdeḍ neɣ ad tsexsiḍ isental i isemlen merra n uẓeṭṭa. Ur yezmir ara ad isermed neɣ ad isexsi asentel i yesseqdac usmel-agi akka tura."
+
+#: wp-admin/network/sites.php:31
+msgid "This is the main table of all sites on this network. Switch between list and excerpt views by using the icons above the right side of the table."
+msgstr "Attaya tebdart n isemlen n uẓeṭṭa-yagi. Tzemreḍ ad tsnefleḍ gar tebdart aked tussift s ttawil n tignitin uksawen ɣer yefus n tebdart."
+
+#: wp-admin/network/settings.php:56
+msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
+msgstr "Iɣewwaren n wumuɣ ad remden/ad sexsin tigezmi Isiɣzifen seg wumuɣ i yiseqdacen imagnuyen, s wakka ḥaca inedbalen ifelayen ara yizmiren ad sremden isiɣzifen."
+
+#: wp-admin/network/settings.php:53
+msgid "New site settings are defaults applied when a new site is created in the network. These include welcome email for when a new site or user account is registered, and what&#8127;s put in the first post, page, comment, comment author, and comment URL."
+msgstr "Isemlen imaynuten n uẓeṭṭa ad sɛun iɣewwaren n lexṣas : izen n usnubeg i weseqdac amaynut neɣ i wesmel amaynut, agbur n umagrad amezwaru, n usebar amezwaru neɣ n uwennit amezwaru, ameskar akedURL n umeskar n uwennit."
+
+#: wp-admin/network/settings.php:52
+msgid "Registration settings can disable/enable public signups. If you let others sign up for a site, install spam plugins. Spaces, not commas, should separate names banned as sites for this network."
+msgstr "Iɣewwaren n uklas zemren ad ldin neɣ ad medlen iklasen n uzayez. Ma teldiḍ iklasen, ttxil-k sbedd asiɣzef mgal spam. Ismawen n taɣult igedlen ilaq ad berzen s tallunt mači s ticcert."
+
+#: wp-admin/network/settings.php:50
+msgid "This screen sets and changes options for the network as a whole. The first site is the main site in the network and network options are pulled from that original site&#8217;s options."
+msgstr "Agdil-agi izmer ad iseɣwer neɣ ad ibeddel aẓeṭṭa s timad-is. Asmel amezwaru d asmel agejdan u segs i d-ttwakksent textiṛiyin n uẓeṭṭa."
+
+#. translators: %s: Reserved names list.
+#: wp-admin/network/site-new.php:59
+msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names: %s"
+msgstr "Isemawen-agi ttwaḥerran iwakken ad ttwasqedcent s twuriwin n WordPress, ulamek ara ttwasqedcent i i yisem n usmel : %s"
+
+#: wp-admin/network/upgrade.php:124
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Ma yella iminig-inek ur yeskir ara s twuremt asebtar uḍfir, ssed ɣef useɣwen-agi :"
+
+#: wp-admin/network/settings.php:301
+msgid "If you want to ban domains from site registrations. One domain per line."
+msgstr "Ma tebɣiḍ ad tgedleḍ kra n yismawen n taɣult seg uklas. Yiwen n yisem n taɣult deg ujerriḍ."
+
+#: wp-admin/network/settings.php:281
+msgid "If you want to limit site registrations to certain domains. One domain per line."
+msgstr "Ma tebɣiḍ ad tsebdedeḍ iklasen n usmel ɣer kra n yismawen n taɣult. Isem n taɣult deg ujerriḍ."
+
+#: wp-admin/network/site-new.php:40
+msgid "Can&#8217;t create an empty site."
+msgstr "Ulamek asnulfu n usmel ilem."
+
+#: wp-admin/network/users.php:256
+msgid "Users removed from spam."
+msgstr "Iseqdacen ttwacerḍen ṣṣfan."
+
+#: wp-admin/network/sites.php:338
+msgid "Site marked as spam."
+msgstr "Isemlen ttwacerḍen d imcewwelen."
+
+#: wp-admin/network/sites.php:335
+msgid "Site removed from spam."
+msgstr "Asmel yettwacreḍ yeṣfa."
+
+#: wp-admin/network/sites.php:311
+msgid "Sites marked as spam."
+msgstr "Iseqdacen ttwacerḍen ṣṣfan."
+
+#: wp-admin/network/sites.php:308
+msgid "Sites removed from spam."
+msgstr "Isemlen ttwacerḍen ṣṣfan."
+
+#: wp-admin/network/users.php:259
+msgid "Users deleted."
+msgstr "Aseqdac yettwakkes."
+
+#: wp-admin/network/users.php:253
+msgid "Users marked as spam."
+msgstr "Iseqdacen ttwacerḍen d imcewwelen."
+
+#: wp-admin/network/sites.php:332
+msgid "Site deactivated."
+msgstr "Asmel yexsi."
+
+#: wp-admin/network/sites.php:329
+msgid "Site activated."
+msgstr "Asmel yermed."
+
+#: wp-admin/network/sites.php:326
+msgid "Site unarchived."
+msgstr "Asmel yettwakkes-as weɣbar."
+
+#: wp-admin/network/sites.php:323
+msgid "Site archived."
+msgstr "Asmel yettwaɣber."
+
+#: wp-admin/network/sites.php:317
+msgid "Site deleted."
+msgstr "Asmel yettwakkes."
+
+#: wp-admin/network/sites.php:314
+msgid "Sites deleted."
+msgstr "Isemlen ttwakksen."
+
+#: wp-admin/network/sites.php:105 wp-admin/network/sites.php:223
+msgid "Sorry, you are not allowed to change the current site."
+msgstr "Surfaɣ, ur tesɛiḍ ara azref iwakken ad tbeddeleḍ asmel amiran."
+
+#: wp-admin/network/site-new.php:126
+msgid "There was an error creating the user."
+msgstr "Yeḍra-d unezri deg usnulfu n useqdac."
+
+#: wp-admin/network/settings.php:409
+msgid "Upload file types"
+msgstr "Anawen n ufaylu yettwaznen."
+
+#. translators: %s: Number of megabytes to limit uploads to.
+#: wp-admin/network/settings.php:397
+msgid "Limit total size of files uploaded to %s MB"
+msgstr "Tiddi tuɣridt n ifuyla yettwaznen ur ilaq ara ad tɛeddi %s Mo"
+
+#: wp-admin/network/settings.php:383
+msgid "The URL for the first comment on a new site."
+msgstr "Tansa web n umeskar n uwennit amezwaru ɣef usmel-inek amaynut."
+
+#: wp-admin/network/settings.php:365
+msgid "The author of the first comment on a new site."
+msgstr "Ameskar n uwennit amezwaru deg usmel amaynut."
+
+#: wp-admin/network/settings.php:356
+msgid "The first comment on a new site."
+msgstr "Awennit amezwaru deg usmel amaynut."
+
+#: wp-admin/network/settings.php:346
+msgid "The first page on a new site."
+msgstr "Asebtar amezwaru deg usmel amaynut."
+
+#: wp-admin/network/settings.php:336
+msgid "The first post on a new site."
+msgstr "Amagrad amezwaru deg usmel amaynut."
+
+#: wp-admin/network/upgrade.php:73
+msgid "All done!"
+msgstr "Ifukk !"
+
+#: wp-admin/network/settings.php:206
+msgid "Both sites and user accounts can be registered"
+msgstr "Asnulfu n isemlen aked iseqdacen yureg."
+
+#: wp-admin/network/settings.php:205
+msgid "Logged in users may register new sites"
+msgstr "Ḥaca iseqdacen iqqnen i yezemren ad d-snulfun isemlen imaynuten."
+
+#: wp-admin/network/settings.php:204
+msgid "User accounts may be registered"
+msgstr "Ḥaca imiḍanen n iseqdacen i yezemren ad d-nulfun."
+
+#: wp-admin/network/settings.php:203
+msgid "Registration is disabled"
+msgstr "Iklasen ur urigen ara akka tura."
+
+#: wp-admin/network/settings.php:493
+msgid "Enable administration menus"
+msgstr "Sermed umuɣen n tedbelt"
+
+#: wp-admin/network/settings.php:388
+msgid "Upload Settings"
+msgstr "Iɣewwaren n tuzna n ifuyla"
+
+#: wp-admin/network/settings.php:307
+msgid "New Site Settings"
+msgstr "Iɣewwaren n isemlen imaynuten."
+
+#: wp-admin/network/settings.php:190
+msgid "Registration Settings"
+msgstr "Iɣewwaren n uklas."
+
+#: wp-admin/network/settings.php:150
+msgid "Operational Settings"
+msgstr "Iɣewwaren n tiddit"
+
+#: wp-admin/network/site-new.php:91
+msgid "Missing email address."
+msgstr "Txuṣ tansa email."
+
+#: wp-admin/network/site-new.php:87
+msgid "Missing or invalid site address."
+msgstr "Tansa n usmel txuṣ neɣ d turameɣtut."
+
+#: wp-admin/network/upgrade.php:124
+msgid "Next Sites"
+msgstr "Isemlen uḍfiren"
+
+#: wp-admin/network/settings.php:391
+msgid "Site upload space"
+msgstr "Tallunt n usmel i tuzniwin"
+
+#: wp-admin/network/settings.php:316
+msgid "The welcome email sent to new site owners."
+msgstr "Izen-agi n unṣuf ad yettwazen ɣer imawlan n isemlen  imaynuten."
+
+#: wp-admin/network/settings.php:256
+msgid "Users are not allowed to register these sites. Separate names by spaces."
+msgstr "Iseqdacen ur urigen ara iwakken ad d-snulfun asmel s yiwen gar yisemawen-agi. Brez ismawen s tallunt."
+
+#: wp-admin/network/settings.php:231
+msgid "Send the network admin an email notification every time someone registers a site or user account"
+msgstr "Azen izen ɣer unedbal n uẓeṭṭa di yal aklas n usmel neɣ n useqdac."
+
+#: wp-admin/includes/network.php:365 wp-admin/network/settings.php:160
+msgid "Network Admin Email"
+msgstr "Tansa email n unedbal n uẓeṭṭa"
+
+#: wp-admin/network/site-new.php:263
+msgid "A new user will be created if the above email address is not in the database."
+msgstr "Aseqdac amaynut ad d-yenulfu ma yella ulac tansa n unermes deg uzadur n isefka."
+
+#: wp-admin/network/site-new.php:259
+msgid "Admin Email"
+msgstr "Email n unedbal"
+
+#: wp-admin/network/site-new.php:275
+msgid "Add Site"
+msgstr "Rnu asmel"
+
+#: wp-admin/network/settings.php:443
+msgid "Default Language"
+msgstr "Tutlayt n lexṣas"
+
+#: wp-admin/network/settings.php:419
+msgid "Max upload file size"
+msgstr "Tiddi tafellayt n ifuyla"
+
+#: wp-admin/network/settings.php:379
+msgid "First Comment URL"
+msgstr "URL n uwennit amezwaru"
+
+#: wp-admin/network/settings.php:361
+msgid "First Comment Author"
+msgstr "Ameskar n uwennit amezwaru"
+
+#: wp-admin/network/settings.php:351
+msgid "First Comment"
+msgstr "Awennit amezwaru"
+
+#: wp-admin/network/settings.php:341
+msgid "First Page"
+msgstr "Asebtar amezwaru"
+
+#: wp-admin/network/settings.php:326
+msgid "The welcome email sent to new users."
+msgstr "Izen-agi n unṣuf ad yettwazen ɣer iseqdacen imaynuten."
+
+#: wp-admin/network/settings.php:321
+msgid "Welcome User Email"
+msgstr "Izen n unṣuf i yiseqdacen"
+
+#: wp-admin/network/settings.php:311
+msgid "Welcome Email"
+msgstr "Izen n unṣuf"
+
+#: wp-admin/network/settings.php:287
+msgid "Banned Email Domains"
+msgstr "Ismawen n taɣult igedlen"
+
+#: wp-admin/network/settings.php:262
+msgid "Limited Email Registrations"
+msgstr "Iklasen n email yurgen"
+
+#: wp-admin/network/settings.php:243
+msgid "Banned Names"
+msgstr "Ismawen yettwanfan"
+
+#: wp-admin/network/settings.php:236
+msgid "Add New Users"
+msgstr "Rnu iseqdacen imaynuten"
+
+#: wp-admin/network/settings.php:224
+msgid "Registration notification"
+msgstr "Talɣut n uklas"
+
+#: wp-admin/network/settings.php:193
+msgid "Allow new registrations"
+msgstr "Sireg iklasen imaynuten"
+
+#: wp-admin/network/site-users.php:267
+msgid "Duplicated username or email address."
+msgstr "Isem n useqdac neɣ email yettwaseqdec yakan."
+
+#: wp-admin/network/user-new.php:41
+msgid "Cannot create an empty user."
+msgstr "Ulamek asnulfu n useqdac ilem."
+
+#: wp-admin/network/sites.php:121 wp-admin/network/sites.php:208
+msgid "Confirm"
+msgstr "Serggeg"

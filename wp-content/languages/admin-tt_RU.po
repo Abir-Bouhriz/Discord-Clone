@@ -1,0 +1,2769 @@
+# Translation of WordPress - 4.7.x - Administration in Tatar
+# This file is distributed under the same license as the WordPress - 4.7.x - Administration package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-31 11:01:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tt_RU\n"
+"Project-Id-Version: WordPress - 4.7.x - Administration\n"
+
+#: wp-admin/includes/ms.php:988
+msgid "Site: %s"
+msgstr "Сайт: %s"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:623
+msgid "Network Only"
+msgstr "Только для сети"
+
+#: wp-admin/users.php:242
+msgid "You have specified these users for deletion:"
+msgstr "син бетерергә диеп бу кулланучыларны күрсәттең:"
+
+#: wp-admin/includes/class-wp-users-list-table.php:193
+msgctxt "users"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+
+#: wp-admin/edit-tags.php:535 wp-admin/options-general.php:352
+msgid "Note:"
+msgstr "искәрмә"
+
+#: wp-admin/includes/ajax-actions.php:1773
+msgid "Type"
+msgstr "Type"
+
+#: wp-admin/includes/dashboard.php:51 wp-admin/includes/dashboard.php:570
+msgid "Drafts"
+msgstr "Тәмамланмаган"
+
+#: wp-admin/includes/edit-tag-messages.php:28
+msgid "Category not updated."
+msgstr "Бүлек үзгәртелмәде."
+
+#: wp-admin/includes/edit-tag-messages.php:24
+msgid "Category added."
+msgstr "Бүлек өстәлде."
+
+#: wp-admin/includes/edit-tag-messages.php:25
+msgid "Category deleted."
+msgstr "Бүлек бетерелде."
+
+#: wp-admin/includes/edit-tag-messages.php:26
+msgid "Category updated."
+msgstr "Бүлек үзгәртелде."
+
+#: wp-admin/includes/edit-tag-messages.php:27
+msgid "Category not added."
+msgstr "Бүлек өстәлмәде."
+
+#: wp-admin/includes/edit-tag-messages.php:29
+msgid "Categories deleted."
+msgstr "Бер ничә бүлек бетерелде."
+
+#: wp-admin/users.php:440
+msgid "User deleted."
+msgstr "кулланучы бетерелде !"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:300
+#: wp-admin/includes/class-wp-comments-list-table.php:574
+#: wp-admin/includes/class-wp-media-list-table.php:144
+#: wp-admin/includes/class-wp-media-list-table.php:715
+#: wp-admin/includes/class-wp-posts-list-table.php:397
+#: wp-admin/includes/class-wp-posts-list-table.php:1247
+msgid "Restore"
+msgstr "Restore"
+
+#. translators: %s: Time since the last update
+#: wp-admin/includes/class-wp-media-list-table.php:449
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:559
+#: wp-admin/includes/class-wp-posts-list-table.php:988
+#: wp-admin/includes/plugin-install.php:575 wp-admin/includes/revision.php:209
+#: wp-admin/includes/revision.php:251
+msgid "%s ago"
+msgstr "%s элек"
+
+#: wp-admin/edit-comments.php:281 wp-admin/edit-comments.php:287
+msgid "Edit comment"
+msgstr "коммент төзәтү"
+
+#: wp-admin/edit-link-form.php:29 wp-admin/includes/meta-boxes.php:996
+msgid "Target"
+msgstr "барасы төш"
+
+#: wp-admin/includes/dashboard.php:198 wp-admin/setup-config.php:219
+msgid "Submit"
+msgstr "җибәрү"
+
+#: wp-admin/includes/meta-boxes.php:723
+msgid "No comments yet."
+msgstr "No comments yet."
+
+#: wp-admin/includes/image-edit.php:70
+msgid "Scale"
+msgstr "Scale"
+
+#: wp-admin/includes/media.php:1227
+msgid "Link URL"
+msgstr "күчке күчерә торган интернет адресы"
+
+#: wp-admin/includes/media.php:1230 wp-admin/includes/media.php:2614
+msgid "Enter a link URL or click above for presets."
+msgstr "алдан әзер калыплар өчен күчке адресыны керт йә өстәгегә чирт."
+
+#: wp-admin/export.php:261 wp-admin/includes/media.php:2244
+#: wp-admin/menu.php:49 wp-admin/menu.php:253
+msgid "Media"
+msgstr "тавыш-сүрәт"
+
+#: wp-admin/includes/media.php:2246 wp-admin/users.php:60
+msgid "Actions"
+msgstr "Гамәлләр"
+
+#: wp-admin/includes/class-wp-list-table.php:1069
+#: wp-admin/includes/nav-menu.php:575 wp-admin/includes/nav-menu.php:774
+#: wp-admin/update-core.php:246 wp-admin/update-core.php:324
+#: wp-admin/update-core.php:356 wp-admin/update-core.php:395
+msgid "Select All"
+msgstr "Select All"
+
+#: wp-admin/includes/class-wp-theme-install-list-table.php:423
+#: wp-admin/includes/class-wp-themes-list-table.php:236
+#: wp-admin/includes/plugin-install.php:568
+msgid "Version:"
+msgstr "Version:"
+
+#: wp-admin/about.php:28
+msgid "About"
+msgstr "Моның турыда"
+
+#: wp-admin/link.php:104
+msgid "Edit Link"
+msgstr "күчке төзәтү"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:386
+msgid "Plugin"
+msgstr "Өстәмә"
+
+#: wp-admin/install.php:159 wp-admin/user-edit.php:384
+#: wp-admin/user-edit.php:429 wp-admin/user-new.php:405
+#: wp-admin/user-new.php:409 wp-admin/user-new.php:429
+#: wp-admin/user-new.php:452
+msgid "(required)"
+msgstr "(required)"
+
+#: wp-admin/export.php:173 wp-admin/export.php:184 wp-admin/export.php:207
+#: wp-admin/export.php:226 wp-admin/export.php:249
+msgid "All"
+msgstr "Все"
+
+#: wp-admin/includes/ms-deprecated.php:33
+msgid "Sorry, you must delete files before you can upload any more."
+msgstr "кызганыч, күбрәк нәрсә дә булса җибәрә алыр өчен син файл бетерергә тиеш."
+
+#. translators: 1: Required disk space in kilobytes
+#: wp-admin/includes/ms.php:33
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "җибәрер өчен буш урын җитми. %1$s килобайт кирәк."
+
+#. translators: 1: Maximum allowed file size in kilobytes
+#: wp-admin/includes/ms.php:38
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr "бу файл артык зур. һәр файл зурлыгы %1$s килобайттан кечерәк булырга тиеш."
+
+#: wp-admin/includes/ms.php:42
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "син буш урын чигеңне үттең. зинһар өчен, җибәргәнче файлларыгызны бетерегез."
+
+#: wp-admin/includes/ms.php:321
+msgid "[%s] New Admin Email Address"
+msgstr "[%s] яңа идарәче емайл адресы"
+
+#: wp-admin/includes/ms.php:406
+msgid "[%s] New Email Address"
+msgstr "[%s] яңа емайл адресы"
+
+#. translators: %s: New email address
+#: wp-admin/includes/ms.php:427
+msgid "Your email address has not been updated yet. Please check your inbox at %s for a confirmation email."
+msgstr "синең емайл адресың яңартылмады әле. раслауны сораган хатны %s савытыңнан кара."
+
+#. translators: Gigabytes
+#: wp-admin/includes/ms.php:472
+msgid "GB"
+msgstr "ГБ"
+
+#. translators: Megabytes
+#: wp-admin/includes/ms.php:476
+msgid "MB"
+msgstr "МБ"
+
+#: wp-admin/includes/ms.php:522
+msgid "MB (Leave blank for network default)"
+msgstr "МБ (сайт челтәрендәге уртакны кулланыр өчен буш калдыр)"
+
+#: wp-admin/includes/ms.php:730
+msgid "American English"
+msgstr "америка иңглиз теле"
+
+#: wp-admin/includes/ms.php:734
+msgid "British English"
+msgstr "британия иңглиз теле"
+
+#: wp-admin/includes/ms.php:744
+msgid "English"
+msgstr "иңглиз теле"
+
+#. translators: My sites label
+#: wp-admin/includes/ms.php:836
+msgid "Primary Site"
+msgstr "баш сайт"
+
+#: wp-admin/my-sites.php:71
+msgid "You must be a member of at least one site to use this page."
+msgstr "Чтобы использовать эту страницу, нужно быть участником хотя бы одного сайта."
+
+#: wp-admin/comment.php:50 wp-admin/custom-background.php:99
+#: wp-admin/custom-header.php:126 wp-admin/edit-comments.php:180
+#: wp-admin/edit-form-advanced.php:381 wp-admin/edit-form-advanced.php:396
+#: wp-admin/edit-form-advanced.php:413 wp-admin/edit-link-form.php:64
+#: wp-admin/edit-tags.php:261 wp-admin/edit.php:227 wp-admin/edit.php:248
+#: wp-admin/export.php:53 wp-admin/import.php:28 wp-admin/index.php:96
+#: wp-admin/link-manager.php:65 wp-admin/media-new.php:55 wp-admin/media.php:82
+#: wp-admin/my-sites.php:46 wp-admin/nav-menus.php:570
+#: wp-admin/options-discussion.php:27 wp-admin/options-general.php:44
+#: wp-admin/options-media.php:33 wp-admin/options-permalink.php:43
+#: wp-admin/options-reading.php:37 wp-admin/options-writing.php:44
+#: wp-admin/plugin-editor.php:154 wp-admin/plugin-install.php:97
+#: wp-admin/plugins.php:408 wp-admin/revision.php:119
+#: wp-admin/theme-editor.php:38 wp-admin/theme-install.php:113
+#: wp-admin/themes.php:117 wp-admin/tools.php:27 wp-admin/update-core.php:574
+#: wp-admin/upload.php:65 wp-admin/upload.php:209 wp-admin/user-edit.php:54
+#: wp-admin/user-new.php:212 wp-admin/users.php:66 wp-admin/widgets.php:75
+msgid "For more information:"
+msgstr "Күбрәк мәгълүмат..."
+
+#: wp-admin/comment.php:149 wp-admin/plugins.php:290 wp-admin/plugins.php:296
+#: wp-admin/theme-editor.php:272
+msgid "Caution:"
+msgstr "Игътибар:"
+
+#: wp-admin/includes/class-wp-media-list-table.php:685
+#: wp-admin/includes/class-wp-media-list-table.php:744
+#: wp-admin/includes/class-wp-posts-list-table.php:1287
+#: wp-admin/includes/class-wp-terms-list-table.php:467
+#: wp-admin/includes/dashboard.php:644
+msgid "View"
+msgstr "карау"
+
+#: wp-admin/includes/class-wp-links-list-table.php:84
+#: wp-admin/includes/class-wp-links-list-table.php:330
+#: wp-admin/includes/class-wp-plugins-list-table.php:468
+#: wp-admin/includes/class-wp-plugins-list-table.php:613
+#: wp-admin/includes/class-wp-plugins-list-table.php:634
+#: wp-admin/includes/class-wp-terms-list-table.php:156
+#: wp-admin/includes/class-wp-terms-list-table.php:458
+#: wp-admin/includes/class-wp-themes-list-table.php:198
+#: wp-admin/includes/class-wp-users-list-table.php:244
+#: wp-admin/includes/class-wp-users-list-table.php:412
+#: wp-admin/includes/media.php:1501 wp-admin/includes/meta-boxes.php:916
+#: wp-admin/includes/template.php:561 wp-admin/includes/widgets.php:253
+#: wp-admin/themes.php:340 wp-admin/themes.php:486 wp-admin/widgets.php:320
+msgid "Delete"
+msgstr "бетерү"
+
+#: wp-admin/includes/class-wp-users-list-table.php:321
+#: wp-admin/user-edit.php:343 wp-admin/user-new.php:343
+#: wp-admin/user-new.php:475
+msgid "Role"
+msgstr "роль"
+
+#: wp-admin/user-edit.php:363
+msgid "Super Admin"
+msgstr "сайт идарәчесе"
+
+#: wp-admin/menu.php:202
+msgid "Plugins %s"
+msgstr "өстәмә %s"
+
+#: wp-admin/menu.php:223 wp-admin/menu.php:225 wp-admin/user-edit.php:206
+#: wp-admin/users.php:498
+msgctxt "user"
+msgid "Add New"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/menu.php:233 wp-admin/menu.php:235 wp-admin/user-new.php:172
+#: wp-admin/user-new.php:280 wp-admin/user-new.php:380
+#: wp-admin/user-new.php:501
+msgid "Add New User"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/my-sites.php:54 wp-admin/options-head.php:15
+#: wp-admin/options.php:239
+msgid "Settings saved."
+msgstr "Көйләнеш саклатылды."
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:462
+#: wp-admin/includes/class-wp-plugins-list-table.php:627
+msgid "Deactivate"
+msgstr "сүндерү"
+
+#: wp-admin/user-new.php:273
+msgid "User added."
+msgstr "катнашучы өстәлде !"
+
+#: wp-admin/includes/ms.php:1020 wp-admin/users.php:295
+msgid "Confirm Deletion"
+msgstr "бетерүне раслау"
+
+#: wp-admin/users.php:309 wp-admin/users.php:344
+msgid "You can&#8217;t remove users."
+msgstr "син кулланучыларны алып ата алмыйсың."
+
+#: wp-admin/users.php:457
+msgid "Changed roles."
+msgstr "роль алышынды."
+
+#: wp-admin/users.php:468
+msgid "User removed from this site."
+msgstr "бу дәфтәрдән катнашучы алып атылды."
+
+#: wp-admin/includes/dashboard.php:431 wp-admin/includes/dashboard.php:433
+#: wp-admin/users.php:514
+msgid "Search Users"
+msgstr "катнашучы эзләү"
+
+#. translators: 1: Number of sites on the network
+#: wp-admin/includes/dashboard.php:398
+msgid "%s site"
+msgid_plural "%s sites"
+msgstr[0] "%s сайт"
+
+#. translators: 1: Text indicating the number of sites on the network, 2: Text
+#. indicating the number of users on the network
+#: wp-admin/includes/dashboard.php:401
+msgid "You have %1$s and %2$s."
+msgstr "синең %1$s ям %2$s бар."
+
+#: wp-admin/includes/dashboard.php:390
+msgid "Create a New User"
+msgstr "бер яңа кулланучы ясау"
+
+#: wp-admin/includes/nav-menu.php:950
+msgid "Click Save Menu to make pending menu items public."
+msgstr "Нажмите &laquo;Сохранить меню&raquo;, чтобы опубликовать черновики элементов."
+
+#: wp-admin/includes/dashboard.php:1297
+msgid "Storage Space"
+msgstr "Дисковое пространство"
+
+#: wp-admin/includes/dashboard.php:388
+msgid "Create a New Site"
+msgstr "яңа сайт яса"
+
+#: wp-admin/custom-header.php:526
+msgid "Images of exactly <strong>%1$d &times; %2$d pixels</strong> will be used as-is."
+msgstr "төгәл <strong>%1$d x %2$d нокта</strong> зурлыклы рәсем булган көе кулланылыр."
+
+#: wp-admin/users.php:33
+msgid "To add a new user for your site, click the Add New button at the top of the screen or Add New in the Users menu section."
+msgstr "Чтобы добавить на сайт нового пользователя, нажмите кнопку &laquo;Добавить нового&raquo; в верхней части экрана, либо ссылку &laquo;Добавить нового&raquo; в меню &laquo;Пользователи&raquo;."
+
+#: wp-admin/options-media.php:18
+msgid "You can set maximum sizes for images inserted into your written content; you can also insert an image as Full Size."
+msgstr "Можно задать максимальные размеры изображений, вставляемых в содержимое; можно также вставлять полноразмерное изображение."
+
+#: wp-admin/includes/file.php:1193
+msgid "Please enter your FTP or SSH credentials to proceed."
+msgstr "Пожалуйста, введите координаты доступа к FTP или SSH."
+
+#: wp-admin/includes/file.php:1197
+msgid "Please enter your FTP credentials to proceed."
+msgstr "Пожалуйста, введите координаты доступа к FTP."
+
+#: wp-admin/includes/file.php:1203
+msgid "If you do not remember your credentials, you should contact your web host."
+msgstr "Если вы не помните координаты, можно узнать их в службе поддержки вашего хостинг-провайдера."
+
+#: wp-admin/user-edit.php:39
+msgid "Your profile contains information about you (your &#8220;account&#8221;) as well as some personal options related to using WordPress."
+msgstr "Ваш профиль содержит информацию о вас (&laquo;учётную запись&raquo;), а также некоторые личные предпочтения по использованию WordPress."
+
+#: wp-admin/link-manager.php:61
+msgid "If you delete a link, it will be removed permanently, as Links do not have a Trash function yet."
+msgstr "Если вы удалите ссылку, она будет удалена навсегда, потому что корзины для ссылок пока нет."
+
+#: wp-admin/user-new.php:207
+msgid "Administrators have access to all the administration features."
+msgstr "Администраторы обладают доступом ко всем возможностям."
+
+#: wp-admin/user-new.php:204
+msgid "Contributors can write and manage their posts but not publish posts or upload media files."
+msgstr "Участники могут создавать и редактировать свои записи, но не публиковать их и не загружать медиафайлы."
+
+#: wp-admin/custom-background.php:95
+msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
+msgstr "Когда закончите, не забудьте нажать кнопку &laquo;Сохранить изменения&raquo;."
+
+#: wp-admin/edit-form-advanced.php:380
+msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
+msgstr "Вы также можете создавать записи с помощью <a href=\"%s\">закладки &laquo;Опубликовать&raquo;</a>."
+
+#: wp-admin/user-edit.php:42
+msgid "Your username cannot be changed, but you can use other fields to enter your real name or a nickname, and change which name to display on your posts."
+msgstr "Имя пользователя изменить нельзя, однако можно использовать другие поля, чтобы ввести ваше настоящее имя или ник, а также выбрать имя, отображаемое рядом с вашими записями."
+
+#: wp-admin/user-edit.php:45
+msgid "Remember to click the Update Profile button when you are finished."
+msgstr "Когда закончите, не забудьте нажать кнопку &laquo;Обновить профиль&raquo;."
+
+#: wp-admin/user-new.php:206
+msgid "Editors can publish posts, manage posts as well as manage other people&#8217;s posts, etc."
+msgstr "Редакторы могут публиковать и редактировать записи, а также работать с чужими записями и т.д."
+
+#: wp-admin/comment.php:45
+msgid "You can edit the information left in a comment if needed. This is often useful when you notice that a commenter has made a typographical error."
+msgstr "кирәк булса сез комментта калган мәгълүматны төзәтә аласыз. бу син фикер язучының хата ясавын күргәндә файдалы."
+
+#: wp-admin/comment.php:46
+msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
+msgstr "Тагы сез бу экранда &laquo;Статус&raquo; блогы белән комментны рөхсәт итә йә кире кага аласыз, анда комментның вакытын да үзгәртеп була."
+
+#: wp-admin/options-discussion.php:23 wp-admin/options-general.php:35
+#: wp-admin/options-media.php:24 wp-admin/options-permalink.php:23
+#: wp-admin/options-permalink.php:32 wp-admin/options-permalink.php:39
+#: wp-admin/options-reading.php:26 wp-admin/options-writing.php:22
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "Чтобы новые параметры вступили в силу, нажмите кнопку &laquo;Сохранить изменения&raquo; в нижней части экрана."
+
+#: wp-admin/options-general.php:25
+msgid "The fields on this screen determine some of the basics of your site setup."
+msgstr "Поля на этом экране определяют основные настройки вашего сайта."
+
+#: wp-admin/options-general.php:29
+msgid "The WordPress URL and the Site URL can be the same (example.com) or different; for example, having the WordPress core files (example.com/wordpress) in a subdirectory instead of the root directory."
+msgstr "Адрес WordPress и адрес сайта могут совпадать (example.com) или отличаться; например, когда файлы ядра WordPress расположены в подкаталоге (example.com/wordpress)."
+
+#: wp-admin/options-general.php:34
+msgid "UTC means Coordinated Universal Time."
+msgstr "UTC означает &laquo;Coordinated Universal Time&raquo; (всемирное координированное время)."
+
+#: wp-admin/options-reading.php:23
+msgid "This screen contains the settings that affect the display of your content."
+msgstr "Этот экран содержит параметры, влияющие на отображение вашего содержимого."
+
+#: wp-admin/update-core.php:165
+msgid "You have the latest version of WordPress."
+msgstr "У вас свежая версия WordPress."
+
+#: wp-admin/update-core.php:187
+msgid "An updated version of WordPress is available."
+msgstr "Свежая версия WordPress доступна для обновления."
+
+#: wp-admin/update-core.php:226
+msgid "Your plugins are all up to date."
+msgstr "Ваши плагины не требуют обновления."
+
+#: wp-admin/update-core.php:340
+msgid "Your themes are all up to date."
+msgstr "Ваши темы не требуют обновления."
+
+#: wp-admin/includes/class-plugin-installer-skin.php:55
+msgid "Activate Plugin &amp; Run Importer"
+msgstr "Активировать плагин и запустить импорт"
+
+#: wp-admin/edit-tags.php:545
+msgid "Categories can be selectively converted to tags using the <a href=\"%s\">category to tag converter</a>."
+msgstr "Бүлекләр сайлап кына <a href=\"%s\">бүлектән тамгага әйләндергеч</a> кулланып тамгага әйләндерелә ала."
+
+#: wp-admin/import.php:62 wp-admin/themes.php:180 wp-admin/users.php:235
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: wp-admin/export.php:49
+msgid "Once generated, your WXR file can be imported by another WordPress site or by another blogging platform able to access this format."
+msgstr "После создания WXR-файла его можно импортировать на другой сайт под управлением WordPress или другой платформы, поддерживающей этот формат."
+
+#: wp-admin/link-manager.php:55
+msgid "You can customize the display of this screen using the Screen Options tab and/or the dropdown filters above the links table."
+msgstr "Можно настраивать отображение этого экрана с помощью вкладки &laquo;Настройки экрана&raquo; и/или выпадающих меню над таблицей ссылок."
+
+#: wp-admin/theme-editor.php:27
+msgid "You can use the Theme Editor to edit the individual CSS and PHP files which make up your theme."
+msgstr "Можно использовать редактор тем для внесения изменений в отдельные CSS- и PHP-файлы вашей темы."
+
+#: wp-admin/theme-editor.php:31
+msgid "After typing in your edits, click Update File."
+msgstr "После внесения изменений нажмите &laquo;Обновить файл&raquo;."
+
+#: wp-admin/theme-editor.php:32
+msgid "<strong>Advice:</strong> think very carefully about your site crashing if you are live-editing the theme currently in use."
+msgstr "<strong>Совет:</strong> Если вы редактируете тему, используемую в настоящий момент, подумайте о возможном нарушении работоспособности сайта."
+
+#: wp-admin/widgets.php:64
+msgid "Enabling Accessibility Mode, via Screen Options, allows you to use Add and Edit buttons instead of using drag and drop."
+msgstr "Включив режим специальных возможностей на вкладке &laquo;Настройки экрана&raquo;, вы сможете использовать кнопки &laquo;Добавить&raquo; и &laquo;Изменить&raquo; вместо перетаскивания."
+
+#: wp-admin/edit-tags.php:237
+msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
+msgstr "При добавлении новой рубрики на этом экране заполняются следующие поля:"
+
+#: wp-admin/edit-tags.php:239
+msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
+msgstr "При добавлении новой метки на этом экране заполняются следующие поля:"
+
+#: wp-admin/edit-tags.php:252
+msgid "You can change the display of this screen using the Screen Options tab to set how many items are displayed per screen and to display/hide columns in the table."
+msgstr "Можно изменить отображение этого экрана на вкладке &laquo;Настройки экрана&raquo;, указав, сколько элементов выводить и какие столбцы таблицы показывать."
+
+#: wp-admin/custom-header.php:851
+msgid "Image Upload Error"
+msgstr "Ошибка при загрузке изображения"
+
+#: wp-admin/includes/meta-boxes.php:671
+msgid "Allow comments."
+msgstr "Коммент язуны рөхсәт итү"
+
+#: wp-admin/users.php:39
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr "Можно настраивать отображение этого экрана несколькими способами:"
+
+#: wp-admin/edit.php:200
+msgid "You can hide/display columns based on your needs and decide how many posts to list per screen using the Screen Options tab."
+msgstr "Можно скрывать/показывать столбцы согласно вашим предпочтениям и указывать количество выводимых записей на вкладке &laquo;Настройки экрана&raquo;."
+
+#: wp-admin/nav-menus.php:19
+msgid "Your theme does not support navigation menus or widgets."
+msgstr "Ваша тема не поддерживает меню навигации и виджеты."
+
+#: wp-admin/includes/import.php:170 wp-admin/tools.php:21
+#: wp-admin/tools.php:103
+msgid "Categories and Tags Converter"
+msgstr "бүлек белән тамга әйләндергече"
+
+#: wp-admin/includes/plugin-install.php:285
+msgctxt "Plugin Installer"
+msgid "Tag"
+msgstr "тамгалар"
+
+#: wp-admin/includes/theme-install.php:69
+msgctxt "Theme Installer"
+msgid "Tag"
+msgstr "тамгалар"
+
+#: wp-admin/comment.php:115
+#: wp-admin/includes/class-wp-comments-list-table.php:297
+msgctxt "comment"
+msgid "Mark as Spam"
+msgstr "Спам итеп тамгалау"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:302
+#: wp-admin/includes/class-wp-comments-list-table.php:570
+msgctxt "comment"
+msgid "Not Spam"
+msgstr "спам түгел"
+
+#: wp-admin/user-edit.php:355 wp-admin/user-edit.php:357
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; бу дәфтәрнең рольы юк &mdash;"
+
+#: wp-admin/users.php:366
+msgid "Remove Users from Site"
+msgstr "дәфтәрдән катнашучыларны алып ату"
+
+#: wp-admin/includes/plugin.php:430
+msgid "Custom site inactive message."
+msgstr "Произвольное сообщени о неактивном сайте."
+
+#: wp-admin/includes/schema.php:396
+msgid "My Site"
+msgstr "Мой сайт"
+
+#: wp-admin/includes/upgrade.php:395
+msgid "New WordPress Site"
+msgstr "яңа вордпресс дәфтәр"
+
+#: wp-admin/includes/ajax-actions.php:1288
+msgid "Please provide a custom field name."
+msgstr "Үзегезчә язу урыны урыны исемен кертегез."
+
+#: wp-admin/users.php:371
+msgid "You have specified these users for removal:"
+msgstr "син бетерү өчен бу кулланучыларны сайладың:"
+
+#: wp-admin/users.php:396
+msgid "Confirm Removal"
+msgstr "алып атуны раслау"
+
+#: wp-admin/users.php:398
+msgid "There are no valid users selected for removal."
+msgstr "монда алып атырга диеп сайланган дөрес кулланучы юк."
+
+#: wp-admin/users.php:471
+msgid "You can't remove the current user."
+msgstr "син бу кулланучыны алып ата алмыйсың."
+
+#: wp-admin/users.php:472
+msgid "Other users have been removed."
+msgstr "башка кулланучылар алып атылды."
+
+#: wp-admin/includes/user.php:480
+msgid "Yes, take me to my profile page"
+msgstr "Да, перейти на страницу профиля"
+
+#: wp-admin/includes/user.php:481
+msgid "No thanks, do not remind me again"
+msgstr "Нет, спасибо. Больше не напоминать мне об этом."
+
+#: wp-admin/edit.php:144 wp-admin/edit.php:147 wp-admin/post.php:260
+#: wp-admin/post.php:263 wp-admin/upload.php:162
+msgid "Error in deleting."
+msgstr "бетергәндә хата..."
+
+#. translators: %s: number of comments moved to the Trash
+#: wp-admin/edit-comments.php:265
+msgid "%s comment moved to the Trash."
+msgid_plural "%s comments moved to the Trash."
+msgstr[0] "%s комментарий перемещён в корзину."
+
+#. translators: %s: number of comments restored from the Trash
+#: wp-admin/edit-comments.php:270
+msgid "%s comment restored from the Trash"
+msgid_plural "%s comments restored from the Trash"
+msgstr[0] "%s комментарий восстановлен из корзины"
+
+#: wp-admin/edit.php:114 wp-admin/post.php:222 wp-admin/upload.php:138
+msgid "Error in moving to Trash."
+msgstr "Ошибка при удалении в корзину."
+
+#: wp-admin/user-new.php:255
+msgid "User has been added to your site."
+msgstr "Пользователь добавлен на сайт."
+
+#: wp-admin/edit-form-advanced.php:158
+msgid "Page saved."
+msgstr "Бит саклатылды."
+
+#: wp-admin/user-edit.php:366
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Дать этому пользователю права суперадминистратора сети."
+
+#: wp-admin/user-edit.php:339
+msgid "Usernames cannot be changed."
+msgstr "кулланучы исемеңне алаштырып булмый"
+
+#: wp-admin/options-general.php:66
+msgid "In a few words, explain what this site is about."
+msgstr "бер ничә сүз бөртеге белән бу дәфтәрнең нәрсә турында булывыны аңлат."
+
+#: wp-admin/install.php:182 wp-admin/install.php:185
+#: wp-admin/options-reading.php:31 wp-admin/options-reading.php:111
+#: wp-admin/options-reading.php:112
+msgid "Site Visibility"
+msgstr "дәфтәр күренүчәнлеге"
+
+#: wp-admin/includes/class-walker-nav-menu-edit.php:182
+msgid "CSS Classes (optional)"
+msgstr "Классы CSS (необязательно)"
+
+#: wp-admin/includes/class-bulk-theme-upgrader-skin.php:23
+msgid "Updating Theme %1$s (%2$d/%3$d)"
+msgstr "Обновляется тема %1$s (%2$d/%3$d)"
+
+#: wp-admin/includes/schema.php:904
+msgid "You must provide a domain name."
+msgstr "Вы должны указать домен."
+
+#: wp-admin/includes/schema.php:906
+msgid "You must provide a name for your network of sites."
+msgstr "Вы должны указать название вашей сети."
+
+#. translators: %s: error message
+#: wp-admin/includes/schema.php:1091
+msgid "This resulted in an error message: %s"
+msgstr "Это привело к сообщению об ошибке: %s"
+
+#: wp-admin/includes/user.php:477
+msgid "Notice:"
+msgstr "искәрмә"
+
+#. translators: 1: Title of an update
+#: wp-admin/includes/class-bulk-upgrader-skin.php:44
+msgid "The update of %1$s failed."
+msgstr "Обновление %1$s не удалось."
+
+#: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:23
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновляется плагин %1$s (%2$d/%3$d)"
+
+#: wp-admin/includes/upgrade.php:98
+msgid "The password you chose during the install."
+msgstr "Пароль, выбранный вами при установке."
+
+#: wp-admin/update-core.php:460
+msgid "Update WordPress"
+msgstr "вордпрессны яңарту"
+
+#: wp-admin/options-general.php:181
+msgid "This timezone is currently in daylight saving time."
+msgstr "В этом часовом поясе в настоящий момент действует летнее время."
+
+#: wp-admin/options-general.php:216
+msgid "This timezone does not observe daylight saving time."
+msgstr "В этом часовом поясе не используется летнее время."
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:426
+msgid "Must-Use <span class=\"count\">(%s)</span>"
+msgid_plural "Must-Use <span class=\"count\">(%s)</span>"
+msgstr[0] "Необходимые <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:429
+msgid "Drop-ins <span class=\"count\">(%s)</span>"
+msgid_plural "Drop-ins <span class=\"count\">(%s)</span>"
+msgstr[0] "Вкрапления <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/plugin.php:420
+msgid "Custom database class."
+msgstr "Произвольный класс базы данных."
+
+#: wp-admin/includes/plugin.php:421
+msgid "Custom database error message."
+msgstr "Произвольное сообщение об ошибке при подключении к базе данных."
+
+#: wp-admin/includes/plugin.php:424
+msgid "External object cache."
+msgstr "Внешний кэш для объектов."
+
+#: wp-admin/includes/plugin.php:428
+msgid "Executed before Multisite is loaded."
+msgstr "Выполняется перед загрузкой поддержки сети."
+
+#: wp-admin/comment.php:80
+msgid "Moderate Comment"
+msgstr "Коммент тикшерү"
+
+#: wp-admin/comment.php:135
+msgid "This comment is currently approved."
+msgstr "бу коммент хәзер рөхсәт ителгән."
+
+#: wp-admin/comment.php:138
+msgid "This comment is currently marked as spam."
+msgstr "бу коммент хәзер спам итеп тамгаланган."
+
+#: wp-admin/comment.php:141
+msgid "This comment is currently in the Trash."
+msgstr "бу коммент хәзер чүплектә."
+
+#: wp-admin/edit-comments.php:284
+msgid "This comment is already in the Trash."
+msgstr "Этот комментарий уже находится в корзине."
+
+#: wp-admin/edit-comments.php:287
+msgid "This comment is already marked as spam."
+msgstr "Этот комментарий уже помечен как спам."
+
+#: wp-admin/includes/misc.php:659 wp-admin/user-edit.php:240
+msgid "Admin Color Scheme"
+msgstr "идәрәче бите төсләре"
+
+#: wp-admin/import.php:176
+#: wp-admin/includes/class-wp-theme-install-list-table.php:319
+#: wp-admin/includes/class-wp-themes-list-table.php:228
+msgid "Details"
+msgstr "Җентекләп карау"
+
+#: wp-admin/includes/theme.php:262
+msgid "Microformats"
+msgstr "Микроформаты"
+
+#: wp-admin/includes/theme-install.php:143
+msgid "If you have a theme in a .zip format, you may install it by uploading it here."
+msgstr "Если у вас есть архив темы в формате .zip, здесь можно загрузить и установить её."
+
+#: wp-admin/includes/update-core.php:821
+msgid "Verifying the unpacked files&#8230;"
+msgstr "Проверка распакованных файлов&#8230;"
+
+#: wp-admin/includes/update.php:616
+msgid "An automated WordPress update has failed to complete - <a href=\"%s\">please attempt the update again now</a>."
+msgstr "Автоматическое обновление WordPress завершить не удалось &#8212; <a href=\"%s\">пожалуйста, попробуйте ещё раз</a>."
+
+#. translators: Default category slug
+#: wp-admin/includes/upgrade.php:136
+msgctxt "Default category slug"
+msgid "Uncategorized"
+msgstr "бер бүлеккә дә кермәгән"
+
+#: wp-admin/includes/upgrade.php:183
+msgid "Hello world!"
+msgstr "Сәләм, дөнья!"
+
+#: wp-admin/includes/user.php:148
+msgid "<strong>ERROR</strong>: Passwords may not contain the character \"\\\"."
+msgstr "<strong>ХАТА</strong>: сер сүздә \"\\\" тамгасы булырга тиеш түгел."
+
+#: wp-admin/install.php:248
+msgid "Insufficient Requirements"
+msgstr "Несоответствие требованиям"
+
+#: wp-admin/install.php:318
+msgid "Information needed"
+msgstr "Требуется информация"
+
+#: wp-admin/install.php:388
+msgid "Success!"
+msgstr "Поздравляем!"
+
+#: wp-admin/link-add.php:15
+msgid "Add New Link"
+msgstr "күчке өстәү"
+
+#. translators: add new links
+#: wp-admin/edit-link-form.php:73 wp-admin/link-manager.php:82
+#: wp-admin/menu.php:65
+msgctxt "link"
+msgid "Add New"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/link-manager.php:102
+msgid "Search Links"
+msgstr "күчке эзләү"
+
+#: wp-admin/includes/class-wp-links-list-table.php:75
+msgid "No links found."
+msgstr "бер күчке дә табылмады."
+
+#: wp-admin/link.php:109
+msgid "Link not found."
+msgstr "күчке табылмады."
+
+#: wp-admin/maint/repair.php:166
+msgid "Repair and Optimize Database"
+msgstr "Починить и оптимизировать базу данных"
+
+#: wp-admin/media.php:116 wp-admin/media.php:125
+msgid "Update Media"
+msgstr "медианы үзгәртү"
+
+#: wp-admin/menu.php:50
+msgid "Library"
+msgstr "Медиалык"
+
+#. translators: add new file
+#: wp-admin/media.php:110 wp-admin/menu.php:52 wp-admin/upload.php:80
+#: wp-admin/upload.php:228
+msgctxt "file"
+msgid "Add New"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/menu.php:75
+msgid "Comments %s"
+msgstr "%s коммент"
+
+#: wp-admin/menu.php:156
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#. translators: add new plugin
+#: wp-admin/menu.php:208 wp-admin/plugins.php:496
+msgctxt "plugin"
+msgid "Add New"
+msgstr "катнашучы өстәү"
+
+#: wp-admin/menu.php:217 wp-admin/user/menu.php:14 wp-admin/user-edit.php:28
+msgid "Profile"
+msgstr "профиль"
+
+#: wp-admin/menu.php:228 wp-admin/menu.php:231
+msgid "Your Profile"
+msgstr "профилең"
+
+#: wp-admin/menu.php:249
+msgctxt "settings screen"
+msgid "General"
+msgstr "төп"
+
+#: wp-admin/menu.php:250
+msgid "Writing"
+msgstr "язу"
+
+#: wp-admin/menu.php:251
+msgid "Reading"
+msgstr "уку"
+
+#: wp-admin/menu.php:254
+msgid "Permalinks"
+msgstr "даимий күчкеләр"
+
+#: wp-admin/edit-form-advanced.php:458 wp-admin/options-discussion.php:14
+msgid "Discussion Settings"
+msgstr "Фикерләшү көйләнмәләре"
+
+#: wp-admin/options-discussion.php:43 wp-admin/options-discussion.php:44
+msgid "Default article settings"
+msgstr "Әйтмәгәндәге мәкалә көйләнмәләре"
+
+#: wp-admin/options-discussion.php:57
+msgid "These settings may be overridden for individual articles."
+msgstr "бу көйләнмәләр һәр мәкалә өчен аерым үзгәртелә ала."
+
+#: wp-admin/options-discussion.php:67
+msgid "Users must be registered and logged in to comment"
+msgstr "коммент языр өчен кулланучы теркәлгән һәм танылып кергән булырга тиеш"
+
+#: wp-admin/options-discussion.php:74
+msgid "Automatically close comments on articles older than %s days"
+msgstr "Автоматически закрывать обсуждение статей старше %s дней"
+
+#: wp-admin/options-discussion.php:97
+msgid "Enable threaded (nested) comments %s levels deep"
+msgstr "Разрешить древовидные (вложенные) комментарии глубиной %s уровней"
+
+#. translators: 1: Form field control for number of top level comments per
+#. page, 2: Form field control for the 'first' or 'last' page
+#: wp-admin/options-discussion.php:111
+msgid "Break comments into pages with %1$s top level comments per page and the %2$s page displayed by default"
+msgstr "Разбивать комментарии верхнего уровня на страницы по %1$s штук, по умолчанию отображается %2$s страница"
+
+#: wp-admin/options-discussion.php:123
+msgid "Comments should be displayed with the %s comments at the top of each page"
+msgstr "Сверху каждой страницы должны располагаться %s комментарии"
+
+#: wp-admin/options-discussion.php:133
+msgid "Anyone posts a comment"
+msgstr "коммент язган һәр кем"
+
+#: wp-admin/options-discussion.php:137
+msgid "A comment is held for moderation"
+msgstr "комент тикшерү өчен саклана"
+
+#: wp-admin/options-discussion.php:141 wp-admin/options-discussion.php:142
+msgid "Before a comment appears"
+msgstr "коммент барлыкка килгәнче"
+
+#: wp-admin/options-discussion.php:147
+msgid "Comment author must have a previously approved comment"
+msgstr "коммент авторының элек рөхсәт ителгән бер комменты булырга тиеш"
+
+#: wp-admin/options-discussion.php:151 wp-admin/options-discussion.php:152
+msgid "Comment Moderation"
+msgstr "коммент тикшерү"
+
+#: wp-admin/options-discussion.php:162 wp-admin/options-discussion.php:163
+msgid "Comment Blacklist"
+msgstr "коммент өчен начарлар исемлеге"
+
+#: wp-admin/options-discussion.php:173
+msgid "Avatars"
+msgstr "Кулланучы сурәте"
+
+#: wp-admin/options-discussion.php:185 wp-admin/options-discussion.php:186
+msgid "Avatar Display"
+msgstr "Аватар күренеше"
+
+#: wp-admin/options-discussion.php:189
+msgid "Show Avatars"
+msgstr "Аватарлар күренсен"
+
+#: wp-admin/options-discussion.php:194 wp-admin/options-discussion.php:195
+msgid "Maximum Rating"
+msgstr "Иң зур дәрәҗәләнеш"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: wp-admin/options-discussion.php:200
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Барча кеше өчен яраклы"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: wp-admin/options-discussion.php:202
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Әшәке хис калдыручы булуы бар, гадәттә 13 яшлек һәм аннан олыраклар өчен"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: wp-admin/options-discussion.php:204
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; 17 яштән олыраклар өчен дийгән"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: wp-admin/options-discussion.php:206
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; аннан да катырак"
+
+#: wp-admin/options-discussion.php:217 wp-admin/options-discussion.php:218
+msgid "Default Avatar"
+msgstr "Әйтмәгәндәге аватар"
+
+#: wp-admin/options-discussion.php:225
+msgid "Blank"
+msgstr "Буш"
+
+#: wp-admin/options-discussion.php:226
+msgid "Gravatar Logo"
+msgstr "Граватар рәсеме"
+
+#: wp-admin/options-discussion.php:227
+msgid "Identicon (Generated)"
+msgstr "Идентикон (ясалган)"
+
+#: wp-admin/options-discussion.php:228
+msgid "Wavatar (Generated)"
+msgstr "Ваватар (ясалган)"
+
+#: wp-admin/options-discussion.php:229
+msgid "MonsterID (Generated)"
+msgstr "МонстырИДы (ясалган)"
+
+#: wp-admin/options-general.php:18
+msgid "General Settings"
+msgstr "төп көйләнмәләр"
+
+#: wp-admin/options-general.php:86 wp-admin/options-general.php:87
+msgid "Membership"
+msgstr "катнашучылык"
+
+#: wp-admin/options-general.php:89
+msgid "Anyone can register"
+msgstr "Любой может зарегистрироваться"
+
+#: wp-admin/options-general.php:146
+msgid "Timezone"
+msgstr "вакыт зонасы"
+
+#: wp-admin/options-general.php:183
+msgid "This timezone is currently in standard time."
+msgstr "В этом часовом поясе в настоящий момент действует зимнее время."
+
+#: wp-admin/options-general.php:304
+msgid "Week Starts On"
+msgstr "атна башы"
+
+#: wp-admin/options-media.php:48
+msgid "Image sizes"
+msgstr "рәсем зурлыклары"
+
+#: wp-admin/options-media.php:53
+msgid "Thumbnail size"
+msgstr "кече рәсем зурлыгы"
+
+#: wp-admin/options-media.php:60
+msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr "рәсемне нәкъ шул зурлыкка кисү (гадәттә кече рәсемнәр иңнең буйга чагыштырмасы саклатыла)"
+
+#: wp-admin/options-media.php:65 wp-admin/options-media.php:66
+msgid "Medium size"
+msgstr "уртача зурлык"
+
+#: wp-admin/options-media.php:67 wp-admin/options-media.php:77
+msgid "Max Width"
+msgstr "иң зур киңлек"
+
+#: wp-admin/options-media.php:69 wp-admin/options-media.php:79
+msgid "Max Height"
+msgstr "иң зур биеклек"
+
+#: wp-admin/options-media.php:106
+msgid "Store uploads in this folder"
+msgstr "Сохранять файлы в этой папке"
+
+#: wp-admin/options-media.php:126
+msgid "Organize my uploads into month- and year-based folders"
+msgstr "Помещать загруженные мной файлы в папки по месяцу и году"
+
+#: wp-admin/options-permalink.php:15 wp-admin/options-permalink.php:28
+msgid "Permalink Settings"
+msgstr "Даимий күчке көйләнеше"
+
+#: wp-admin/options-permalink.php:135
+msgid "Permalink structure updated. Remove write access on web.config file now!"
+msgstr "Даимей күчке төзелеше үзгәртелде. Remove write access on web.config file now!"
+
+#: wp-admin/options-permalink.php:138
+msgid "You should update your .htaccess now."
+msgstr "Син хәзер .htaccess-ыңны яңартырга тиеш."
+
+#: wp-admin/options-permalink.php:129
+msgid "Permalink structure updated."
+msgstr "Даимей күчке төзелеше үзгәртелде."
+
+#: wp-admin/options-permalink.php:185
+msgid "Day and name"
+msgstr "Көн һәм вакыт"
+
+#: wp-admin/options-permalink.php:189
+msgid "Month and name"
+msgstr "Ай һәм исем"
+
+#: wp-admin/options-permalink.php:193
+msgid "Numeric"
+msgstr "Сан"
+
+#: wp-admin/options-permalink.php:203
+msgid "Custom Structure"
+msgstr "Үзеңчә төзелеш"
+
+#: wp-admin/options-permalink.php:213
+msgid "Optional"
+msgstr "Теләгеңчә."
+
+#. translators: prefix for category permalinks
+#: wp-admin/options-permalink.php:220
+msgid "Category base"
+msgstr "Бүлек адрес төбе"
+
+#: wp-admin/options-permalink.php:224
+msgid "Tag base"
+msgstr "Тамга адрес төбе"
+
+#: wp-admin/options-permalink.php:243
+msgid "If you temporarily make your <code>web.config</code> file writable for us to generate rewrite rules automatically, do not forget to revert the permissions after rule has been saved."
+msgstr "Если вы временно сделали файл <code>web.config</code> доступным для записи, чтобы мы могли автоматически создать правила преобразования ссылок, не забудьте вернуть исходные права доступа после того, как правила будут сохранены."
+
+#: wp-admin/options-permalink.php:250
+msgid "If you temporarily make your site&#8217;s root directory writable for us to generate the <code>web.config</code> file automatically, do not forget to revert the permissions after the file has been created."
+msgstr "Если вы временно сделали корневую директорию сайта доступной для записи, чтобы мы могли автоматически создать файл <code>web.config</code>, не забудьте вернуть исходные права доступа после того, как правила будут сохранены."
+
+#: wp-admin/options-reading.php:15
+msgid "Reading Settings"
+msgstr "көйләнмәләрне уку"
+
+#: wp-admin/options-reading.php:79
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr "бер <a href=\"%s\">үзгәрми торган бит</a> (астта сайлап ал)"
+
+#: wp-admin/options-reading.php:83
+msgid "Front page: %s"
+msgstr "алгы бит: %s"
+
+#: wp-admin/options-reading.php:84
+msgid "Posts page: %s"
+msgstr "язымталар бите: %s"
+
+#: wp-admin/options-reading.php:87
+msgid "<strong>Warning:</strong> these pages should not be the same!"
+msgstr "<strong>кисәтү:</strong> бу битләр бер үк булырга тиеш түгел!"
+
+#: wp-admin/options-reading.php:93
+msgid "Blog pages show at most"
+msgstr "дәфтәр битләре иң күп дигәндә"
+
+#: wp-admin/options-reading.php:95
+msgid "posts"
+msgstr "язымта күрсәтсен"
+
+#: wp-admin/options-reading.php:99
+msgid "Syndication feeds show the most recent"
+msgstr "мәгълүмат җыю туендыргычлары иң соңгыны күрсәтә"
+
+#: wp-admin/options-reading.php:103 wp-admin/options-reading.php:104
+msgid "For each article in a feed, show"
+msgstr "туендыргычтагы һәр язма өчен күрсәтәсе:"
+
+#: wp-admin/options-reading.php:105
+msgid "Full text"
+msgstr "тулы эчтәлеген"
+
+#: wp-admin/options-reading.php:106
+msgid "Summary"
+msgstr "кыскачасыны"
+
+#: wp-admin/options-reading.php:53
+msgid "Encoding for pages and feeds"
+msgstr "битләр һәм туендыргычлар кодланывы"
+
+#: wp-admin/options-writing.php:15
+msgid "Writing Settings"
+msgstr "язу көйләнмәләре"
+
+#: wp-admin/options-writing.php:61 wp-admin/options-writing.php:62
+msgid "Formatting"
+msgstr "Калыплау"
+
+#: wp-admin/options-writing.php:65
+msgid "Convert emoticons like <code>:-)</code> and <code>:-P</code> to graphics on display"
+msgstr "<code>:-)</code> һәм <code>:-P</code> кебек чырай тамгаларыны рәсем белән күрсәтү"
+
+#: wp-admin/options-writing.php:66
+msgid "WordPress should correct invalidly nested XHTML automatically"
+msgstr "берсе эченә Хаталы урнашкан XHTML ны вордпресс үзе төзәтсен"
+
+#: wp-admin/options-writing.php:71
+msgid "Default Post Category"
+msgstr "әйтмәгәндәге язымта бүлеге"
+
+#: wp-admin/options-writing.php:97
+msgid "Default Link Category"
+msgstr "әйтмәгәндәге күчке бүлеге"
+
+#: wp-admin/options-writing.php:129
+msgid "Mail Server"
+msgstr "Почтовый сервер"
+
+#: wp-admin/options.php:253
+msgid "All Settings"
+msgstr "барча көйләүләр"
+
+#: wp-admin/plugin-editor.php:20
+msgid "Edit Plugins"
+msgstr "өстәмәләрне үзгәртү"
+
+#: wp-admin/plugin-editor.php:137
+msgid "Files of this type are not editable."
+msgstr "Файлы этого типа нельзя редактировать."
+
+#: wp-admin/plugin-editor.php:182 wp-admin/theme-editor.php:156
+msgid "File edited successfully."
+msgstr "файл үзгәртү булып чыкты."
+
+#: wp-admin/plugin-editor.php:184
+msgid "This plugin has been deactivated because your changes resulted in a <strong>fatal error</strong>."
+msgstr "Өстәмә сүндерелде, чөнки синең үзгәртевең <strong>ваткыч хата</strong> чыгарды."
+
+#: wp-admin/plugin-editor.php:224
+msgid "Select plugin to edit:"
+msgstr "Выберите плагин для изменения:"
+
+#: wp-admin/plugin-editor.php:246
+msgid "Plugin Files"
+msgstr "өстәмә файллары"
+
+#: wp-admin/plugin-editor.php:285
+msgid "Update File and Attempt to Reactivate"
+msgstr "файлны йңартып янә кабызып карау"
+
+#: wp-admin/plugin-editor.php:287 wp-admin/theme-editor.php:277
+msgid "Update File"
+msgstr "файл яңарту"
+
+#: wp-admin/plugins.php:319
+msgid "Are you sure you wish to delete these files?"
+msgstr "син бу файлларны бетерүгә ризамы?"
+
+#: wp-admin/plugins.php:445
+msgid "Plugin could not be activated because it triggered a <strong>fatal error</strong>."
+msgstr "Өстәмә кабызыла алмый, чөнки ул <strong>ваткыч хата</strong> чыгарды."
+
+#: wp-admin/plugins.php:467
+msgid "Plugin could not be deleted due to an error: %s"
+msgstr "Өстәмә бетерелә алмый, чөнки мондый хата чыкты: %s"
+
+#: wp-admin/plugins.php:475
+msgid "The selected plugins have been <strong>deleted</strong>."
+msgstr "Сайланган өстәмәләр <strong>бетерелде</strong>."
+
+#: wp-admin/plugins.php:482
+msgid "Plugin <strong>activated</strong>."
+msgstr "Өстәмә <strong>кабындырылды</strong>."
+
+#: wp-admin/plugins.php:484
+msgid "Selected plugins <strong>activated</strong>."
+msgstr "Сайланган өстәмәләр <strong>кабызылган</strong>."
+
+#: wp-admin/plugins.php:486
+msgid "Plugin <strong>deactivated</strong>."
+msgstr "Сайланган өстәмәләр <strong>сүндерелде</strong>."
+
+#: wp-admin/plugins.php:488
+msgid "Selected plugins <strong>deactivated</strong>."
+msgstr "Сайланган өстәмәләр <strong>сүндерелгән</strong>."
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:793
+msgid "Visit plugin site"
+msgstr "өстәмә битен карау"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:414
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:417
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Активные <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:420
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Недавно активные <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-plugins-list-table.php:423
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgstr[0] "Неактивные <span class=\"count\">(%s)</span>"
+
+#: wp-admin/async-upload.php:55 wp-admin/post.php:110 wp-admin/post.php:211
+#: wp-admin/post.php:234 wp-admin/post.php:252
+msgid "Unknown post type."
+msgstr "ялгыш төр язма"
+
+#: wp-admin/edit-form-advanced.php:109
+msgid "View post"
+msgstr "язымтаны карау"
+
+#. translators: 1: Post title
+#: wp-admin/revision.php:78
+msgid "Compare Revisions of &#8220;%1$s&#8221;"
+msgstr "&#8220;%1$s&#8221; хәлләрен чагыштыру"
+
+#: wp-admin/includes/theme.php:667 wp-admin/themes.php:464
+msgid "Tags:"
+msgstr "Тамгалар:"
+
+#: wp-admin/theme-editor.php:173
+msgid "Select theme to edit:"
+msgstr "Выберите тему для изменения:"
+
+#: wp-admin/includes/theme.php:656 wp-admin/themes.php:446
+msgid "Current Theme"
+msgstr "Хәзерге бизәлеш"
+
+#: wp-admin/themes.php:309
+msgid "Broken Themes"
+msgstr "Ватык бизәлешләр"
+
+#: wp-admin/update-core.php:257 wp-admin/update-core.php:267
+msgid "Compatibility with WordPress %1$s: 100%% (according to its author)"
+msgstr "Совместимость с WordPress %1$s: 100%% (согласно автору)"
+
+#: wp-admin/update-core.php:260 wp-admin/update-core.php:270
+msgid "Compatibility with WordPress %1$s: %2$d%% (%3$d \"works\" votes out of %4$d total)"
+msgstr "Совместимость с WordPress %1$s: %2$d%% (положительных голосов: %3$d из %4$d)"
+
+#: wp-admin/update-core.php:262 wp-admin/update-core.php:272
+msgid "Compatibility with WordPress %1$s: Unknown"
+msgstr "Совместимость с WordPress %1$s: Нет данных"
+
+#: wp-admin/update-core.php:351 wp-admin/update-core.php:399
+#: wp-admin/update-core.php:714 wp-admin/update-core.php:719
+msgid "Update Themes"
+msgstr "бизәлешләрне яңарту &raquo;"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:353
+#: wp-admin/update-core.php:495
+msgid "Installation Failed"
+msgstr "кую булып чыкмады"
+
+#: wp-admin/update.php:80
+msgid "Plugin Reactivation"
+msgstr "өстәмәне яңадан кабызу"
+
+#: wp-admin/update.php:82
+msgid "Plugin reactivated successfully."
+msgstr "өстәмә уңышлы яңадан кабызылды"
+
+#: wp-admin/update.php:85
+msgid "Plugin failed to reactivate due to a fatal error."
+msgstr "өстәмә зур хата өчен яңадан кабындырыла алмады."
+
+#: wp-admin/update.php:156
+msgid "Installing Plugin from uploaded file: %s"
+msgstr "Установка плагина из файла: %s"
+
+#: wp-admin/update.php:264
+msgid "Installing Theme from uploaded file: %s"
+msgstr "Установка темы из файла: %s"
+
+#: wp-admin/upgrade.php:76
+msgid "Your WordPress database is already up-to-date!"
+msgstr "синең WordPress мәгълүмат җыентысы яңача инде!"
+
+#: wp-admin/upgrade.php:115
+msgid "%s queries"
+msgstr "%s сорау"
+
+#: wp-admin/upgrade.php:117
+msgid "%s seconds"
+msgstr "%s секунд"
+
+#: wp-admin/user-edit.php:28
+msgid "Edit User"
+msgstr "катнашучыны үзгәртү"
+
+#: wp-admin/includes/user.php:516
+msgid "Use https"
+msgstr "Использовать https"
+
+#: wp-admin/includes/user.php:517
+msgid "Always use https when visiting the admin"
+msgstr "Всегда использовать https при посещении панели администрирования"
+
+#: wp-admin/user-edit.php:182
+msgid "User updated."
+msgstr "катнашучы үзгәртелде."
+
+#: wp-admin/user-edit.php:229
+msgid "Personal Options"
+msgstr "шәхси көйләнешләр"
+
+#: wp-admin/user-edit.php:234
+msgid "Visual Editor"
+msgstr "күреп төзәткеч"
+
+#: wp-admin/user-edit.php:261
+msgid "Enable keyboard shortcuts for comment moderation."
+msgstr "Использовать горячие клавиши для проверки комментариев."
+
+#: wp-admin/user-edit.php:374 wp-admin/user-new.php:414
+msgid "First Name"
+msgstr "исем"
+
+#: wp-admin/user-edit.php:379 wp-admin/user-new.php:418
+msgid "Last Name"
+msgstr "фамилия"
+
+#: wp-admin/user-edit.php:384
+msgid "Nickname"
+msgstr "атама"
+
+#: wp-admin/user-edit.php:389
+msgid "Display name publicly as"
+msgstr "исемеңне кешеләргә болай итеп күрсәтү:"
+
+#: wp-admin/user-edit.php:425
+msgid "Contact Info"
+msgstr "бәйләнешкә керү мәгълүмәте"
+
+#: wp-admin/user-edit.php:483
+msgid "About Yourself"
+msgstr "үзең турында"
+
+#: wp-admin/user-edit.php:483
+msgid "About the user"
+msgstr "кулланучы турында"
+
+#: wp-admin/user-edit.php:487
+msgid "Biographical Info"
+msgstr "тормышың турында"
+
+#: wp-admin/user-edit.php:540
+msgid "New Password"
+msgstr "яңа сер сүз"
+
+#: wp-admin/user-edit.php:563
+msgid "Type your new password again."
+msgstr "яңа сер сүзеңне тагы бер кат яз."
+
+#: wp-admin/user-edit.php:655
+msgid "Additional Capabilities"
+msgstr "өстәмә мөмкинлекләр"
+
+#: wp-admin/user-edit.php:679
+msgid "Update Profile"
+msgstr "профилеңне яңарту"
+
+#: wp-admin/user-edit.php:679
+msgid "Update User"
+msgstr "кулланучыны яңарт"
+
+#: wp-admin/user-new.php:100
+msgid "[%s] Joining confirmation"
+msgstr "[%s] кушылуны раслау"
+
+#: wp-admin/users.php:232
+msgid "Delete Users"
+msgstr "кулланучы бетерү"
+
+#: wp-admin/users.php:297
+msgid "There are no valid users selected for deletion."
+msgstr "монда бетерергә диеп сайланган дөрес кулланучы юк."
+
+#: wp-admin/users.php:453
+msgid "New user created."
+msgstr "яңа катнашучы ясалды."
+
+#: wp-admin/users.php:460
+msgid "The current user&#8217;s role must have user editing capabilities."
+msgstr "бу кулланучының роле кулланучы үзгәртү хокуклы булырга тиеш."
+
+#: wp-admin/users.php:461
+msgid "Other user roles have been changed."
+msgstr "башка кулланучы рольләре үзгәртелде."
+
+#: wp-admin/users.php:464
+msgid "You can&#8217;t delete the current user."
+msgstr "син бу кулланучыны бетерә алмыйсың."
+
+#: wp-admin/users.php:465
+msgid "Other users have been deleted."
+msgstr "башка кулланучылар бетерелде."
+
+#. translators: User role name with count
+#: wp-admin/includes/class-wp-users-list-table.php:206
+#: wp-admin/includes/class-wp-users-list-table.php:220
+msgid "%1$s <span class=\"count\">(%2$s)</span>"
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
+
+#: wp-admin/includes/class-wp-users-list-table.php:264
+#: wp-admin/includes/class-wp-users-list-table.php:266
+msgid "Change role to&hellip;"
+msgstr "рольне моңа алыштыру&hellip;"
+
+#: wp-admin/includes/class-wp-users-list-table.php:270
+msgid "Change"
+msgstr "үзгәртү"
+
+#: wp-admin/widgets.php:282
+msgid "Select both the sidebar for this widget and the position of the widget in that sidebar."
+msgstr "Выберите боковую колонку для этого виджета и его позицию в ней."
+
+#: wp-admin/includes/misc.php:882 wp-admin/includes/post.php:1785
+#: wp-admin/widgets.php:342
+msgid "Error while saving."
+msgstr "бетергәндә хата..."
+
+#: wp-admin/widgets.php:343
+msgid "Error in displaying the widget settings form."
+msgstr "Ошибка при отображении формы настроек виджета."
+
+#: wp-admin/widgets.php:388
+msgid "Available Widgets"
+msgstr "Кулланып була торган такмалар"
+
+#: wp-admin/widgets.php:117
+msgid "Drag widgets here to remove them from the sidebar but keep their settings."
+msgstr "Переместите виджеты сюда, чтобы убрать их из боковой колонки, но сохранить настройки."
+
+#: wp-admin/ms-delete-site.php:13 wp-admin/my-sites.php:13
+msgid "Multisite support is not enabled."
+msgstr "Поддержка сети не включена."
+
+#: wp-admin/includes/class-wp-users-list-table.php:155
+#: wp-admin/includes/deprecated.php:561
+msgid "No users found."
+msgstr "Һич бер катнашучы да табылмады."
+
+#: wp-admin/comment.php:123
+msgid "Permanently Delete Comment"
+msgstr "бөтенләйгә коммент бетерү"
+
+#: wp-admin/comment.php:126
+msgid "You are about to approve the following comment:"
+msgstr "Син киләсе комментны рөхсәт итмәкчесең:"
+
+#: wp-admin/comment.php:127
+msgid "Approve Comment"
+msgstr "Коммент рөхсәт итү"
+
+#: wp-admin/comment.php:329
+msgid "Unknown action."
+msgstr "Билгесез гамәл."
+
+#: wp-admin/custom-background.php:320 wp-admin/custom-header.php:575
+msgid "Choose an image from your computer:"
+msgstr "исәпләвечеңдән бер рәсем сайлап ал:"
+
+#: wp-admin/custom-background.php:324 wp-admin/custom-header.php:579
+#: wp-admin/includes/class-wp-theme-install-list-table.php:63
+#: wp-admin/includes/media.php:1951 wp-admin/includes/media.php:1953
+msgid "Upload"
+msgstr "җибәрү"
+
+#: wp-admin/includes/template.php:1948 wp-admin/nav-menus.php:657
+#: wp-admin/options.php:300
+msgid "Save Changes"
+msgstr "Үзгәртүне саклату"
+
+#: wp-admin/custom-header.php:787 wp-admin/custom-header.php:923
+msgid "Image Processing Error"
+msgstr "Ошибка при обработке изображения"
+
+#: wp-admin/custom-header.php:804
+msgid "Choose the part of the image you want to use as your header."
+msgstr "рәсемнең син башлык итеп кулланасы килгән өлешен сайлап күрсәт."
+
+#: wp-admin/includes/class-wp-media-list-table.php:441
+#: wp-admin/includes/class-wp-posts-list-table.php:978
+msgid "Unpublished"
+msgstr "Нәшер ителмәгән"
+
+#: wp-admin/includes/class-wp-media-list-table.php:447
+msgid "%s from now"
+msgstr "хәзердән алып %s"
+
+#: wp-admin/includes/class-wp-media-list-table.php:154
+#: wp-admin/includes/class-wp-media-list-table.php:514
+#: wp-admin/includes/class-wp-media-list-table.php:694
+msgid "Attach"
+msgstr "Прикрепить"
+
+#. translators: %s: number of comments restored from the spam
+#: wp-admin/edit-comments.php:259
+msgid "%s comment restored from the spam"
+msgid_plural "%s comments restored from the spam"
+msgstr[0] "%s комментарий восстановлен из спама"
+
+#. translators: %s: number of comments permanently deleted
+#: wp-admin/edit-comments.php:275
+msgid "%s comment permanently deleted"
+msgid_plural "%s comments permanently deleted"
+msgstr[0] "%s комментарий удалён навсегда"
+
+#: wp-admin/edit-comments.php:301
+msgid "Search Comments"
+msgstr "Коммент эзләү"
+
+#: wp-admin/includes/deprecated.php:594
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Показаны %s&#8211;%s из %s"
+
+#: wp-admin/edit.php:220 wp-admin/includes/class-wp-list-table.php:463
+msgid "Bulk Actions"
+msgstr "Гамәлләр"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:293
+#: wp-admin/includes/class-wp-comments-list-table.php:558
+#: wp-admin/includes/class-wp-comments-list-table.php:564
+#: wp-admin/includes/dashboard.php:633
+msgid "Unapprove"
+msgstr "Рөхсәтне бетерү"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:295
+#: wp-admin/includes/class-wp-comments-list-table.php:560
+#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/dashboard.php:632
+msgid "Approve"
+msgstr "Рөхсәт итү"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:354
+#: wp-admin/includes/class-wp-links-list-table.php:115
+#: wp-admin/includes/class-wp-media-list-table.php:177
+#: wp-admin/includes/class-wp-posts-list-table.php:487
+msgid "Filter"
+msgstr "иләк"
+
+#: wp-admin/edit-form-advanced.php:138 wp-admin/edit-form-advanced.php:152
+msgid "Custom field updated."
+msgstr "Үзең өстәгән язу кыры үзгәртелде."
+
+#: wp-admin/edit-form-advanced.php:139 wp-admin/edit-form-advanced.php:153
+msgid "Custom field deleted."
+msgstr "Үзең өстәгән язу кыры бетерелде."
+
+#: wp-admin/edit-form-advanced.php:137 wp-admin/edit-form-advanced.php:140
+msgid "Post updated."
+msgstr "язымта үзгәртелде."
+
+#: wp-admin/edit-form-advanced.php:151 wp-admin/edit-form-advanced.php:154
+msgid "Page updated."
+msgstr "Бит үзгәртелде."
+
+#: wp-admin/edit-form-advanced.php:273
+msgid "Send Trackbacks"
+msgstr "монларга кирегә юл җибәрәсе:"
+
+#: wp-admin/edit-form-advanced.php:276
+msgid "Custom Fields"
+msgstr "Үзең өстәгән язу урынлары"
+
+#: wp-admin/edit-form-advanced.php:291 wp-admin/menu.php:252
+msgid "Discussion"
+msgstr "Фикерләшү"
+
+#: wp-admin/edit-form-advanced.php:309 wp-admin/edit-tag-form.php:126
+#: wp-admin/edit-tags.php:392
+#: wp-admin/includes/class-wp-posts-list-table.php:1405
+#: wp-admin/includes/class-wp-terms-list-table.php:182
+#: wp-admin/includes/class-wp-terms-list-table.php:600
+#: wp-admin/includes/meta-boxes.php:751
+msgid "Slug"
+msgstr "Бит адресы"
+
+#. translators: 1: Name of most recent post author, 2: Post edited date, 3:
+#. Post edited time
+#: wp-admin/edit-form-advanced.php:643 wp-admin/includes/ajax-actions.php:2278
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr "Соңгы тапкыр %1$s  %3$s дагы %2$s да төзәткән."
+
+#: wp-admin/edit-form-comment.php:43
+msgid "Name:"
+msgstr "Name:"
+
+#: wp-admin/edit-tag-form.php:176 wp-admin/edit-tags.php:444
+msgid "The description is not prominent by default; however, some themes may show it."
+msgstr "Махсус көйләмәгәндә гадәттә аңлатма күренеп тормый, әмма кай бер бизәлешләр аны күрсәтергә мөмкин."
+
+#: wp-admin/edit-link-form.php:76
+msgid "Link added."
+msgstr "күчке өстәлде."
+
+#: wp-admin/edit-link-form.php:97
+msgid "Example: Nifty blogging software"
+msgstr "мисал: әйбәт дәфтәр программасы"
+
+#: wp-admin/edit-link-form.php:102
+msgid "Web Address"
+msgstr "итернет челтәре адресы"
+
+#: wp-admin/edit-link-form.php:113
+msgid "This will be shown when someone hovers over the link in the blogroll, or optionally below the link."
+msgstr "бу кем дә булса \"дәфтәр әйләнәсен\"дәге күчке өстенә күрсәткечне китерсә йә теләсәгез астына китерсә дә күрсәтелер."
+
+#: wp-admin/edit-tag-form.php:122 wp-admin/edit-tags.php:388
+msgid "The name is how it appears on your site."
+msgstr "бу исем ул тамганың сайтыңдагы күренеше."
+
+#: wp-admin/includes/class-wp-posts-list-table.php:297
+msgctxt "posts"
+msgid "Mine <span class=\"count\">(%s)</span>"
+msgid_plural "Mine <span class=\"count\">(%s)</span>"
+msgstr[0] "Мои <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:317
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+
+#: wp-admin/export.php:17 wp-admin/menu.php:242
+msgid "Export"
+msgstr "Чыгару"
+
+#: wp-admin/export.php:157
+msgid "When you click the button below WordPress will create an XML file for you to save to your computer."
+msgstr "Асттараккы төртүлеккә чиртсәң Вордпресс синга исәпләвечеңдә саклатыр өчен XML файл ясар."
+
+#: wp-admin/export.php:158
+msgid "This format, which we call WordPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
+msgstr "бу без Вордпресс киңәйтелгән RSS-ы йә WXR диеп атай торган форматның эчендә язымта, бит, коммент, үзеңчә язу урынлары, бүлек һәм тамгаларың сакланыр."
+
+#: wp-admin/export.php:290
+msgid "Download Export File"
+msgstr "Чыгару файлыны күчереп алу"
+
+#: wp-admin/includes/import.php:164
+msgid "Blogger"
+msgstr "Блоггер"
+
+#: wp-admin/includes/import.php:176
+msgid "LiveJournal"
+msgstr "\"лайвжурныл\""
+
+#: wp-admin/includes/import.php:182
+msgid "Movable Type and TypePad"
+msgstr "\"мувабыл тайп\" һәм \"тайппэд\""
+
+#: wp-admin/includes/import.php:188
+msgid "Blogroll"
+msgstr "блог әйләнәсе"
+
+#: wp-admin/import.php:86
+msgid "No importers are available."
+msgstr "бер керткеч тә юк."
+
+#. translators: %s: directory name
+#: wp-admin/includes/class-wp-filesystem-base.php:284
+msgid "Changing to %s"
+msgstr "%s ка үзгәртәбез"
+
+#. translators: %s: directory name
+#: wp-admin/includes/class-wp-filesystem-base.php:299
+msgid "Found %s"
+msgstr "%s табылды"
+
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:31
+msgid "The ftp PHP extension is not available"
+msgstr "ftp PHP өстәмәсен алып булмый"
+
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:46
+#: wp-admin/includes/class-wp-filesystem-ftpsockets.php:45
+msgid "FTP hostname is required"
+msgstr "FTP сервер исеме кирәк"
+
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:52
+#: wp-admin/includes/class-wp-filesystem-ftpsockets.php:51
+msgid "FTP username is required"
+msgstr "FTP кулланучы исеме кирәк"
+
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:57
+#: wp-admin/includes/class-wp-filesystem-ftpsockets.php:56
+msgid "FTP password is required"
+msgstr "FTP сер сүзе кирәк"
+
+#. translators: %s: username
+#: wp-admin/includes/class-wp-filesystem-ftpext.php:90
+#: wp-admin/includes/class-wp-filesystem-ftpsockets.php:95
+#: wp-admin/includes/class-wp-filesystem-ssh2.php:137
+msgid "Username/Password incorrect for %s"
+msgstr "%s өчен кулланучы исеме я сер сүз дөрес түгел"
+
+#. translators: %s: username
+#: wp-admin/includes/class-wp-filesystem-ssh2.php:147
+msgid "Public and Private keys incorrect for %s"
+msgstr "Открытый и закрытый ключи для %s неверны"
+
+#. translators: %s: command
+#: wp-admin/includes/class-wp-filesystem-ssh2.php:206
+msgid "Unable to perform command: %s"
+msgstr "Не удалось выполнить команду: %s"
+
+#: wp-admin/includes/class-wp-automatic-updater.php:342
+#: wp-admin/includes/class-wp-upgrader.php:157 wp-admin/includes/file.php:571
+#: wp-admin/includes/plugin.php:816 wp-admin/includes/theme.php:59
+msgid "Could not access filesystem."
+msgstr "файл системасына үтеп булмады."
+
+#: wp-admin/includes/class-wp-upgrader.php:158 wp-admin/includes/plugin.php:819
+#: wp-admin/includes/theme.php:62
+msgid "Filesystem error."
+msgstr "файл системасы хатасы"
+
+#: wp-admin/includes/class-wp-upgrader.php:166
+msgid "Download failed."
+msgstr "күчерү булып чыкмады."
+
+#: wp-admin/includes/class-wp-upgrader.php:170 wp-admin/includes/file.php:692
+#: wp-admin/includes/file.php:798 wp-admin/includes/file.php:851
+#: wp-admin/includes/update-core.php:1173
+msgid "Could not create directory."
+msgstr "савыт барлыкка китереп булмады"
+
+#: wp-admin/includes/file.php:639 wp-admin/includes/file.php:750
+msgid "Incompatible Archive."
+msgstr "туры килми торган архив"
+
+#: wp-admin/includes/class-wp-upgrader.php:174
+#: wp-admin/includes/update-core.php:933
+msgid "Enabling Maintenance mode&#8230;"
+msgstr "Включение режима обслуживания&#8230;"
+
+#: wp-admin/includes/class-wp-upgrader.php:175
+#: wp-admin/includes/update-core.php:1020
+msgid "Disabling Maintenance mode&#8230;"
+msgstr "Отключение режима обслуживания&#8230;"
+
+#: wp-admin/includes/class-plugin-upgrader.php:50
+msgid "The plugin is at the latest version."
+msgstr "бу өстәмә иң соңгы версия."
+
+#: wp-admin/includes/class-core-upgrader.php:34
+#: wp-admin/includes/class-language-pack-upgrader.php:120
+#: wp-admin/includes/class-plugin-upgrader.php:53
+#: wp-admin/includes/class-theme-upgrader.php:52
+msgid "Unpacking the update&#8230;"
+msgstr "яңартуны сүтеп тарату"
+
+#: wp-admin/includes/class-plugin-upgrader.php:54
+msgid "Removing the old version of the plugin&#8230;"
+msgstr "өстәмәнең иске версиясен бетерү"
+
+#: wp-admin/includes/class-plugin-upgrader.php:55
+msgid "Could not remove the old plugin."
+msgstr "иске өстәмәне бетереп булмады"
+
+#: wp-admin/includes/class-plugin-upgrader.php:69
+#: wp-admin/includes/class-theme-upgrader.php:67
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка архива с <span class=\"code\">%s</span>&#8230;"
+
+#: wp-admin/includes/class-plugin-upgrader.php:73
+msgid "Plugin install failed."
+msgstr "Установка плагина не удалась."
+
+#: wp-admin/includes/class-core-upgrader.php:35
+msgid "Could not copy files."
+msgstr "файл копияләп булмады"
+
+#: wp-admin/includes/class-plugin-installer-skin.php:57
+#: wp-admin/includes/class-plugin-upgrader-skin.php:52
+msgid "Activate Plugin"
+msgstr "бу өстәмәне кабызу"
+
+#: wp-admin/includes/class-bulk-theme-upgrader-skin.php:49
+#: wp-admin/includes/class-theme-installer-skin.php:79
+#: wp-admin/includes/class-theme-upgrader-skin.php:68
+msgid "Return to Themes page"
+msgstr "Вернуться на страницу тем"
+
+#. translators: 1: theme name, 2: version
+#: wp-admin/includes/class-theme-upgrader.php:74
+msgid "Successfully installed the theme <strong>%1$s %2$s</strong>."
+msgstr "Тема <strong>%1$s %2$s</strong> успешно установлена."
+
+#: wp-admin/includes/class-theme-installer-skin.php:77
+msgid "Return to Theme Installer"
+msgstr "Вернуться к установщику тем"
+
+#: wp-admin/includes/file.php:387
+msgid "The uploaded file could not be moved to %s."
+msgstr "җибәрелгән файлны %s ка күчереп булмады."
+
+#: wp-admin/includes/dashboard.php:42
+msgid "Right Now"
+msgstr "Менә хәзер"
+
+#: wp-admin/includes/dashboard.php:1139
+msgid "Other WordPress News"
+msgstr "башка вордпресс яңалыклары"
+
+#: wp-admin/tools.php:16 wp-admin/tools.php:40 wp-admin/tools.php:51
+msgid "Press This"
+msgstr "моңа чирт"
+
+#: wp-admin/includes/class-wp-press-this.php:1520
+#: wp-admin/includes/meta-boxes.php:269 wp-admin/includes/meta-boxes.php:270
+msgid "Submit for Review"
+msgstr "Карап чыгырга бирү"
+
+#: wp-admin/includes/dashboard.php:971
+msgid "Loading&#8230;"
+msgstr "күчереп алу"
+
+#: wp-admin/includes/dashboard.php:971
+msgid "This widget requires JavaScript."
+msgstr "Этот виджет требует JavaScript."
+
+#: wp-admin/includes/class-wp-comments-list-table.php:560
+#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/dashboard.php:632
+msgid "Approve this comment"
+msgstr "бу комментны рөхсәт итү"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:558
+#: wp-admin/includes/class-wp-comments-list-table.php:564
+#: wp-admin/includes/dashboard.php:633
+msgid "Unapprove this comment"
+msgstr "бу комментны тыю"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:568
+#: wp-admin/includes/dashboard.php:636
+msgid "Mark this comment as spam"
+msgstr "бу комментны спам итеп тамгалау"
+
+#. translators: mark as spam link
+#: wp-admin/includes/class-wp-comments-list-table.php:568
+#: wp-admin/includes/dashboard.php:636
+msgctxt "verb"
+msgid "Spam"
+msgstr "спам"
+
+#: wp-admin/includes/file.php:25
+msgid "Main Index Template"
+msgstr "төп исемлек калыбы"
+
+#: wp-admin/includes/file.php:55
+msgid "RTL Stylesheet"
+msgstr "уңдан сулга язу күренеш бите"
+
+#: wp-admin/includes/file.php:63
+msgid "Popup Comments"
+msgstr "комментларны чыгару"
+
+#: wp-admin/includes/file.php:29
+msgid "Category Template"
+msgstr "бүлек калыбы"
+
+#: wp-admin/includes/file.php:21
+msgid "Search Form"
+msgstr "эзләргә сорау кертү урыны"
+
+#: wp-admin/includes/file.php:36
+msgid "Single Post"
+msgstr "язымта бите"
+
+#: wp-admin/includes/file.php:23
+msgid "Links Template"
+msgstr "күчке калыбы"
+
+#: wp-admin/includes/file.php:16
+msgid "Theme Functions"
+msgstr "бизәлеш функцияләре"
+
+#: wp-admin/includes/file.php:40
+msgid "Attachment Template"
+msgstr "беркетмә калыбы"
+
+#: wp-admin/includes/file.php:57
+msgid "my-hacks.php (legacy hacks support)"
+msgstr "my-hacks.php (искечә төзәтмәләрне тәэмин итү)"
+
+#: wp-admin/includes/file.php:58
+msgid ".htaccess (for rewrite rules )"
+msgstr ".htaccess (адрес алыштыру кагыйдәләре өчен)"
+
+#: wp-admin/includes/file.php:61
+msgid "Comments Template"
+msgstr "коммент калыбы"
+
+#: wp-admin/includes/file.php:62
+msgid "Popup Comments Template"
+msgstr "килеп чыга торган коммент калыбы"
+
+#: wp-admin/includes/file.php:297
+msgid "The uploaded file was only partially uploaded."
+msgstr "китерелгән файл өлешчә генә килеп җиткән."
+
+#: wp-admin/includes/file.php:298
+msgid "No file was uploaded."
+msgstr "бер файл да китерелмәгән."
+
+#: wp-admin/includes/file.php:300
+msgid "Missing a temporary folder."
+msgstr "вакытлыча саклау савыты юк."
+
+#: wp-admin/includes/file.php:301
+msgid "Failed to write file to disk."
+msgstr "файлны дискка язып булмады."
+
+#: wp-admin/includes/file.php:302
+msgid "File upload stopped by extension."
+msgstr "Загрузка файла прервана из-за расширения."
+
+#: wp-admin/includes/file.php:316
+msgid "Invalid form submission."
+msgstr "биттән җибәрү хатасы."
+
+#: wp-admin/includes/file.php:337
+msgid "Specified file failed upload test."
+msgstr "күрсәтелгән файл китерү сынавыны узмады."
+
+#: wp-admin/includes/file.php:495
+msgid "Invalid URL Provided."
+msgstr "хаталы адрес бирелгән"
+
+#: wp-admin/includes/file.php:501
+msgid "Could not create Temporary file."
+msgstr "аз вакыт саклау файлыны барлыкка китереп булмады"
+
+#: wp-admin/includes/file.php:712 wp-admin/includes/file.php:811
+#: wp-admin/includes/file.php:846 wp-admin/includes/update-core.php:1057
+#: wp-admin/includes/update-core.php:1168
+msgid "Could not copy file."
+msgstr "файл копияләп булмады"
+
+#: wp-admin/includes/file.php:753
+msgid "Empty archive."
+msgstr "буш архив"
+
+#: wp-admin/includes/file.php:1154
+msgid "FTP"
+msgstr "FTP"
+
+#: wp-admin/includes/file.php:1156
+msgid "FTPS (SSL)"
+msgstr "FTPS (SSL)"
+
+#: wp-admin/includes/file.php:1158
+msgid "SSH2"
+msgstr "SSH2"
+
+#: wp-admin/includes/file.php:1206
+msgid "Hostname"
+msgstr "интернет адресы домены:"
+
+#: wp-admin/includes/file.php:1264
+msgid "Proceed"
+msgstr "эшләү"
+
+#: wp-admin/includes/image-edit.php:191
+msgid "Rotate counter-clockwise"
+msgstr "Повернуть против часовой стрелки"
+
+#: wp-admin/includes/image-edit.php:192
+msgid "Rotate clockwise"
+msgstr "Повернуть по часовой стрелке"
+
+#: wp-admin/includes/image-edit.php:200
+msgid "Flip vertically"
+msgstr "Отразить по вертикали"
+
+#: wp-admin/includes/image-edit.php:84
+msgid "Discard any changes and restore the original image."
+msgstr "Отменить все изменения и восстановить исходное изображение."
+
+#: wp-admin/includes/image-edit.php:87
+msgid "Previously edited copies of the image will not be deleted."
+msgstr "Ранее изменённые копии изображения не будут удалены."
+
+#: wp-admin/includes/image-edit.php:107
+msgid "Crop Aspect Ratio"
+msgstr "Пропорции области"
+
+#: wp-admin/includes/image-edit.php:116
+msgid "Aspect ratio:"
+msgstr "Пропорции:"
+
+#: wp-admin/includes/image-edit.php:161
+msgid "Apply changes to:"
+msgstr "Сейчас редактируются:"
+
+#: wp-admin/includes/image-edit.php:165
+msgid "All image sizes"
+msgstr "рәсем зурлыклары"
+
+#: wp-admin/includes/image-edit.php:173
+msgid "All sizes except thumbnail"
+msgstr "Все размеры, кроме миниатюры"
+
+#: wp-admin/includes/image-edit.php:687
+msgid "Cannot save image metadata."
+msgstr "Не удаётся сохранить метаданные изображения."
+
+#: wp-admin/includes/image-edit.php:692
+msgid "Image metadata is inconsistent."
+msgstr "Метаданные изображения ошибочны."
+
+#: wp-admin/includes/image-edit.php:738
+msgid "Error while saving the scaled image. Please reload the page and try again."
+msgstr "Error while saving the scaled image. зинһар өчен битне яңадан ачыгыз да тагын эшләп карагыз."
+
+#: wp-admin/includes/image-edit.php:746
+msgid "Nothing to save, the image has not changed."
+msgstr "Сохранять нечего, изображение не изменилось."
+
+#: wp-admin/includes/media.php:18
+msgid "From Computer"
+msgstr "бу исәпләгечтән:"
+
+#: wp-admin/includes/media.php:19
+msgid "From URL"
+msgstr "бу интернет адресындан:"
+
+#: wp-admin/includes/media.php:20
+msgid "Gallery"
+msgstr "рәсем күргәзмәсе"
+
+#: wp-admin/includes/media.php:62
+msgid "Gallery (%s)"
+msgstr "рәсем күргәзмәсе (%s)"
+
+#: wp-admin/includes/media.php:463
+msgid "Uploads"
+msgstr "җибәрелгәннәр"
+
+#: wp-admin/includes/media.php:463 wp-admin/includes/template.php:1591
+#: wp-admin/install.php:80 wp-admin/maint/repair.php:26
+#: wp-admin/setup-config.php:102 wp-admin/upgrade.php:71
+msgid "WordPress"
+msgstr "вордпресс"
+
+#: wp-admin/includes/media.php:1080 wp-admin/includes/media.php:1237
+msgid "File URL"
+msgstr "URL файл адресы"
+
+#: wp-admin/includes/media.php:1282 wp-admin/includes/media.php:2589
+msgid "Alt text for the image, e.g. &#8220;The Mona Lisa&#8221;"
+msgstr "рәсем чыкмагандагы язу, мәсьәлән, \"болгардагы кече манара\""
+
+#: wp-admin/includes/media.php:1159
+msgid "Empty Title filled from filename."
+msgstr "файл исеменнән алынан буш башлык."
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1537
+#: wp-admin/includes/media.php:1233 wp-admin/includes/media.php:2245
+#: wp-admin/includes/meta-boxes.php:863
+msgid "Order"
+msgstr "тәртип"
+
+#: wp-admin/includes/media.php:1241
+msgid "Location of the uploaded file."
+msgstr "Местонахождение загруженного файла."
+
+#: wp-admin/includes/media.php:1493 wp-admin/includes/media.php:2619
+#: wp-admin/includes/media.php:2625
+msgid "Insert into Post"
+msgstr "язымтага кертү"
+
+#: wp-admin/includes/media.php:1505 wp-admin/upgrade.php:77
+#: wp-admin/upgrade.php:111
+msgid "Continue"
+msgstr "дәвам итү"
+
+#: wp-admin/includes/media.php:2044 wp-admin/includes/media.php:2255
+#: wp-admin/includes/media.php:2522
+msgid "Save all changes"
+msgstr "барча үзгәртүне саклату"
+
+#: wp-admin/includes/media.php:2267
+msgid "Link thumbnails to:"
+msgstr "Ссылки c миниатюр:"
+
+#: wp-admin/includes/media.php:2282
+msgid "Order images by:"
+msgstr "Критерий сортировки:"
+
+#: wp-admin/includes/media.php:2298
+msgid "Order:"
+msgstr "тәртип"
+
+#: wp-admin/includes/media.php:2418
+msgid "All Types"
+msgstr "барча төр"
+
+#: wp-admin/includes/media.php:2492
+msgid "Filter &#187;"
+msgstr "иләү &#187;"
+
+#: wp-admin/includes/media.php:2543
+msgid "Image Caption"
+msgstr "сүрәт исеме"
+
+#: wp-admin/includes/media.php:2613
+msgid "Link to image"
+msgstr "сүрәткә күчке"
+
+#: wp-admin/includes/media.php:2582
+msgid "Link text, e.g. &#8220;Ransom Demands (PDF)&#8221;"
+msgstr "күчке язывы, мәсьәлән, \"татарча сайтлар бәйгесе нигезләмәсе (pdf)\""
+
+#: wp-admin/export.php:205 wp-admin/export.php:247
+#: wp-admin/includes/meta-boxes.php:78
+msgid "Status:"
+msgstr "хәл"
+
+#: wp-admin/includes/meta-boxes.php:158
+msgid "Stick this post to the front page"
+msgstr "Прилепить на главную страницу"
+
+#: wp-admin/includes/meta-boxes.php:493 wp-admin/includes/meta-boxes.php:954
+#: wp-admin/includes/nav-menu.php:683
+msgid "Most Used"
+msgstr "иң күп кулланыла торган"
+
+#: wp-admin/includes/meta-boxes.php:604
+msgid "Already pinged:"
+msgstr "хәбәр җибәрегән инде :"
+
+#: wp-admin/includes/meta-boxes.php:614
+msgid "Send trackbacks to:"
+msgstr "монларга кирегә юл җибәрәсе:"
+
+#: wp-admin/includes/meta-boxes.php:617
+msgid "Separate multiple URLs with spaces"
+msgstr "күп адресны буш урын белән аер"
+
+#: wp-admin/includes/meta-boxes.php:733
+msgid "Show comments"
+msgstr "Барча комментны күрсәтү"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1502
+#: wp-admin/includes/meta-boxes.php:824
+msgid "Parent"
+msgstr "ата-ана"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1555
+#: wp-admin/includes/meta-boxes.php:856
+msgid "Default Template"
+msgstr "Әйтмәгәндәге калып"
+
+#: wp-admin/includes/meta-boxes.php:894
+msgid "Visit Link"
+msgstr "күчке буенча карау"
+
+#: wp-admin/includes/meta-boxes.php:902
+msgid "Keep this link private"
+msgstr "бу күчкен үзең өчен генә калдыру"
+
+#: wp-admin/includes/meta-boxes.php:975 wp-admin/includes/meta-boxes.php:977
+msgid "+ Add New Category"
+msgstr "+ яңа бүлек өстәү"
+
+#: wp-admin/includes/meta-boxes.php:978
+msgid "New category name"
+msgstr "яңа бүлек исеме"
+
+#: wp-admin/includes/meta-boxes.php:999
+msgid "<code>_blank</code> &mdash; new window or tab."
+msgstr "<code>_blank</code> &mdash; новое окно или вкладка."
+
+#: wp-admin/includes/meta-boxes.php:1002
+msgid "<code>_top</code> &mdash; current window or tab, with no frames."
+msgstr "<code>_top</code> &mdash; текущее окно или вкладка, без фреймов."
+
+#: wp-admin/includes/meta-boxes.php:1005
+msgid "<code>_none</code> &mdash; same window or tab."
+msgstr "<code>_none</code> &mdash; то же окно или вкладка."
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1054
+msgid "rel:"
+msgstr "мөнәсәбәт:"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1058 wp-admin/includes/meta-boxes.php:1059
+msgid "identity"
+msgstr "танылу"
+
+#: wp-admin/includes/meta-boxes.php:1062
+msgid "another web address of mine"
+msgstr "тагын бер интернет адресым"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1066 wp-admin/includes/meta-boxes.php:1067
+msgid "friendship"
+msgstr "дустлык"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1069
+msgid "contact"
+msgstr "бәйләнеш"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1072
+msgid "acquaintance"
+msgstr "таныш"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1075
+msgid "friend"
+msgstr "дуст"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1078 wp-admin/includes/meta-boxes.php:1111
+#: wp-admin/includes/meta-boxes.php:1134
+msgid "none"
+msgstr "Берәү дә түгел"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1083 wp-admin/includes/meta-boxes.php:1084
+msgid "physical"
+msgstr "физик"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1086
+msgid "met"
+msgstr "очрашкан"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1091 wp-admin/includes/meta-boxes.php:1092
+msgid "professional"
+msgstr "эш остасы"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1094
+msgid "co-worker"
+msgstr "бергә эшләүче"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1097
+msgid "colleague"
+msgstr "хезмәттәш"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1102 wp-admin/includes/meta-boxes.php:1103
+msgid "geographical"
+msgstr "географик"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1105
+msgid "co-resident"
+msgstr "бергә торучы"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1108
+msgid "neighbor"
+msgstr "күрше"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1116 wp-admin/includes/meta-boxes.php:1117
+msgid "family"
+msgstr "гаилә"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1119
+msgid "child"
+msgstr "бала"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1122
+msgid "kin"
+msgstr "туган"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1125
+msgid "parent"
+msgstr "ата-ана"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1128
+msgid "sibling"
+msgstr "бертуган"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1131
+msgid "spouse"
+msgstr "җефет"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1139 wp-admin/includes/meta-boxes.php:1140
+msgid "romantic"
+msgstr "романтик"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1142
+msgid "muse"
+msgstr "илһам"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1145
+msgid "crush"
+msgstr "җимерү"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1148
+msgid "date"
+msgstr "очрашу"
+
+#. translators: xfn: http://gmpg.org/xfn/
+#: wp-admin/includes/meta-boxes.php:1151
+msgid "sweetheart"
+msgstr "яраткан"
+
+#: wp-admin/includes/meta-boxes.php:1172
+msgid "Image Address"
+msgstr "сүрәт адресы"
+
+#: wp-admin/includes/meta-boxes.php:1176
+msgid "RSS Address"
+msgstr "RSS адресы"
+
+#: wp-admin/includes/meta-boxes.php:1180
+msgid "Notes"
+msgstr "искәрмә"
+
+#: wp-admin/includes/class-wp-links-list-table.php:133
+#: wp-admin/includes/meta-boxes.php:1184
+msgid "Rating"
+msgstr "дәрәҗәләү"
+
+#: wp-admin/includes/meta-boxes.php:1193
+msgid "(Leave at 0 for no rating.)"
+msgstr "(дәрәҗәләмәс өчен 0 көе калдыр.)"
+
+#: wp-admin/includes/plugin-install.php:240
+msgid "Popular tags"
+msgstr "Популярные метки"
+
+#: wp-admin/includes/plugin-install.php:241
+msgid "You may also browse based on the most popular tags in the Plugin Directory:"
+msgstr "Можно также просмотреть содержимое популярных меток в каталоге плагинов:"
+
+#: wp-admin/includes/plugin-install.php:301
+msgid "If you have a plugin in a .zip format, you may install it by uploading it here."
+msgstr "Если у вас есть архив плагина в формате .zip, здесь можно загрузить и установить его."
+
+#: wp-admin/includes/plugin-install.php:304
+msgid "Plugin zip file"
+msgstr "өстәмә файллары"
+
+#: wp-admin/includes/plugin-install.php:609
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "(всего %s голос)"
+
+#. translators: %s: Plugin version
+#: wp-admin/includes/plugin-install.php:702
+msgid "Newer Version (%s) Installed"
+msgstr "Установлена более новая версия (%s)"
+
+#: wp-admin/includes/plugin-install.php:705
+msgid "Latest Version Installed"
+msgstr "Установлена свежая версия"
+
+#: wp-admin/includes/class-wp-plugin-install-list-table.php:559
+#: wp-admin/includes/plugin-install.php:572
+msgid "Last Updated:"
+msgstr "соңгы үзгәреш"
+
+#. translators: %s: WordPress version
+#: wp-admin/includes/plugin-install.php:583
+msgid "%s or higher"
+msgstr "%s или выше"
+
+#: wp-admin/includes/plugin-install.php:587
+msgid "Compatible up to:"
+msgstr "Совместим вплоть до:"
+
+#: wp-admin/includes/plugin-install.php:599
+msgid "WordPress.org Plugin Page &#187;"
+msgstr "Страница на WordPress.org &#187;"
+
+#: wp-admin/includes/plugin-install.php:666
+msgid "<strong>Warning:</strong> This plugin has <strong>not been tested</strong> with your current version of WordPress."
+msgstr "<strong>Внимание:</strong> Этот плагин <strong>не был протестирован</strong> с вашей версией WordPress."
+
+#: wp-admin/includes/plugin-install.php:668
+msgid "<strong>Warning:</strong> This plugin has <strong>not been marked as compatible</strong> with your version of WordPress."
+msgstr "<strong>Внимание:</strong> Этот плагин не был помечен как <strong>совместимый</strong> с вашей версией WordPress."
+
+#: wp-admin/includes/plugin.php:623
+msgid "The plugin generated unexpected output."
+msgstr "Плагин произвёл неожиданный вывод на экран."
+
+#: wp-admin/includes/plugin.php:758
+msgid "One of the plugins is invalid."
+msgstr "өстәмәнең берсе хаталы."
+
+#: wp-admin/includes/plugin.php:897
+msgid "Could not fully remove the plugin(s) %s."
+msgstr "%s өстәмәсен тулысынча бетереп булмады."
+
+#: wp-admin/includes/plugin.php:954
+msgid "Plugin file does not exist."
+msgstr "өстәмә файлы юк."
+
+#: wp-admin/includes/post.php:1325 wp-admin/includes/post.php:1348
+msgid "Permalink:"
+msgstr "даимий күчке:"
+
+#. translators: site tagline
+#: wp-admin/includes/schema.php:530
+msgid "Just another %s site"
+msgstr "%s дагы тагын бер дәфтәр"
+
+#. translators: user role
+#: wp-admin/includes/schema.php:640
+msgctxt "User role"
+msgid "Author"
+msgstr "автор"
+
+#: wp-admin/includes/schema.php:1082
+msgid "Warning! Wildcard DNS may not be configured correctly!"
+msgstr "Сак бул! Wildcard DNS may not be configured correctly!"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:588
+#: wp-admin/includes/class-wp-posts-list-table.php:1236
+#: wp-admin/includes/class-wp-terms-list-table.php:449
+msgid "Quick&nbsp;Edit"
+msgstr "Свойства"
+
+#. translators: manage posts column name
+#: wp-admin/includes/class-wp-posts-list-table.php:539
+msgctxt "column name"
+msgid "Title"
+msgstr "Башлык"
+
+#. translators: column name
+#: wp-admin/includes/class-wp-media-list-table.php:313
+msgctxt "column name"
+msgid "Date"
+msgstr "Даты"
+
+#: wp-admin/includes/class-wp-comments-list-table.php:398
+#: wp-admin/includes/class-wp-post-comments-list-table.php:28
+msgctxt "column name"
+msgid "Comment"
+msgstr "Коммент"
+
+#: wp-admin/includes/class-wp-links-list-table.php:132
+msgid "Visible"
+msgstr "күренә торган"
+
+#: wp-admin/export.php:169 wp-admin/includes/class-wp-users-list-table.php:322
+msgid "Posts"
+msgstr "язымталар"
+
+#. translators: Between password field and private checkbox on post quick edit
+#. interface
+#: wp-admin/includes/class-wp-posts-list-table.php:1460
+msgid "&ndash;OR&ndash;"
+msgstr "&mdash; йә &mdash;"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1508
+msgid "Main Page (no parent)"
+msgstr "Төп бит (тышкы бите юк)"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1611
+msgid "Allow Comments"
+msgstr "Коммент язуны рөхсәт итү"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1616
+msgid "Allow Pings"
+msgstr "Пингларны рөхсәт итү"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1648
+#: wp-admin/includes/class-wp-posts-list-table.php:1651
+#: wp-admin/includes/template.php:1709
+msgid "Sticky"
+msgstr "Прилеплена"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:1652
+msgid "Not Sticky"
+msgstr "Не прилеплена"
+
+#: wp-admin/includes/class-wp-posts-list-table.php:998
+msgid "Missed schedule"
+msgstr "Публикация просрочена"
+
+#: wp-admin/includes/template.php:466
+msgid "Comment by %s moved to the trash."
+msgstr "Комментарий автора %s перемещён в корзину."
+
+#: wp-admin/includes/template.php:489 wp-admin/includes/template.php:504
+#: wp-admin/includes/template.php:568 wp-admin/includes/template.php:629
+msgid "Value"
+msgstr "эчтәлеге"
+
+#: wp-admin/includes/template.php:558
+msgid "Key"
+msgstr "ачкыч"
+
+#: wp-admin/includes/template.php:624
+msgid "Add New Custom Field:"
+msgstr "үзеңчә язу урыны өстәү"
+
+#: wp-admin/includes/template.php:661
+msgid "Add Custom Field"
+msgstr "үзеңчә язу урыны өстәү"
+
+#: wp-admin/includes/template.php:861
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Перед тем, как вы сможете загрузить файл импорта, необходимо исправить следующие ошибки:"
+
+#: wp-admin/includes/template.php:867
+msgid "Choose a file from your computer:"
+msgstr "исәпләвечеңдән бер файл сайлап ал:"
+
+#: wp-admin/includes/template.php:867
+msgid "Maximum size: %s"
+msgstr "иң зур зурлыгы: %s"
+
+#: wp-admin/includes/template.php:872
+msgid "Upload file and import"
+msgstr "файлны җибәрү һәм кертү"
+
+#: wp-admin/themes.php:67
+msgid "Manage Themes"
+msgstr "Бизәлешләр белән идарә"
+
+#: wp-admin/includes/class-wp-screen.php:919
+msgid "Enable accessibility mode"
+msgstr "Включить режим специальных возможностей"
+
+#: wp-admin/includes/class-wp-screen.php:919
+msgid "Disable accessibility mode"
+msgstr "Отключить режим специальных возможностей"
+
+#. translators: 1: Post edited date, 2: Post edited time
+#: wp-admin/edit-form-advanced.php:646 wp-admin/includes/ajax-actions.php:2280
+msgid "Last edited on %1$s at %2$s"
+msgstr "Соңгы тапкыр %1$s көнне %2$s дә төзәтелгән."
+
+#: wp-admin/edit-link-form.php:105
+msgid "Example: <code>http://wordpress.org/</code> &#8212; don&#8217;t forget the <code>http://</code>"
+msgstr "мисал: <code>http://wordpress.org/</code> &#8212;, <code>http://</code> ны онытма"
+
+#: wp-admin/edit.php:273
+msgid "%s post updated."
+msgid_plural "%s posts updated."
+msgstr[0] "%s язымта үзгәртелде."
+
+#: wp-admin/includes/class-core-upgrader.php:33
+#: wp-admin/includes/class-plugin-upgrader.php:52
+#: wp-admin/includes/class-theme-upgrader.php:51
+msgid "Downloading update from <span class=\"code\">%s</span>&#8230;"
+msgstr "<span class=\"code\">%s</span> дән яңарту күчереп алып ятам&#8230;"
+
+#: wp-admin/includes/meta-boxes.php:184 wp-admin/includes/meta-boxes.php:194
+msgid "Publish <b>immediately</b>"
+msgstr "<b>Хәзер үк</b> нәшер итү"
+
+#: wp-admin/includes/ajax-actions.php:755
+msgid "Comment %d does not exist"
+msgstr "%d комменты юк"
+
+#: wp-admin/includes/taxonomy.php:116
+msgid "You did not enter a category name."
+msgstr "син бүлек исемен кертмәдең."
+
+#: wp-admin/includes/ajax-actions.php:1026
+msgid "Sorry, you must be logged in to reply to a comment."
+msgstr "кызганыч, комментарий языр өчен син танылып кергән булырга тиеш."
+
+#: wp-admin/includes/ajax-actions.php:1265
+#: wp-admin/includes/ajax-actions.php:1270
+#: wp-admin/includes/ajax-actions.php:1290
+msgid "Please provide a custom field value."
+msgstr "Пожалуйста, укажите значение произвольного поля."
+
+#. translators: draft saved date format, see https://secure.php.net/date
+#: wp-admin/includes/misc.php:885
+msgid "g:i:s a"
+msgstr "G:i:s"
+
+#. translators: %s: date and time
+#: wp-admin/includes/misc.php:887
+msgid "Draft saved at %s."
+msgstr "тәмамланмаган язма %s да саклатылды."
+
+#: wp-admin/includes/ajax-actions.php:1620
+msgid "Someone"
+msgstr "кемдер"
+
+#: wp-admin/includes/ajax-actions.php:1621
+msgid "Saving is disabled: %s is currently editing this page."
+msgstr "саклатылу сүндерелгән: %s хәзер бу битне үзгәртә."
+
+#: wp-admin/includes/ajax-actions.php:1621
+msgid "Saving is disabled: %s is currently editing this post."
+msgstr "саклатылу сүндерелгән: %s хәзер бу язымтаны үзгәртә."
+
+#: wp-admin/includes/ajax-actions.php:1727
+#: wp-admin/includes/ajax-actions.php:1732
+#: wp-admin/includes/edit-tag-messages.php:18
+msgid "Item not updated."
+msgstr "Әйбер үзгәртелмәде."
+
+#: wp-admin/includes/ajax-actions.php:1773
+#: wp-admin/includes/class-wp-posts-list-table.php:577
+#: wp-admin/includes/class-wp-posts-list-table.php:1414
+msgid "Date"
+msgstr "Даты"
+
+#: wp-admin/edit-form-comment.php:76 wp-admin/includes/ajax-actions.php:1773
+#: wp-admin/includes/class-wp-posts-list-table.php:1626
+msgid "Status"
+msgstr "хәл"
+
+#: wp-admin/includes/ajax-actions.php:1785
+#: wp-admin/includes/class-wp-posts-list-table.php:1000
+#: wp-admin/includes/class-wp-posts-list-table.php:1633
+#: wp-admin/includes/meta-boxes.php:88 wp-admin/includes/meta-boxes.php:112
+#: wp-admin/includes/template.php:1712
+msgid "Scheduled"
+msgstr "Планлаштырылган"
+
+#: wp-admin/admin.php:225
+msgid "Invalid plugin page"
+msgstr "дөрес түгел өстәмә бите"
+
+#: wp-admin/admin.php:228
+msgid "Cannot load %s."
+msgstr "%sне \"күтәр\"ә алмыйм."
+
+#: wp-admin/admin.php:285 wp-admin/import.php:18 wp-admin/menu.php:241
+msgid "Import"
+msgstr "кертү"
+
+#: wp-admin/comment.php:39 wp-admin/edit-form-comment.php:16
+#: wp-admin/includes/template.php:396
+msgid "Edit Comment"
+msgstr "Комментны төзәтү"
+
+#: wp-admin/comment.php:61 wp-admin/comment.php:255
+#: wp-admin/includes/post.php:1532
+msgid "Go back"
+msgstr "Кире кайту"
+
+#: wp-admin/comment.php:67
+msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
+msgstr "Бу коммент кәрҗиндә. аны төзәтәсең килсә аны аннан чыгар."
+
+#: wp-admin/comment.php:114
+msgid "You are about to mark the following comment as spam:"
+msgstr "Син киләсе комментны спам итеп тамгаламакчысың:"
+
+#: wp-admin/comment.php:118
+msgid "You are about to move the following comment to the Trash:"
+msgstr "син бу комментны чүплеккә атмакчы:"
+
+#: wp-admin/comment.php:122
+msgid "You are about to delete the following comment:"
+msgstr "Син бу комментны бетермәкчесең:"
