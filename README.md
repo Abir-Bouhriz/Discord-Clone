@@ -6,6 +6,9 @@
 ## Description
 This is a clone of Discord's homepage built using [Wordpress](https://wordpress.org/), it is configured to run on the [Pantheon platform](https://pantheon.io).
 
+## Live Demo
+[Discord-UI-Clone](https://dev-discordclonechallenge.pantheonsite.io/)
+
 ## ScreenShots:
 <img src="screenshots/1.png" />
 <img src="screenshots/2.png" />
