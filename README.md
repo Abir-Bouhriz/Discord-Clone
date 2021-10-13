@@ -1,7 +1,12 @@
-# WordPress
+# Discord-UI-Clone
 
-This is a WordPress repository configured to run on the [Pantheon platform](https://pantheon.io).
+![GitHub license](https://img.shields.io/github/license/Mohammed-Benotmane/Tower-Defense-Game.svg)
+![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
+## Description
+This is a clone of Discord's homepage built using [Wordpress](https://wordpress.org/), it is configured to run on the [Pantheon platform](https://pantheon.io).
+
+## What is Pantheon ?
 Pantheon is website platform optimized and configured to run high performance sites with an amazing developer workflow. There is built-in support for features such as Varnish, Redis, Apache Solr, New Relic, Nginx, PHP-FPM, MySQL, PhantomJS and more. 
 
 ## Getting Started
@@ -29,4 +34,10 @@ If you would like to keep a separate set of configuration for local development,
 ### 4. Enjoy!
 
 ![alt](http://i.imgur.com/fzIeQBP.png, '')
+
+## Contribution:
+Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue.
+
+## Team:
+[Jetlighters](https://github.com/JetLightStudio) having fun.
 
